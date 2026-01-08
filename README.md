@@ -12,6 +12,6 @@ The articles were first annotated using the ```english_web_core_trf``` spaCy pip
 
 Pre-trained model that was fine-tuned : https://huggingface.co/distilbert/distilbert-base-uncased 
 
-The model is then evaluated using a confusion matrix. The results are very encouraging.
+The results are very encouraging, with an accuracy of 0.898 and an F1-score macro avg of 0.823.
 <br></br>
 *Please note that much of the code used here is either inspired by or directly taken from Ms. Delphine Bernhard's Machine Learning course given at the Université de Strasbourg.*
