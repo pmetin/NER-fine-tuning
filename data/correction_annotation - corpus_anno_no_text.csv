@@ -1,0 +1,6608 @@
+index,expression,tag,correction,Erreur,correction_finale
+0,radio wale sport,ORG,,,ORG
+0,bbc sound,ORG,,,ORG
+0,bbccom,PRODUCT,,,PRODUCT
+0,bbc,ORG,,,ORG
+0,bbc podcasts radio 4,ORG,,,ORG
+0,the world service,ORG,,,ORG
+1,nicholas watt,PERSON,,,PERSON
+1,bbc newsnight,ORG,,,ORG
+1,nick,PERSON,,,PERSON
+1,bbc newsnight,ORG,,,ORG
+1,bbc,ORG,,,ORG
+2,bbc,ORG,,,ORG
+2,bbccom,ORG,PRODUCT,,PRODUCT
+2,bbc,ORG,,,ORG
+2,bbc podcasts radio 4,ORG,,,ORG
+2,the world service,ORG,,,ORG
+2,uk,GPE,,,GPE
+3,b corp,ORG,,,ORG
+5,jess fishlock,PERSON,,,PERSON
+5,wale,ORG,NULL,,NULL
+5,australia,GPE,,,GPE
+5,wale voir,PERSON,NULL,,NULL
+6,mexican,NORP,,,NORP
+6,hilario hernández,PERSON,,,PERSON
+6,vatican,FAC,GPE,,GPE
+6,benedict xvi,PERSON,,,PERSON
+6,hernández,PERSON,,,PERSON
+6,mexican,NORP,,,NORP
+6,hernándezs,PERSON,,,PERSON
+6,metepec,GPE,,,GPE
+6,mexico city,GPE,,,GPE
+6,biblical,NORP,NULL,,NULL
+6,adam,PERSON,,,PERSON
+6,eve,PERSON,,,PERSON
+6,carolina ramírez,PERSON,,,PERSON
+6,metepecs clay museum,ORG,,,ORG
+6,mexico,GPE,,,GPE
+6,adam,PERSON,,,PERSON
+6,eve,PERSON,,,PERSON
+6,mexicos day of the dead,EVENT,,,EVENT
+6,xoloitzcuintle,PERSON,NULL,,NULL
+6,nahua,NORP,NULL,,NULL
+6,ramírez,PERSON,,,PERSON
+6,hernándezs,PERSON,,,PERSON
+6,metepec,GPE,,,GPE
+6,felipe,PERSON,,,PERSON
+6,hilario,PERSON,,,PERSON
+6,hilario,PERSON,,,PERSON
+6,luis,PERSON,,,PERSON
+6,cecilio sánchez,PERSON,,,PERSON
+6,hilario,PERSON,,,PERSON
+6,mexico,GPE,,,GPE
+6,metepecs,PERSON,,,PERSON
+6,spanish,NORP,,,NORP
+6,ramírez,PERSON,,,PERSON
+6,metepec,PERSON,,,PERSON
+6,tlanchana,PERSON,,,PERSON
+6,halfserpent,NORP,NULL,,NULL
+6,ramírez,PERSON,,,PERSON
+6,tlanchana,NORP,,,NORP
+6,hernándezs,PERSON,,,PERSON
+6,catholic,NORP,,,NORP
+6,hilario,PERSON,,,PERSON
+6,vatican,FAC,GPE,,GPE
+6,francis,PERSON,,,PERSON
+6,mexico,GPE,,,GPE
+6,hilario,PERSON,,,PERSON
+6,francis,PERSON,,,PERSON
+6,benedict,PERSON,,,PERSON
+6,chapel,FAC,NULL,,NULL
+6,mexicos presidential palace,FAC,,,FAC
+6,god,PERSON,,,PERSON
+6,aps,ORG,,,ORG
+6,lilly endowment inc,ORG,,,ORG
+6,ap,ORG,,,ORG
+6,filipino,NORP,,,NORP
+6,us,GPE,,,GPE
+6,mexico,GPE,,,GPE
+6,taylor swift,PERSON,,,PERSON
+6,easter egg,EVENT,,,EVENT
+6,sea otter,LOC,NULL,,NULL
+6,gaza,GPE,,,GPE
+6,ceasefire,EVENT,,,EVENT
+6,rachel reeves,PERSON,,,PERSON
+6,motability,ORG,,,ORG
+6,london uk,GPE,,,GPE
+7,joseph parker,PERSON,,,PERSON
+7,fabio wardley,PERSON,,,PERSON
+7,oleksandr usyk,PERSON,,,PERSON
+7,the o2 arena,FAC,,,FAC
+7,london,GPE,,,GPE
+7,parker,PERSON,,,PERSON
+7,wbo,ORG,,,ORG
+7,wardley,PERSON,,,PERSON
+7,new zealand,GPE,,,GPE
+7,parker,PERSON,,,PERSON
+7,usyk,PERSON,,,PERSON
+7,ukrainian,NORP,,,NORP
+7,parker,PERSON,,,PERSON
+7,kiwi,NORP,,,NORP
+7,ipswich,NORP,GPE,,GPE
+7,wardley,PERSON,,,PERSON
+7,parker,PERSON,,,PERSON
+7,the english capital,GPE,,,GPE
+7,parker,PERSON,,,PERSON
+7,martin bakole,PERSON,,,PERSON
+7,daniel dubois,PERSON,,,PERSON
+7,parker,PERSON,,,PERSON
+7,ibf,ORG,,,ORG
+7,wardley,PERSON,,,PERSON
+7,justis huni,PERSON,,,PERSON
+7,the ipswich town fc stadium,FAC,,,FAC
+7,wardley,PERSON,,,PERSON
+7,oneshot,PERSON,NULL,,NULL
+7,usyk,PERSON,,,PERSON
+7,moses itauma,PERSON,,,PERSON
+7,parker,PERSON,,,PERSON
+7,wardley,PERSON,,,PERSON
+7,the o2 arena,FAC,,,FAC
+7,london,GPE,,,GPE
+7,parker,PERSON,,,PERSON
+7,wardley,PERSON,,,PERSON
+7,dazn payperview,ORG,,,ORG
+7,2499,PRODUCT,NULL,,NULL
+7,payperview,ORG,,,ORG
+7,dazn,ORG,,,ORG
+7,parker,PERSON,,,PERSON
+7,wardley,PERSON,,,PERSON
+7,betway,ORG,,,ORG
+7,c,ORG,NULL,,NULL
+7,joseph parker,PERSON,,,PERSON
+7,fabio wardley,PERSON,,,PERSON
+7,wbo,ORG,,,ORG
+7,lewis edmondson,PERSON,,,PERSON
+7,ezra taylor,PERSON,,,PERSON
+7,juergen uldedaj,PERSON,,,PERSON
+7,rolly lambert fogoum,PERSON,,,PERSON
+7,danny quartermaine,PERSON,,,PERSON
+7,royston,PERSON,,,PERSON
+7,barneysmith,PERSON,,,PERSON
+7,mitchell smith,PERSON,,,PERSON
+7,arnie dawson,PERSON,,,PERSON
+7,independent,ORG,,,ORG
+7,joseph parker,PERSON,,,PERSON
+7,moses itauma,PERSON,,,PERSON
+7,fabio wardley,PERSON,,,PERSON
+7,fabio wardley,PERSON,,,PERSON
+7,moses itauma,PERSON,,,PERSON
+7,moses itauma,PERSON,,,PERSON
+7,oleksandr usyk,PERSON,,,PERSON
+7,moses itauma,PERSON,,,PERSON
+7,kubrat pulev,PERSON,,,PERSON
+7,london uk,GPE,,,GPE
+8,station,ORG,NULL,,NULL
+8,hbr,ORG,,,ORG
+8,south yorkshire,GPE,,,GPE
+8,hull,ORG,GPE,,GPE
+8,station,ORG,NULL,,NULL
+9,the plantbase revolution,EVENT,,,EVENT
+9,kefir,PRODUCT,,,PRODUCT
+9,maladie,PERSON,NULL,,NULL
+9,wellbee,PERSON,,,PERSON
+9,kefir,PERSON,PRODUCT,,PRODUCT
+9,kefir,PERSON,PRODUCT,,PRODUCT
+9,megan rossi,PERSON,,,PERSON
+9,dr rossi,PERSON,,,PERSON
+9,stanford university,ORG,,,ORG
+9,no bryan johnson,PERSON,,,PERSON
+9,kefir,PRODUCT,,,PRODUCT
+9,kefir,PRODUCT,,,PRODUCT
+9,rossi,PERSON,,,PERSON
+9,kefir,PRODUCT,,,PRODUCT
+9,kefir kombucha yogurt,PRODUCT,,,PRODUCT
+9,rossi,PERSON,,,PERSON
+9,rossi,PERSON,,,PERSON
+9,biotiful,ORG,,,ORG
+9,biome,ORG,NULL,,NULL
+9,the good gut health drink,PRODUCT,,,PRODUCT
+9,rossi,PERSON,,,PERSON
+9,kefir,PRODUCT,,,PRODUCT
+9,the national library of medicine,ORG,,,ORG
+9,kefir,PERSON,PRODUCT,,PRODUCT
+9,kefir,PRODUCT,,,PRODUCT
+9,maca powder,PRODUCT,,,PRODUCT
+9,kefir,PRODUCT,,,PRODUCT
+9,london uk,GPE,,,GPE
+10,indepth,ORG,NULL,,NULL
+10,govern body,ORG,,,ORG
+10,uk,GPE,,,GPE
+10,the uk gambling commission,ORG,,,ORG
+10,sky vegas,GPE,,,GPE
+10,uk,GPE,,,GPE
+10,sky vegas,ORG,,,ORG
+10,sky vegass,ORG,,,ORG
+10,vegas,PERSON,GPE,,GPE
+10,ukgc,ORG,,,ORG
+10,vegas,PERSON,GPE,,GPE
+10,vegas,NORP,GPE,,GPE
+10,the wheel of vegas exist,EVENT,NULL,,NULL
+10,rainbow friday,EVENT,,,EVENT
+10,the wheel of vegas,FAC,,,FAC
+10,vegas,GPE,,,GPE
+10,betfair casino exchange,ORG,,,ORG
+10,grosvenor casino,ORG,,,ORG
+10,ukgc,ORG,,,ORG
+10,grosvenor casino,ORG,,,ORG
+10,grosvenor,ORG,NULL,,NULL
+10,grosvenor casino,ORG,,,ORG
+10,freetoplay,PRODUCT,,,PRODUCT
+10,hilo,PRODUCT,GPE,,GPE
+10,blackjackinspire,PRODUCT,,,PRODUCT
+10,uk,GPE,,,GPE
+10,blackjack ladbroke,ORG,,,ORG
+10,ladbroke casino,ORG,,,ORG
+10,blackjack,ORG,NULL,,NULL
+10,blackjack table,ORG,NULL,,NULL
+10,ladbroke bet,ORG,EVENT,,EVENT
+10,ladbroke,ORG,,,ORG
+10,ladbroke,ORG,,,ORG
+10,las vegas,GPE,,,GPE
+10,betmgm,ORG,,,ORG
+10,vegas casino,ORG,,,ORG
+10,millions,PRODUCT,NULL,,NULL
+10,10,PRODUCT,NULL,,NULL
+10,betmgm casino,ORG,,,ORG
+10,vip table,ORG,NULL,,NULL
+10,virgin games,PRODUCT,,,PRODUCT
+10,virgin games,PRODUCT,,,PRODUCT
+10,io,PRODUCT,NULL,,NULL
+10,android,PRODUCT,,,PRODUCT
+10,virgin game,PRODUCT,,,PRODUCT
+10,the virgin vault,ORG,NULL,,NULL
+10,virgin,PRODUCT,ORG,,ORG
+10,quickbet casino,ORG,,,ORG
+10,quickbet,ORG,,,ORG
+10,quickbet,ORG,,,ORG
+10,mecca bingo,ORG,,,ORG
+10,mecca bingo,ORG,,,ORG
+10,uk,GPE,,,GPE
+10,mecca,ORG,,,ORG
+10,mecca,ORG,,,ORG
+10,pokerstar rating,ORG,NULL,,NULL
+10,pokerstar,ORG,,,ORG
+10,pokerstar,ORG,,,ORG
+10,pokerstar learn,ORG,,,ORG
+10,pokerstar,ORG,,,ORG
+10,pokerstar,ORG,,,ORG
+10,ukgc,ORG,,,ORG
+10,ecogra,ORG,,,ORG
+10,so,ORG,NULL,,NULL
+10,the good casino site,ORG,NULL,,NULL
+10,a good apple pay casino,ORG,NULL,,NULL
+10,ukgc,ORG,,,ORG
+10,paypal,ORG,,,ORG
+10,uk,GPE,,,GPE
+10,paypal,ORG,,,ORG
+10,paypal,ORG,,,ORG
+10,ewallet,ORG,,,ORG
+10,paypal,ORG,,,ORG
+10,ewallet,ORG,,,ORG
+10,skrill casino,ORG,,,ORG
+10,neteller casino,ORG,,,ORG
+10,uk,GPE,,,GPE
+10,vip,ORG,NULL,,NULL
+10,apple,PRODUCT,ORG,,ORG
+10,google pay,PRODUCT,,,PRODUCT
+10,google pay,PRODUCT,,,PRODUCT
+10,apple pay casino,ORG,NULL,,NULL
+10,mobile player,ORG,NULL,,NULL
+10,android,PRODUCT,,,PRODUCT
+10,apple,PRODUCT,,,PRODUCT
+10,mobile,ORG,NULL,,NULL
+10,mobile casino,ORG,,,ORG
+10,trustly,ORG,,,ORG
+10,uk,GPE,,,GPE
+10,uk casino,ORG,NULL,,NULL
+10,the good casino site,ORG,NULL,,NULL
+10,ukgcs,ORG,,,ORG
+10,the good casino site,ORG,NULL,,NULL
+10,anonymous gamstop,PERSON,,,PERSON
+10,the good casino site,ORG,NULL,,NULL
+10,the good online casino,ORG,NULL,,NULL
+10,the good online casino uk site,ORG,NULL,,NULL
+10,the good casino app,ORG,NULL,,NULL
+10,ukgc,ORG,,,ORG
+10,harm,PERSON,NULL,,NULL
+10,uk,GPE,,,GPE
+10,vegas,LOC,,,LOC
+10,uk,GPE,,,GPE
+10,the uk gambling commission,ORG,,,ORG
+10,bet365,ORG,,,ORG
+10,coral ladbroke,PERSON,,,PERSON
+10,playojo,ORG,,,ORG
+10,uk casino,ORG,,,ORG
+10,pokerstar,ORG,,,ORG
+10,vegas,ORG,,,ORG
+10,mobile,PRODUCT,NULL,,NULL
+10,virgin game,ORG,,,ORG
+10,ladbroke,ORG,,,ORG
+10,mobile,PRODUCT,NULL,,NULL
+10,mobile,PRODUCT,NULL,,NULL
+10,paypal,ORG,,,ORG
+10,apple,ORG,,,ORG
+10,skrill,ORG,,,ORG
+10,neteller,ORG,,,ORG
+10,paypal,ORG,,,ORG
+10,ewallet,ORG,,,ORG
+10,coral casino,ORG,,,ORG
+10,mobile casino,ORG,,,ORG
+10,proscon,ORG,,,ORG
+10,proscon,ORG,,,ORG
+10,proscon,ORG,,,ORG
+10,uk,GPE,,,GPE
+10,proscon,ORG,,,ORG
+10,proscon,ORG,,,ORG
+10,proscon,ORG,,,ORG
+10,tote casino,ORG,,,ORG
+10,uk,GPE,,,GPE
+10,tote casino,ORG,,,ORG
+10,playn go netent,PRODUCT,NULL,,NULL
+10,megaway,ORG,,,ORG
+10,london uk,GPE,,,GPE
+11,amy thompson,PERSON,,,PERSON
+13,african,NORP,,,NORP
+13,caribbean,NORP,,,NORP
+13,sile sibanda,PERSON,,,PERSON
+13,bbc radio,ORG,,,ORG
+13,sheffield,GPE,,,GPE
+13,bbc radio,ORG,,,ORG
+13,york,GPE,,,GPE
+13,bbc radio,ORG,,,ORG
+13,leed,ORG,GPE,,GPE
+13,bbc radio,ORG,,,ORG
+13,lincolnshire,GPE,,,GPE
+13,bbc,ORG,,,ORG
+14,afghanistan,GPE,,,GPE
+14,bangladesh,GPE,,,GPE
+14,afghanistan,GPE,,,GPE
+14,bangladesh,GPE,,,GPE
+14,the icc test championship,EVENT,,,EVENT
+14,twoteam,ORG,,,ORG
+14,new zealand,GPE,,,GPE
+14,india,GPE,,,GPE
+14,the 50over world cup,EVENT,,,EVENT
+14,australia,GPE,,,GPE
+14,england,GPE,,,GPE
+14,ben stokesinspire,ORG,,,ORG
+14,new zealand,GPE,,,GPE
+14,australia,GPE,,,GPE
+14,afghanistan,GPE,,,GPE
+14,bangladesh,GPE,,,GPE
+14,afghanistan,GPE,,,GPE
+14,bangladesh,GPE,,,GPE
+14,afghanistan,GPE,,,GPE
+14,bangladesh,GPE,,,GPE
+14,uae 2025,EVENT,,,EVENT
+14,the icc test championship,EVENT,,,EVENT
+14,twoteam,ORG,,,ORG
+14,new zealand,GPE,,,GPE
+14,india,GPE,,,GPE
+14,the 50over world cup,EVENT,,,EVENT
+14,australia,GPE,,,GPE
+14,england,GPE,,,GPE
+14,ben stokesinspire,ORG,,,ORG
+14,new zealand,GPE,,,GPE
+14,australia,GPE,,,GPE
+14,london uk,GPE,,,GPE
+15,hawaii,GPE,,,GPE
+15,the american express,ORG,,,ORG
+16,bbc,ORG,,,ORG
+16,london,GPE,,,GPE
+16,england,GPE,,,GPE
+16,kieron conway,PERSON,,,PERSON
+16,george liddard,PERSON,,,PERSON
+16,british,GPE,,,GPE
+17,the us coast guard,ORG,,,ORG
+17,alaska,GPE,,,GPE
+18,bbc,ORG,,,ORG
+18,bbccom,ORG,PRODUCT,,PRODUCT
+18,bbc,ORG,,,ORG
+18,bbc podcasts radio 4,ORG,,,ORG
+18,the world service,ORG,,,ORG
+18,uk,GPE,,,GPE
+19,bbc,ORG,,,ORG
+19,bbccom,ORG,PRODUCT,,PRODUCT
+19,bbc,ORG,,,ORG
+19,bbc podcasts radio 4,ORG,,,ORG
+19,the world service,ORG,,,ORG
+19,uk,GPE,,,GPE
+20,african,NORP,,,NORP
+20,zimbabwe,GPE,,,GPE
+20,nhanga,FAC,NULL,,NULL
+20,nhanga,GPE,NULL,,NULL
+20,zimbabwe,GPE,,,GPE
+20,southern african,NORP,,,NORP
+20,anita razo,PERSON,,,PERSON
+20,traditional homestead,FAC,NULL,,NULL
+20,nhanga,FAC,NULL,,NULL
+20,nhanga,FAC,NULL,,NULL
+20,nokutenda magama,PERSON,,,PERSON
+20,rozaria memorial trust,ORG,,,ORG
+20,nhanga,ORG,NULL,,NULL
+20,zimbabwe,GPE,,,GPE
+20,marrie,PERSON,NULL,,NULL
+20,the united nations children fund,ORG,,,ORG
+20,east and southern africa,LOC,,,LOC
+20,west africa,LOC,,,LOC
+20,niger,GPE,,,GPE
+20,at,GPE,NULL,,NULL
+20,unicef,ORG,,,ORG
+20,zimbabwe,GPE,,,GPE
+20,african,NORP,,,NORP
+20,samantha chidodo,PERSON,,,PERSON
+20,rozaria memorial trust,ORG,,,ORG
+20,nhanga,GPE,NULL,,NULL
+20,nhanga,GPE,NULL,,NULL
+20,zimbabwe,GPE,,,GPE
+20,zambia,GPE,,,GPE
+20,sierra leone,GPE,,,GPE
+20,african union and united nations forum,ORG,,,ORG
+20,xmas savanhu,PERSON,NULL,,NULL
+20,ngo,ORG,NULL,,NULL
+20,enet tini,PERSON,,,PERSON
+20,girlsle,ORG,NULL,,NULL
+20,nyaradzai gumbonzvanda,PERSON,,,PERSON
+20,un woman,ORG,,,ORG
+20,the rozaria memorial trust,ORG,,,ORG
+20,africa,LOC,,,LOC
+20,gumbonzvanda,PERSON,,,PERSON
+20,rozaria memorial trust,ORG,,,ORG
+20,razo,PERSON,NULL,,NULL
+20,razo,PERSON,NULL,,NULL
+20,trump,ORG,PERSON,,PERSON
+20,california,GPE,,,GPE
+20,center human need,ORG,NULL,,NULL
+20,south africa,GPE,,,GPE
+20,south africa,GPE,,,GPE
+20,world cup,EVENT,,,EVENT
+20,madagascar,GPE,,,GPE
+20,madagascar,GPE,,,GPE
+20,london uk,GPE,,,GPE
+21,holly clarke,PERSON,,,PERSON
+21,uk,GPE,,,GPE
+21,uk,GPE,,,GPE
+21,uk,GPE,,,GPE
+21,allwyn,ORG,,,ORG
+21,andy carter,PERSON,,,PERSON
+21,allwyn operator,ORG,,,ORG
+21,the national lottery,ORG,,,ORG
+21,the national lottery,EVENT,ORG,,ORG
+21,matthew horwoodgetty,PERSON,,,PERSON
+22,brasilia,GPE,,,GPE
+22,brazil,GPE,,,GPE
+22,brazilian,NORP,,,NORP
+22,atletico mineiro,ORG,,,ORG
+22,palmeira,GPE,,,GPE
+23,the alaskan coast,LOC,,,LOC
+23,typhoon halong,EVENT,,,EVENT
+23,lowlye alaska,GPE,NULL,,NULL
+23,anchorage,GPE,,,GPE
+23,the coast guard,ORG,,,ORG
+23,sea hundred,LOC,NULL,,NULL
+23,western alaska,LOC,,,LOC
+23,the national guard,FAC,ORG,,ORG
+23,bethel,GPE,NULL,,NULL
+23,a,GPE,NULL,,NULL
+23,fairbank,GPE,,,GPE
+23,anchorage,GPE,,,GPE
+23,kipnuk,GPE,,,GPE
+23,kwigillingok,GPE,,,GPE
+23,kipnuk,GPE,,,GPE
+23,mark roberts,PERSON,,,PERSON
+23,the state emergency management division,ORG,,,ORG
+23,bethel,GPE,NULL,,NULL
+23,brea paul,PERSON,,,PERSON
+23,kipnuk,GPE,,,GPE
+23,paul,PERSON,,,PERSON
+23,paul,PERSON,,,PERSON
+23,kwigillingok,GPE,,,GPE
+23,the emergency management office,ORG,,,ORG
+23,napakiak,GPE,,,GPE
+23,toksook bay,LOC,,,LOC
+23,nightmute,GPE,,,GPE
+23,the national guard,ORG,,,ORG
+23,alaska,GPE,,,GPE
+23,rick thoman,PERSON,,,PERSON
+23,alaska,GPE,,,GPE
+23,the university of alaska fairbank,ORG,,,ORG
+23,thoman,PERSON,,,PERSON
+23,the pacific ocean,LOC,,,LOC
+23,alaska,GPE,,,GPE
+23,johnson,PERSON,,,PERSON
+23,attanasio,PERSON,,,PERSON
+23,seattle,GPE,,,GPE
+23,alaska,GPE,,,GPE
+23,typhoon halong,EVENT,,,EVENT
+23,trump,PERSON,,,PERSON
+23,cable news,ORG,,,ORG
+23,trump,PERSON,,,PERSON
+23,democratic,NORP,,,NORP
+23,newsom,PERSON,,,PERSON
+23,california,GPE,,,GPE
+23,gordon ramsay,PERSON,,,PERSON
+23,london,GPE,,,GPE
+23,uk,GPE,,,GPE
+23,85000,PRODUCT,NULL,,NULL
+23,ukraine,GPE,,,GPE
+23,russian,NORP,,,NORP
+23,david amess,PERSON,,,PERSON
+23,cet,PERSON,NULL,,NULL
+23,london uk,GPE,,,GPE
+24,oregon state,ORG,GPE,,GPE
+24,trent bray,PERSON,,,PERSON
+24,robb akey,PERSON,,,PERSON
+25,oxford england,GPE,,,GPE
+25,prnewswire,GPE,ORG,,ORG
+25,modern alchemy,ORG,NULL,,NULL
+26,prnewswire,ORG,,,ORG
+27,london,GPE,,,GPE
+27,prnewswire,ORG,,,ORG
+27,washington,GPE,,,GPE
+27,aevi,ORG,NULL,,NULL
+28,park city,GPE,,,GPE
+28,utah,GPE,,,GPE
+28,prnewswire,ORG,,,ORG
+28,blue clay health,ORG,,,ORG
+28,coordinated care,ORG,NULL,,NULL
+29,fairfield,GPE,,,GPE
+29,prnewswire,ORG,,,ORG
+29,as,ORG,NULL,,NULL
+29,solano county,GPE,,,GPE
+29,ifpte local,ORG,,,ORG
+29,iuoe,ORG,,,ORG
+29,stationary engineer,ORG,NULL,,NULL
+30,mansfield park,FAC,,,FAC
+30,jane austen,PERSON,,,PERSON
+30,fanny,PERSON,,,PERSON
+30,mansfield parsonage,FAC,,,FAC
+30,jane,PERSON,,,PERSON
+30,hampshire,GPE,,,GPE
+30,steventon,GPE,,,GPE
+30,jane,PERSON,,,PERSON
+30,chawton,GPE,,,GPE
+30,jane,PERSON,,,PERSON
+30,jane austen,PERSON,,,PERSON
+30,godmersham park,FAC,,,FAC
+30,kent,GPE,,,GPE
+30,janes,PERSON,,,PERSON
+30,edward,PERSON,,,PERSON
+30,mansfield park,FAC,,,FAC
+30,edward,PERSON,,,PERSON
+30,knight,PERSON,,,PERSON
+30,godmersham,GPE,,,GPE
+30,edwards,PERSON,,,PERSON
+30,edward,PERSON,,,PERSON
+30,godmersham park,FAC,,,FAC
+30,fanny price,PERSON,,,PERSON
+30,thomas bertram,PERSON,,,PERSON
+30,mansfield park,FAC,,,FAC
+30,jane austen,PERSON,,,PERSON
+30,edward,PERSON,,,PERSON
+30,jane,PERSON,,,PERSON
+30,cassandra,PERSON,,,PERSON
+30,fanny price,PERSON,,,PERSON
+30,norris,PERSON,,,PERSON
+30,mansfield park,FAC,,,FAC
+30,transatlantic,NORP,NULL,,NULL
+30,mansfield,PERSON,NULL,,NULL
+30,mansfield park,FAC,,,FAC
+30,mansfield park,FAC,,,FAC
+30,henry crawford,PERSON,,,PERSON
+30,portsmouth,GPE,,,GPE
+30,mansfield park,FAC,,,FAC
+30,austen,PERSON,,,PERSON
+30,mansfield park,FAC,,,FAC
+30,fanny,PERSON,,,PERSON
+30,mansfield park,GPE,,,GPE
+30,fanny,PERSON,,,PERSON
+30,edmund,PERSON,,,PERSON
+30,fanny,PERSON,,,PERSON
+30,jane austen,PERSON,,,PERSON
+30,mansfield park,FAC,,,FAC
+30,fanny,PERSON,,,PERSON
+30,edmund,PERSON,,,PERSON
+30,mansfield parsonage,FAC,,,FAC
+30,fanny,PERSON,,,PERSON
+30,austen,PERSON,,,PERSON
+30,fanny,PERSON,,,PERSON
+30,jane austen,PERSON,,,PERSON
+30,lucy worsley,PERSON,,,PERSON
+30,jane austen,PERSON,,,PERSON
+30,austen,PERSON,,,PERSON
+30,fanny marriage,PERSON,,,PERSON
+31,penguin press,ORG,,,ORG
+31,jape,PERSON,,,PERSON
+31,thomas pynchon,PERSON,,,PERSON
+31,milwaukee,GPE,,,GPE
+31,hick mctaggart,PERSON,,,PERSON
+31,shadow ticket,ORG,,,ORG
+31,pronto,PERSON,,,PERSON
+31,joe keaney,PERSON,,,PERSON
+31,manchester,GPE,,,GPE
+32,scottish,NORP,,,NORP
+32,suburban aberdeen,GPE,,,GPE
+32,saltire,GPE,,,GPE
+32,scottish,NORP,,,NORP
+32,scottish,NORP,,,NORP
+32,union,ORG,NULL,,NULL
+32,uk,GPE,,,GPE
+32,uks,GPE,,,GPE
+32,south of the border,LOC,,,LOC
+32,unionist,NORP,,,NORP
+32,scotland,GPE,,,GPE
+32,snp,ORG,,,ORG
+32,holyrood,GPE,,,GPE
+32,nigel farage party,ORG,,,ORG
+32,scotland,GPE,,,GPE
+32,scottish,NORP,,,NORP
+32,snp,ORG,,,ORG
+32,john swinney,PERSON,,,PERSON
+32,partys,ORG,,,ORG
+32,scotland,GPE,,,GPE
+32,uk,GPE,,,GPE
+32,party,ORG,,,ORG
+32,edinburgh,GPE,,,GPE
+32,swinney,PERSON,,,PERSON
+32,norstat,ORG,,,ORG
+32,snp,ORG,,,ORG
+32,holyrood,EVENT,,,EVENT
+32,independence,ORG,,,ORG
+32,snp,ORG,,,ORG
+32,uk,GPE,,,GPE
+32,scottish,NORP,,,NORP
+32,ana sarwar,PERSON,,,PERSON
+32,snps,ORG,,,ORG
+32,labour party,ORG,NORP,,NORP
+32,the labour government,ORG,,,ORG
+32,john curtice,PERSON,,,PERSON
+32,strathclyde university,ORG,,,ORG
+32,scottish,NORP,,,NORP
+32,westminster,GPE,,,GPE
+32,snp,ORG,,,ORG
+32,the health service,ORG,,,ORG
+32,curtice,PERSON,,,PERSON
+32,swinney,PERSON,,,PERSON
+32,party,ORG,,,ORG
+32,snp,ORG,,,ORG
+32,uk,GPE,,,GPE
+32,brexit,EVENT,,,EVENT
+32,scotland,GPE,,,GPE
+32,westminster,GPE,,,GPE
+32,internal party,ORG,,,ORG
+32,james mitchell,PERSON,,,PERSON
+32,edinburgh university,ORG,,,ORG
+32,swinney,GPE,PERSON,,PERSON
+32,westminster,GPE,,,GPE
+32,snp,ORG,,,ORG
+32,snp,ORG,,,ORG
+32,swinney,NORP,PERSON,,PERSON
+32,snp,ORG,,,ORG
+32,swinney,GPE,PERSON,,PERSON
+32,scotland,GPE,,,GPE
+32,uk,GPE,,,GPE
+32,eu,ORG,,,ORG
+32,swinney,PERSON,,,PERSON
+32,unionist,NORP,,,NORP
+32,europe,LOC,,,LOC
+32,critic,PERSON,,,PERSON
+32,partys,NORP,,,NORP
+32,kenny macaskill,PERSON,,,PERSON
+32,nationalist party,ORG,,,ORG
+32,alba,ORG,,,ORG
+32,eu,ORG,,,ORG
+32,scotland,GPE,,,GPE
+32,northern ireland,GPE,,,GPE
+32,scotland,GPE,,,GPE
+32,scottish,NORP,,,NORP
+32,swinney,GPE,PERSON,,PERSON
+32,scotland,GPE,,,GPE
+32,scotland,GPE,,,GPE
+32,uk,GPE,,,GPE
+32,southeast england,GPE,LOC,,LOC
+32,scotland,GPE,,,GPE
+32,independence,ORG,NULL,,NULL
+32,sam taylor,PERSON,,,PERSON
+32,these island,GPE,NULL,,NULL
+32,duck,PERSON,NULL,,NULL
+32,labour party,ORG,NORP,,NORP
+32,john curtice,PERSON,,,PERSON
+32,swinney,ORG,PERSON,,PERSON
+32,norstat,ORG,,,ORG
+33,torecupboard,ORG,NULL,,NULL
+33,emiko davy,PERSON,,,PERSON
+33,japanese,NORP,,,NORP
+33,smith street book,ORG,,,ORG
+33,us,GPE,,,GPE
+33,sake,PERSON,,,PERSON
+33,davie,PERSON,,,PERSON
+33,harriet fitch,PERSON,,,PERSON
+33,little,PERSON,,,PERSON
+33,davy,PERSON,,,PERSON
+33,davy,PERSON,,,PERSON
+33,japonica,NORP,,,NORP
+33,emiko,PERSON,,,PERSON
+33,japanese,NORP,,,NORP
+34,indonesian,NORP,,,NORP
+34,australian,NORP,,,NORP
+34,israeli,NORP,,,NORP
+34,japanese,NORP,,,NORP
+34,brazilian,NORP,,,NORP
+34,canadian,NORP,,,NORP
+34,malaysian,NORP,,,NORP
+34,new zealand,GPE,,,GPE
+34,rican,NORP,,,NORP
+34,norwegian,NORP,,,NORP
+34,pakistani,NORP,,,NORP
+34,danish,NORP,,,NORP
+34,egyptian,NORP,,,NORP
+34,hong kong,GPE,,,GPE
+34,hungarian,NORP,,,NORP
+34,romanian,NORP,,,NORP
+34,indian,NORP,,,NORP
+34,russian,NORP,,,NORP
+34,saudi,NORP,,,NORP
+34,singapore,GPE,,,GPE
+34,south african,NORP,,,NORP
+34,south korean,NORP,,,NORP
+34,swedish,NORP,,,NORP
+35,ireland,GPE,,,GPE
+35,remarkable tree,PERSON,NULL,,NULL
+35,irish,NORP,,,NORP
+35,thomas pakenham,PERSON,,,PERSON
+35,ireland,GPE,,,GPE
+35,avenue,FAC,NULL,,NULL
+35,irish,NORP,,,NORP
+35,carlow,GPE,,,GPE
+35,altamont,FAC,NULL,,NULL
+35,tullow,GPE,,,GPE
+35,corona north,PERSON,FAC,,FAC
+35,lecky watson,PERSON,,,PERSON
+35,himalayas,LOC,,,LOC
+35,corona,PERSON,FAC,,FAC
+35,royal ascot,FAC,EVENT,,EVENT
+35,lecky watson,PERSON,,,PERSON
+35,altamont,PERSON,,,PERSON
+35,aidan obrien,PERSON,,,PERSON
+35,the carlow garden festival,EVENT,,,EVENT
+35,huntington castle,FAC,,,FAC
+35,clonegal,GPE,,,GPE
+35,elizabeth I,PERSON,,,PERSON
+35,cromwell,GPE,PERSON,,PERSON
+35,the carriage drive,FAC,,,FAC
+35,european,NORP,,,NORP
+35,main huntington castle county carlow,FAC,,,FAC
+35,elizabeth I,FAC,PERSON,,PERSON
+35,cromwell,GPE,PERSON,,PERSON
+35,irish,NORP,,,NORP
+35,the avenue of linden tree,FAC,,,FAC
+35,france,GPE,,,GPE
+35,netherlands,LOC,,,LOC
+35,zwarte linde,FAC,NULL,,NULL
+35,a green castle,FAC,NULL,,NULL
+35,france,GPE,,,GPE
+35,catholic,NORP,,,NORP
+35,netherlands,LOC,,,LOC
+35,calvinist protestant,NORP,,,NORP
+35,irish,NORP,,,NORP
+35,alexander durdin robertson,PERSON,,,PERSON
+35,clare,PERSON,,,PERSON
+35,ireland,GPE,,,GPE
+35,sinogrande prince,PERSON,NULL,,NULL
+35,the irish guard,ORG,,,ORG
+35,london,GPE,,,GPE
+35,irish,NORP,,,NORP
+35,stanley kubrick,PERSON,,,PERSON
+35,barry lyndon,PERSON,,,PERSON
+35,barry,PERSON,,,PERSON
+35,linden tree,GPE,NULL,,NULL
+35,lyndon,GPE,,,GPE
+35,robertson,PERSON,,,PERSON
+35,kubrick,PERSON,,,PERSON
+35,irish,NORP,,,NORP
+35,the fellowship of isis,ORG,,,ORG
+35,huntington,FAC,,,FAC
+35,ireland,GPE,,,GPE
+35,william butler yeat,PERSON,,,PERSON
+35,bricabrac,PERSON,NULL,,NULL
+35,egyptian,NORP,,,NORP
+35,buddhist,NORP,,,NORP
+35,christian,NORP,,,NORP
+35,garden,GPE,,,GPE
+35,lawrence durdin robertson,PERSON,,,PERSON
+35,anglican,NORP,,,NORP
+35,olivia,PERSON,,,PERSON
+35,olivia word,PERSON,,,PERSON
+35,earth,LOC,,,LOC
+35,irish,NORP,,,NORP
+36,palestinians,NORP,,,NORP
+36,israel,GPE,,,GPE
+36,hamas,GPE,NORP,,NORP
+36,idf,ORG,NORP,,NORP
+39,hamas,GPE,NORP,,NORP
+39,israel aid agency,ORG,,,ORG
+40,jill lepore,PERSON,,,PERSON
+40,the supreme court,ORG,,,ORG
+40,harlan ullman,PERSON,,,PERSON
+40,washington dc,GPE,,,GPE
+41,edwin heathcote,PERSON,,,PERSON
+41,london central school of art and design,ORG,,,ORG
+41,victor papanek,PERSON,,,PERSON
+41,victor poppycock,PERSON,,,PERSON
+41,leica m,PRODUCT,NULL,,NULL
+41,apple,ORG,,,ORG
+41,jony I,PERSON,,,PERSON
+41,heathcote,PERSON,,,PERSON
+41,hardin tibbs,PERSON,,,PERSON
+41,cambridgeshire uk,GPE,,,GPE
+42,supermarket,ORG,NULL,,NULL
+42,german,NORP,,,NORP
+42,tesco,PERSON,,,PERSON
+44,us,GPE,,,GPE
+44,donald trump,PERSON,,,PERSON
+44,steven englander,PERSON,,,PERSON
+44,standard chartered,ORG,NULL,,NULL
+44,japanese,NORP,,,NORP
+44,sanae takaichi,PERSON,,,PERSON
+44,deutsche bank,ORG,,,ORG
+44,sanae takaichis,PERSON,,,PERSON
+44,japan,NORP,,,NORP
+44,europe,LOC,,,LOC
+44,france,GPE,,,GPE
+44,european,NORP,,,NORP
+44,french,NORP,,,NORP
+44,goldman sachs,ORG,,,ORG
+44,federal reserve,ORG,,,ORG
+44,we,GPE,NULL,,NULL
+44,us,GPE,NULL,,NULL
+46,mount everests eastern flank,LOC,,,LOC
+47,david harewood,PERSON,,,PERSON
+47,othello,PERSON,,,PERSON
+47,iago,PERSON,,,PERSON
+47,desdemona,PERSON,,,PERSON
+47,shakespeare,PERSON,,,PERSON
+47,west end,LOC,,,LOC
+47,the national theatre,ORG,,,ORG
+47,tom morris,PERSON,,,PERSON
+47,toby jones,PERSON,,,PERSON
+47,iago,PERSON,,,PERSON
+47,caitlin fitzgerald,PERSON,,,PERSON
+47,desdemona,PERSON,,,PERSON
+47,othellos,PERSON,,,PERSON
+47,cia,ORG,,,ORG
+47,david este,PERSON,,,PERSON
+47,homeland,GPE,,,GPE
+47,joel steadman,PERSON,,,PERSON
+47,deni,PERSON,,,PERSON
+47,sherwood,GPE,,,GPE
+47,channel 4,ORG,,,ORG
+47,pierce,PERSON,,,PERSON
+47,nobodys,PERSON,NULL,,NULL
+47,othello,PERSON,,,PERSON
+47,othello,PERSON,,,PERSON
+47,birmingham,GPE,,,GPE
+47,rada,ORG,,,ORG
+47,the mental health charity,ORG,,,ORG
+47,rada,GPE,,,GPE
+47,british,NORP,,,NORP
+47,skinhead,PERSON,NULL,,NULL
+47,skinhead,PERSON,NULL,,NULL
+47,harewood,PERSON,NULL,,NULL
+47,rada,ORG,NULL,,NULL
+47,oneman,PERSON,NULL,,NULL
+47,hardhitte,PERSON,NULL,,NULL
+47,rada,ORG,NULL,,NULL
+47,francesca amewudahrivers,ORG,,,ORG
+47,farright,NORP,,,NORP
+47,tommy robinson,PERSON,,,PERSON
+47,pam,PERSON,,,PERSON
+47,the union jack,PRODUCT,,,PRODUCT
+47,english,NORP,,,NORP
+47,national front,ORG,NORP,,NORP
+47,shakespeare,PERSON,,,PERSON
+47,dark water theatre,FAC,,,FAC
+47,royal haymarket,FAC,,,FAC
+47,london,GPE,,,GPE
+48,generative artificial intelligence,PRODUCT,,,PRODUCT
+48,genai,PRODUCT,,,PRODUCT
+48,chatgpt perplexity,PRODUCT,,,PRODUCT
+48,google gemini,PRODUCT,,,PRODUCT
+48,fts,ORG,,,ORG
+48,adobe,ORG,,,ORG
+48,genai,PRODUCT,,,PRODUCT
+48,ikea,PRODUCT,ORG,,ORG
+48,diy,PRODUCT,,,PRODUCT
+48,uk,GPE,,,GPE
+48,aipowere,PRODUCT,NULL,,NULL
+48,google,PRODUCT,ORG,,ORG
+48,cotswolds,GPE,LOC,,LOC
+48,estée lauder,ORG,,,ORG
+48,us,GPE,,,GPE
+48,genai,PRODUCT,,,PRODUCT
+48,agentic commerce,ORG,,,ORG
+48,shopify,ORG,,,ORG
+48,openai,ORG,,,ORG
+48,aipowere,ORG,NULL,,NULL
+48,aipowere,ORG,NULL,,NULL
+48,instacart,PRODUCT,,,PRODUCT
+48,caper,PRODUCT,,,PRODUCT
+48,cart,PRODUCT,,,PRODUCT
+48,nvidia,ORG,,,ORG
+48,ai,ORG,PRODUCT,,PRODUCT
+49,snp,ORG,,,ORG
+49,holyrood,EVENT,,,EVENT
+49,john swinney,PERSON,,,PERSON
+49,party,ORG,NULL,,NULL
+52,olivia bowen,PERSON,,,PERSON
+52,olivia bowen,PERSON,,,PERSON
+52,voir,PERSON,NULL,,NULL
+53,cardiff,GPE,,,GPE
+53,central square,FAC,,,FAC
+53,cardiff central square,FAC,,,FAC
+55,british,NORP,,,NORP
+55,arthur conan doyle,PERSON,,,PERSON
+55,doyle,PERSON,NULL,,NULL
+55,bbc,ORG,,,ORG
+55,luther,PERSON,,,PERSON
+56,dvla,ORG,,,ORG
+57,west african nations,GPE,,,GPE
+57,us,GPE,,,GPE
+57,burkina faso,GPE,,,GPE
+58,tammy beaumont,PERSON,,,PERSON
+58,england,GPE,,,GPE
+58,the world cup,EVENT,,,EVENT
+58,sri lanka,PERSON,,,PERSON
+58,england,GPE,,,GPE
+58,voir larticle,GPE,NULL,,NULL
+59,joe biden,PERSON,,,PERSON
+60,tennessee,GPE,,,GPE
+60,tennessee,GPE,,,GPE
+61,gemma,PERSON,,,PERSON
+61,atkinson,PERSON,,,PERSON
+61,gorka marquezgemma,PERSON,,,PERSON
+61,atkinson,PERSON,,,PERSON
+61,mia,PERSON,,,PERSON
+61,thiago,PERSON,,,PERSON
+61,gorka marquez,PERSON,,,PERSON
+62,netflix,ORG,,,ORG
+63,samuel ilingjunior,PERSON,,,PERSON
+63,bbc radio,ORG,,,ORG
+63,steve hermon,PERSON,,,PERSON
+63,west voir larticle,ORG,NULL,,NULL
+64,mat sadler,PERSON,,,PERSON
+64,walsall,ORG,,,ORG
+64,league two,ORG,,,ORG
+64,sadler,PERSON,,,PERSON
+65,zara mcdermott,PERSON,,,PERSON
+65,louis tomlinson,PERSON,,,PERSON
+65,mcdermott,PERSON,,,PERSON
+65,louis tomlinson,PERSON,,,PERSON
+65,new york,GPE,,,GPE
+66,daniil medvedev,PERSON,,,PERSON
+66,french,NORP,,,NORP
+66,britain cameron norrie,PERSON,,,PERSON
+67,scotland,GPE,,,GPE
+67,fbu,ORG,,,ORG
+67,fbu,ORG,,,ORG
+68,robbie williams,PERSON,,,PERSON
+68,britpop,ORG,NULL,,NULL
+68,taylor,PERSON,,,PERSON
+69,dick,PERSON,,,PERSON
+69,voir larticle,PERSON,NULL,,NULL
+70,shaun murphy,PERSON,,,PERSON
+70,whitewash,ORG,NULL,,NULL
+70,kyren wilson,PERSON,,,PERSON
+70,the xian grand prix quarterfinal,EVENT,,,EVENT
+71,heather humphrey,PERSON,,,PERSON
+71,catherine connolly,PERSON,,,PERSON
+71,humphrey,PERSON,,,PERSON
+71,taoiseach,PERSON,,,PERSON
+71,micheal,PERSON,,,PERSON
+72,wadi gaza,GPE,,,GPE
+72,gaza strip,GPE,,,GPE
+72,palestinians,NORP,,,NORP
+72,northern gaza strip,LOC,,,LOC
+73,surrey village,GPE,,,GPE
+73,elmbridge road,FAC,,,FAC
+73,horsham road a281,FAC,,,FAC
+73,hewitts road,FAC,,,FAC
+73,voir larticle,GPE,NULL,,NULL
+74,aberdeen royal infirmary,ORG,,,ORG
+74,aberdeen royal infirmary,FAC,ORG,,ORG
+74,the hospital emergency department,ORG,,,ORG
+75,glasgow,GPE,,,GPE
+75,muchchange,ORG,NULL,,NULL
+75,the united rugby championship,EVENT,,,EVENT
+75,rodney parade,EVENT,,,EVENT
+75,glasgow,GPE,,,GPE
+75,huw evans,PERSON,,,PERSON
+76,united rugby championship,EVENT,,,EVENT
+76,roo de villiers,PERSON,,,PERSON
+76,feinbergmngomezulu,PERSON,,,PERSON
+77,world service,ORG,,,ORG
+77,bbc sound,ORG,,,ORG
+77,the womens world cup,EVENT,,,EVENT
+77,alison mitchell,PERSON,,,PERSON
+77,jim maxwell,PERSON,,,PERSON
+77,prakash wakankar,PERSON,,,PERSON
+78,baz grayling,PERSON,,,PERSON
+78,the battle of goose green,EVENT,,,EVENT
+78,falkland war bravery medal,EVENT,PRODUCT,,PRODUCT
+79,voir larticle,GPE,NULL,,NULL
+80,edtashifa kassam,PERSON,,,PERSON
+80,gaza,GPE,,,GPE
+81,dave allen,PERSON,,,PERSON
+81,doncaster,PERSON,GPE,,GPE
+81,de la hoya,PERSON,,,PERSON
+81,arslanbek makhmudov,PERSON,,,PERSON
+81,sheffield,GPE,,,GPE
+81,the utilita arena,FAC,,,FAC
+81,johnny fisher,PERSON,,,PERSON
+81,allen,PERSON,,,PERSON
+81,allen,PERSON,,,PERSON
+81,russias makhmudov,PERSON,,,PERSON
+81,makhmudov,PERSON,,,PERSON
+81,agit kabayel,PERSON,,,PERSON
+81,kabayel,PERSON,,,PERSON
+81,russians,NORP,,,NORP
+81,miljan rovcanin,PERSON,,,PERSON
+81,makhmudov,PERSON,,,PERSON
+81,guido vianello,PERSON,,,PERSON
+81,ricardo brown,PERSON,,,PERSON
+81,deontay wilder,PERSON,,,PERSON
+81,allen,PERSON,,,PERSON
+81,allen,PERSON,,,PERSON
+81,makhmudov,PERSON,,,PERSON
+81,the utilita arena,FAC,,,FAC
+81,sheffield,GPE,,,GPE
+81,allen,PERSON,,,PERSON
+81,makhmudov,PERSON,,,PERSON
+81,dazn,ORG,,,ORG
+81,dazn,ORG,,,ORG
+81,matchroom,ORG,,,ORG
+81,queensberry,ORG,,,ORG
+81,golden boy,ORG,NULL,,NULL
+81,saver,ORG,NULL,,NULL
+81,makhmudov,PERSON,,,PERSON
+81,betway,ORG,,,ORG
+81,dave allen,PERSON,,,PERSON
+81,arslanbek makhmudov,PERSON,,,PERSON
+81,junaid bostan,PERSON,,,PERSON
+81,bilal fawaz,PERSON,,,PERSON
+81,josh padley,PERSON,,,PERSON
+81,reece bellotti,PERSON,,,PERSON
+81,hamza uddin,PERSON,,,PERSON
+81,muhsin kizota,PERSON,,,PERSON
+81,ibraheem sulaimaan,PERSON,,,PERSON
+81,james chereji,PERSON,,,PERSON
+81,conner tudsbury,PERSON,,,PERSON
+81,tbc,ORG,,,ORG
+81,joe howarth,PERSON,,,PERSON
+81,kane baker,PERSON,,,PERSON
+81,joe hayden,PERSON,,,PERSON
+81,tbc,ORG,,,ORG
+81,independent,ORG,,,ORG
+81,dave allens,PERSON,,,PERSON
+81,arslanbek makhmudov,PERSON,,,PERSON
+81,dave allen,PERSON,,,PERSON
+81,arslanbek makhmudov,PERSON,,,PERSON
+81,eddie hearn,PERSON,,,PERSON
+81,ben whittaker,PERSON,,,PERSON
+81,jerry maguire,PERSON,,,PERSON
+81,dave allen,PERSON,,,PERSON
+81,arslanbek makhmudov,PERSON,,,PERSON
+81,odd,PERSON,NULL,,NULL
+81,good,PERSON,NULL,,NULL
+81,dan,PERSON,,,PERSON
+81,london uk,GPE,,,GPE
+82,new orleans,GPE,,,GPE
+82,daniella santoro,PERSON,,,PERSON
+82,tulane university,ORG,,,ORG
+82,santoro,PERSON,,,PERSON
+82,susann lusnia,PERSON,,,PERSON
+82,lusnia,PERSON,,,PERSON
+82,roman,NORP,,,NORP
+82,sextus congenius verus,PERSON,,,PERSON
+82,daniella,PERSON,,,PERSON
+82,lusnia,PERSON,,,PERSON
+82,lusnia,PERSON,,,PERSON
+82,italian,NORP,,,NORP
+82,sextus congenius verus,PERSON,,,PERSON
+82,the imperial navy,ORG,,,ORG
+82,asclepius,PERSON,,,PERSON
+82,roman,NORP,,,NORP
+82,roman,NORP,,,NORP
+82,lusnia,GPE,PERSON,,PERSON
+82,civitavecchia,GPE,,,GPE
+82,italy,GPE,,,GPE
+82,rome,GPE,,,GPE
+82,its,GPE,NULL,,NULL
+82,the national archeological museum,FAC,,,FAC
+82,civitavecchia,GPE,,,GPE
+82,world war ii,EVENT,,,EVENT
+82,ally bombing,EVENT,,,EVENT
+82,lusnia,PERSON,,,PERSON
+82,lusnia,PERSON,,,PERSON
+82,santoros,PERSON,,,PERSON
+82,lusnia,PERSON,,,PERSON
+82,fbi,ORG,,,ORG
+82,italian,NORP,,,NORP
+82,fbi,ORG,,,ORG
+82,new orleans,GPE,,,GPE
+82,erin scott obrien,PERSON,,,PERSON
+82,santoro,PERSON,,,PERSON
+82,obrien,PERSON,,,PERSON
+82,obrien,PERSON,,,PERSON
+82,an,NORP,NULL,,NULL
+82,italian,NORP,,,NORP
+82,a new orleans,NORP,,,NORP
+82,world war ii,EVENT,,,EVENT
+82,sextus,PERSON,,,PERSON
+82,roman,NORP,,,NORP
+82,lusnia,PERSON,,,PERSON
+82,sextus congenius verus,PERSON,,,PERSON
+82,lusnia,PERSON,,,PERSON
+82,roman,NORP,,,NORP
+82,uk,GPE,,,GPE
+82,southern europe,LOC,,,LOC
+82,national guard,ORG,,,ORG
+82,memphis,GPE,,,GPE
+82,pentagon,ORG,FAC,,FAC
+82,qatari,NORP,,,NORP
+82,idaho,GPE,,,GPE
+82,tennessee,GPE,,,GPE
+82,rock community,ORG,,,ORG
+82,gaza,GPE,,,GPE
+82,trump,PERSON,,,PERSON
+82,israel,GPE,,,GPE
+82,palestinian,NORP,,,NORP
+82,cet,PERSON,NULL,,NULL
+82,london uk,GPE,,,GPE
+83,keely hodgkinson,PERSON,,,PERSON
+84,ipswich,GPE,,,GPE
+84,kieran mckenna,PERSON,,,PERSON
+84,mckenna,PERSON,,,PERSON
+84,getty,ORG,,,ORG
+84,ipswich,GPE,,,GPE
+85,mina smallman,PERSON,,,PERSON
+85,bbc,ORG,,,ORG
+85,panorama,ORG,NULL,,NULL
+85,the metropolitan police,ORG,,,ORG
+85,mina smallman,PERSON,,,PERSON
+85,bbc,ORG,,,ORG
+85,panoramas,ORG,NULL,,NULL
+85,meet police,ORG,NULL,,NULL
+86,scottish,NORP,,,NORP
+87,french,GPE,NORP,,NORP
+87,coco gauff,PERSON,,,PERSON
+87,jasmine paolini,PERSON,,,PERSON
+87,the wuhan open gauff struggle on serve,EVENT,,,EVENT
+87,wuhan,GPE,,,GPE
+88,valentin vacherot,PERSON,,,PERSON
+88,novak djokovic,PERSON,,,PERSON
+88,everythingnovak djokovic,PERSON,,,PERSON
+89,gary neville,PERSON,,,PERSON
+90,tony blair,PERSON,,,PERSON
+90,jeffrey epstein,PERSON,,,PERSON
+90,peter mandelson,PERSON,,,PERSON
+90,tony blair,PERSON,,,PERSON
+90,jeffrey epstein,PERSON,,,PERSON
+90,peter mandelson,PERSON,,,PERSON
+91,samira ahmed,PERSON,,,PERSON
+91,bbc news,ORG,,,ORG
+91,naga voir,PERSON,NULL,,NULL
+92,chereiss bailey,PERSON,,,PERSON
+93,brit,NORP,,,NORP
+93,jay matthews,PERSON,,,PERSON
+93,gaza,ORG,,,ORG
+93,ukme,ORG,,,ORG
+94,elfasher,GPE,,,GPE
+94,rsf,ORG,,,ORG
+94,besiege sudan city,GPE,NULL,,NULL
+95,pendle hill,FAC,LOC,,LOC
+95,hill,LOC,NULL,,NULL
+96,the county council,ORG,,,ORG
+96,campaigner council,ORG,,,ORG
+97,bruno fernande,PERSON,,,PERSON
+97,man utd,ORG,,,ORG
+97,bruno fernandes,PERSON,,,PERSON
+97,manchester united,ORG,,,ORG
+98,hamas,ORG,NORP,,NORP
+98,israeli,NORP,,,NORP
+98,bbccom,PRODUCT,,,PRODUCT
+98,bbc,ORG,,,ORG
+98,bbc podcasts radio 4,ORG,,,ORG
+98,the world service,ORG,,,ORG
+99,grimsby town,GPE,,,GPE
+99,scunthorpe united,ORG,,,ORG
+99,the super league grand final,EVENT,,,EVENT
+99,james hoggarth,PERSON,,,PERSON
+99,grimsby town,GPE,,,GPE
+99,scunthorpe united,ORG,,,ORG
+99,hull kingston rover,ORG,NULL,,NULL
+100,aston martin,ORG,PRODUCT,,PRODUCT
+101,republican,NORP,,,NORP
+101,robert f kennedy jr,PERSON,,,PERSON
+101,secretary of health and human service,ORG,PERSON,,PERSON
+101,cabinet,ORG,,,ORG
+101,kennedy,PERSON,,,PERSON
+101,tiktok,ORG,,,ORG
+101,tylenol,PRODUCT,,,PRODUCT
+101,kennedy,PERSON,,,PERSON
+101,kennedy,PERSON,,,PERSON
+101,thom tillis,PERSON,,,PERSON
+101,kennedy,PERSON,,,PERSON
+101,the senate finance committee,ORG,,,ORG
+101,senate,ORG,,,ORG
+101,independent,ORG,,,ORG
+101,lisa murkowski,PERSON,,,PERSON
+101,ralaska,GPE,,,GPE
+101,mant,ORG,,,ORG
+101,kennedys,PERSON,,,PERSON
+101,murkowski,PERSON,,,PERSON
+101,kennedys,PERSON,,,PERSON
+101,senate,ORG,,,ORG
+101,murkowski,PERSON,,,PERSON
+101,independent,ORG,,,ORG
+101,independent,ORG,,,ORG
+101,bill cassidy,PERSON,,,PERSON
+101,the health education labor and pension committee,ORG,,,ORG
+101,kennedy,PERSON,,,PERSON
+101,kennedy,PERSON,,,PERSON
+101,trump,PERSON,,,PERSON
+101,kennedy,PERSON,,,PERSON
+101,the center for disease control and preventionattribute,ORG,,,ORG
+101,trump,PERSON,,,PERSON
+101,kennedy,PERSON,,,PERSON
+101,american,NORP,,,NORP
+101,trump,PERSON,,,PERSON
+101,kennedy,PERSON,,,PERSON
+101,kff,ORG,,,ORG
+101,americans,NORP,,,NORP
+101,angela alsobrooks,PERSON,,,PERSON
+101,the help committee,ORG,,,ORG
+101,kennedy,ORG,,,ORG
+101,kennedys,PERSON,,,PERSON
+101,health and human service,ORG,,,ORG
+101,kennedy,PERSON,,,PERSON
+101,the advisory committee on immunization practice,ORG,,,ORG
+101,susan monarez,PERSON,,,PERSON
+101,the senate help committee,ORG,,,ORG
+101,kennedy,PERSON,,,PERSON
+101,cdc,ORG,,,ORG
+101,kennedy,ORG,PERSON,,PERSON
+101,republican,NORP,,,NORP
+101,london uk,GPE,,,GPE
+102,lady gaga,PERSON,,,PERSON
+102,prada,PRODUCT,ORG,,ORG
+102,meryl streep,PERSON,,,PERSON
+102,anne hathaway,PERSON,,,PERSON
+102,emily blunt,PERSON,,,PERSON
+102,stanley tucci,PERSON,,,PERSON
+102,milan,GPE,,,GPE
+102,london,GPE,,,GPE
+102,stockholm,GPE,,,GPE
+102,lady gagas,PERSON,,,PERSON
+102,netflixs,ORG,,,ORG
+102,miranda,PERSON,,,PERSON
+102,emily charlton,PERSON,,,PERSON
+102,simone ashley,PERSON,,,PERSON
+102,lucy liu,PERSON,,,PERSON
+102,lady gaga,PERSON,,,PERSON
+102,milan,GPE,,,GPE
+102,london uk,GPE,,,GPE
+103,manchester united,ORG,,,ORG
+103,saudi,NORP,,,NORP
+104,hull kr,ORG,,,ORG
+104,super league,ORG,,,ORG
+104,wigan,ORG,,,ORG
+105,sheffield,GPE,,,GPE
+105,wednesday,ORG,NULL,,NULL
+105,danny röhl,PERSON,,,PERSON
+105,russell martin,PERSON,,,PERSON
+105,ranger,ORG,,,ORG
+105,steven gerrard,PERSON,,,PERSON
+105,ibrox,ORG,,,ORG
+106,guildford,GPE,,,GPE
+107,emmanuel macron,PERSON,,,PERSON
+107,sébastien lecornu,PERSON,,,PERSON
+107,french,NORP,,,NORP
+108,volodymyr zelensky,PERSON,,,PERSON
+108,donald trump,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,capital,GPE,NULL,,NULL
+108,kyiv,GPE,,,GPE
+108,putin force,ORG,,,ORG
+108,ukraine,GPE,,,GPE
+108,ukrainian,NORP,,,NORP
+108,trump,PERSON,,,PERSON
+108,russia,NORP,GPE,,GPE
+108,russian,NORP,,,NORP
+108,mig31,PRODUCT,,,PRODUCT
+108,lipetsk,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,lipetsk,GPE,,,GPE
+108,ukraines,GPE,,,GPE
+108,india,GPE,,,GPE
+108,russias,NORP,GPE,,GPE
+108,ukrainian,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,new missile,PRODUCT,NULL,,NULL
+108,russia,GPE,,,GPE
+108,zelenskyy,PERSON,,,PERSON
+108,indian,NORP,,,NORP
+108,russian,NORP,,,NORP
+108,ukrainian army,ORG,,,ORG
+108,kyiv,PERSON,,,PERSON
+108,ukrainian,NORP,,,NORP
+108,wartorn,GPE,NULL,,NULL
+108,sumo,GPE,NULL,,NULL
+108,zelensky,PERSON,,,PERSON
+108,trump,PERSON,,,PERSON
+108,russias,NORP,GPE,,GPE
+108,mig31,PRODUCT,,,PRODUCT
+108,ukraine,GPE,,,GPE
+108,moscow,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,kyiv,PRODUCT,,,PRODUCT
+108,largescale,PRODUCT,NULL,,NULL
+108,russian,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,azerbaijan airlines,ORG,,,ORG
+108,japan,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,holly evans,PERSON,,,PERSON
+108,volodymyr zelensky,PERSON,,,PERSON
+108,japan,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,putin,PERSON,,,PERSON
+108,zelensky,PERSON,,,PERSON
+108,japan,GPE,,,GPE
+108,russias,NORP,,,NORP
+108,the united states,GPE,,,GPE
+108,the united kingdom,GPE,,,GPE
+108,japan,GPE,,,GPE
+108,ukrainian,NORP,,,NORP
+108,ukrainian,NORP,,,NORP
+108,zelenskyy,PERSON,,,PERSON
+108,zelenskyyua,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,2100,PRODUCT,NULL,,NULL
+108,holly evans,PERSON,,,PERSON
+108,ukraines,NORP,GPE,,GPE
+108,russia,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,russias,NORP,GPE,,GPE
+108,11247,PRODUCT,NULL,,NULL
+108,23345,PRODUCT,NULL,,NULL
+108,63847,PRODUCT,NULL,,NULL
+108,33568,PRODUCT,NULL,,NULL
+108,1518,PRODUCT,NULL,,NULL
+108,1225,PRODUCT,NULL,,NULL
+108,427,PRODUCT,NULL,,NULL
+108,346,PRODUCT,NULL,,NULL
+108,68766,PRODUCT,NULL,,NULL
+108,putin,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,azerbaijan airlines,ORG,,,ORG
+108,holly evans,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,vladimir putin,PERSON,,,PERSON
+108,air defence,ORG,,,ORG
+108,azerbaijan airlines,ORG,,,ORG
+108,kazakhstan,GPE,,,GPE
+108,putin,PERSON,,,PERSON
+108,azerbaijan,NORP,,,NORP
+108,ilham aliev,PERSON,,,PERSON
+108,tajikistan,GPE,,,GPE
+108,dushanbe,GPE,,,GPE
+108,soviet,NORP,,,NORP
+108,russian,NORP,,,NORP
+108,putin,PERSON,,,PERSON
+108,putin,ORG,PERSON,,PERSON
+108,russia,GPE,,,GPE
+108,ukrainian,NORP,,,NORP
+108,wartorn,NORP,NULL,,NULL
+108,1900,PERSON,NULL,,NULL
+108,holly evan,PERSON,,,PERSON
+108,ukrainian,NORP,,,NORP
+108,russia,GPE,,,GPE
+108,japan,GPE,,,GPE
+108,highestranke,PERSON,NULL,,NULL
+108,danilo yavhushyshyn,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,aonishiki arata,PERSON,,,PERSON
+108,mongolian,NORP,,,NORP
+108,hoshoryu,PERSON,,,PERSON
+108,japan,GPE,,,GPE
+108,yokozuna,PERSON,,,PERSON
+108,aonishiki,PERSON,,,PERSON
+108,ukrainian,NORP,,,NORP
+108,japanese,NORP,,,NORP
+108,vinnytsia westcentral ukraine,GPE,,,GPE
+108,ukrainian,NORP,,,NORP
+108,wartorn,GPE,NULL,,NULL
+108,sumo rise,PERSON,NULL,,NULL
+108,russian,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,holly,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,the european union,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,belgium,GPE,,,GPE
+108,and,GPE,NULL,,NULL
+108,eu,FAC,ORG,,ORG
+108,japan,GPE,,,GPE
+108,uk,GPE,,,GPE
+108,canada,GPE,,,GPE
+108,keir starmer,PERSON,,,PERSON
+108,french,NORP,,,NORP
+108,emmanuel macron,PERSON,,,PERSON
+108,german,NORP,,,NORP
+108,friedrich merz,PERSON,,,PERSON
+108,ukraine armed force,ORG,,,ORG
+108,russia,GPE,,,GPE
+108,the united states,GPE,,,GPE
+108,india,GPE,,,GPE
+108,russias,NORP,GPE,,GPE
+108,1700,PRODUCT,NULL,,NULL
+108,holly evans,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,indian,NORP,,,NORP
+108,delhi,GPE,,,GPE
+108,mumbai,GPE,,,GPE
+108,be,GPE,NULL,,NULL
+108,russia,GPE,,,GPE
+108,kyiv,ORG,GPE,,GPE
+108,russian,NORP,,,NORP
+108,su34,PRODUCT,,,PRODUCT
+108,su35s,PRODUCT,,,PRODUCT
+108,vladimir putin,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,cruise supersonic and guide missile,PRODUCT,NULL,,NULL
+108,the economic security council,ORG,,,ORG
+108,ukraine,GPE,,,GPE
+108,independent,ORG,,,ORG
+108,india,GPE,,,GPE
+108,russias,NORP,GPE,,GPE
+108,uk,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,holly evans,PERSON,,,PERSON
+108,keir starmer,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,european,NORP,,,NORP
+108,copenhagen,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,keir,PERSON,,,PERSON
+108,german,NORP,,,NORP
+108,friedrich merz,PERSON,,,PERSON
+108,french,NORP,,,NORP
+108,emmanuel macron,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,putin,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,uk,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,zelensky,PERSON,,,PERSON
+108,trump,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,holly evans,GPE,,,GPE
+108,volodymyr zelensky,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,ukrainian,NORP,,,NORP
+108,us,GPE,,,GPE
+108,donald trump,PERSON,,,PERSON
+108,zelensky,PERSON,,,PERSON
+108,the middle east,LOC,,,LOC
+108,us,GPE,,,GPE
+108,donald trump,PERSON,,,PERSON
+108,potus,PERSON,,,PERSON
+108,middle east,LOC,,,LOC
+108,zelenskyy,PERSON,,,PERSON
+108,ukrainian,NORP,,,NORP
+108,russias,NORP,GPE,,GPE
+108,bashneft,GPE,NULL,,NULL
+108,kyiv,GPE,,,GPE
+108,holly evans,GPE,PERSON,,PERSON
+108,ukrainian,NORP,,,NORP
+108,russias,NORP,GPE,,GPE
+108,bashneft,FAC,,,FAC
+108,ufa,GPE,NULL,,NULL
+108,ukraine,GPE,,,GPE
+108,sbu security service,ORG,,,ORG
+108,sbu,ORG,,,ORG
+108,bashkortostan,GPE,NULL,,NULL
+108,ukraine,GPE,,,GPE
+108,the russian federation,ORG,,,ORG
+108,russian,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,holly evans,PERSON,,,PERSON
+108,ukrainian,NORP,,,NORP
+108,russian,NORP,,,NORP
+108,kyivs,NORP,,,NORP
+108,volodymyr zelenskiys,PERSON,,,PERSON
+108,andriy yermak,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,russianoccupied area,LOC,NULL,,NULL
+108,ukraine,GPE,,,GPE
+108,yermak,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,russiainstalled authority,ORG,,,ORG
+108,russian,NORP,,,NORP
+108,occupy area,LOC,NULL,,NULL
+108,ukrainian,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,belarus,GPE,,,GPE
+108,yale school of public health,ORG,,,ORG
+108,trump,PERSON,,,PERSON
+108,chinese,NORP,,,NORP
+108,russia,GPE,,,GPE
+108,we airport,FAC,NULL,,NULL
+108,holly evans,PERSON,,,PERSON
+108,donald trump,PERSON,,,PERSON
+108,chinese airline,ORG,,,ORG
+108,russian,NORP,,,NORP
+108,us,GPE,,,GPE
+108,beijing,GPE,,,GPE
+108,us,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,western,NORP,NULL,,NULL
+108,russia,GPE,,,GPE
+108,american airline,ORG,,,ORG
+108,washington,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,us,GPE,,,GPE
+108,vladimir putin,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,trump,PERSON,,,PERSON
+108,chinese,NORP,,,NORP
+108,russia,GPE,,,GPE
+108,belarus,GPE,,,GPE
+108,1200,PERSON,NULL,,NULL
+108,holly evans,PERSON,,,PERSON
+108,belarus,GPE,,,GPE
+108,the defence ministry,ORG,,,ORG
+108,belarus,GPE,,,GPE
+108,zapad,ORG,,,ORG
+108,russia,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,the oreshnik hypersonic missile,PRODUCT,,,PRODUCT
+108,melania trump,PERSON,,,PERSON
+108,putin,PERSON,,,PERSON
+108,ukrainian,NORP,,,NORP
+108,holly evan,PERSON,,,PERSON
+108,ukrainian,NORP,,,NORP
+108,russia,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,melania trump,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,the first lady,PERSON,,,PERSON
+108,trump,PERSON,,,PERSON
+108,slovenia,GPE,,,GPE
+108,yugoslavia,GPE,,,GPE
+108,the grand foyer,FAC,,,FAC
+108,the white house,FAC,,,FAC
+108,russian,NORP,,,NORP
+108,vladimir putin,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,putin,PERSON,,,PERSON
+108,ukrainian,NORP,,,NORP
+108,russia,GPE,,,GPE
+108,putin,PERSON,,,PERSON
+108,melania trump,PERSON,,,PERSON
+108,putin,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,holly evans,GPE,,,GPE
+108,kyiv,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,ukrainian,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,dtek,ORG,,,ORG
+108,ukrainian,NORP,,,NORP
+108,russian,NORP,,,NORP
+108,russian,NORP,,,NORP
+108,kyiv,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,yulia svyrydenko,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,russias defence ministry,ORG,,,ORG
+108,ukraine,GPE,,,GPE
+108,putin,PERSON,,,PERSON
+108,trump,PERSON,,,PERSON
+108,shweta,PERSON,,,PERSON
+108,sharma,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,vladimir putin,PERSON,,,PERSON
+108,the nobel peace prize committee,ORG,,,ORG
+108,donald trump,PERSON,,,PERSON
+108,putin,PERSON,,,PERSON
+108,trump,PERSON,,,PERSON
+108,american,NORP,,,NORP
+108,putin,PERSON,,,PERSON
+108,trump,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,gaza,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,the nobel committee,ORG,,,ORG
+108,ukrainian,NORP,,,NORP
+108,volodymyr zelensky,PERSON,,,PERSON
+108,the nobel committee,ORG,,,ORG
+108,kiev,GPE,,,GPE
+108,the norwegian nobel committee,ORG,,,ORG
+108,venezuelan,NORP,,,NORP
+108,maria corina machado,PERSON,,,PERSON
+108,trump,PERSON,,,PERSON
+108,trump,PERSON,,,PERSON
+108,alaska,GPE,,,GPE
+108,sharma,GPE,NULL,,NULL
+108,russian,NORP,,,NORP
+108,vladimir putin,PERSON,,,PERSON
+108,us,GPE,,,GPE
+108,donald trump,PERSON,,,PERSON
+108,alaska,GPE,,,GPE
+108,tass,PERSON,,,PERSON
+108,anchorage,GPE,,,GPE
+108,putin,PERSON,,,PERSON
+108,the united states,GPE,,,GPE
+108,the russian federation,GPE,,,GPE
+108,anchorage,GPE,,,GPE
+108,trump,PERSON,,,PERSON
+108,putin,PERSON,,,PERSON
+108,elmendorfrichardson,FAC,,,FAC
+108,anchorage,GPE,,,GPE
+108,alaska,GPE,,,GPE
+108,russias,NORP,GPE,,GPE
+108,ukraine,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,alaska,GPE,,,GPE
+108,starmer,PERSON,,,PERSON
+108,zelensky,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,sharma,GPE,,,GPE
+108,uk,GPE,,,GPE
+108,sir keir starmer,PERSON,,,PERSON
+108,ukrainian,NORP,,,NORP
+108,volodymyr zelensky,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,moscow,GPE,,,GPE
+108,down street,FAC,,,FAC
+108,russias,NORP,GPE,,GPE
+108,ukraine,GPE,,,GPE
+108,vladimir putin,PERSON,,,PERSON
+108,starmer,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,france,GPE,,,GPE
+108,germany,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,russia,GPE,,,GPE
+108,western ally,LOC,NULL,,NULL
+108,ukrainian,NORP,,,NORP
+108,moscow,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,the energy grid,FAC,,,FAC
+108,ukrainian,NORP,,,NORP
+108,shahedtype,PRODUCT,NULL,,NULL
+108,russia,GPE,,,GPE
+108,the ukraine air force,ORG,,,ORG
+108,ukrainian,NORP,,,NORP
+108,russia,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,harriette boucher,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,svitlana hrynchuk,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,facebook,ORG,,,ORG
+108,ukraine,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,putin,NORP,PERSON,,PERSON
+108,shweta,PERSON,,,PERSON
+108,ukraines,NORP,GPE,,GPE
+108,russia,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,russias,NORP,GPE,,GPE
+108,11247,PRODUCT,NULL,,NULL
+108,23345,PRODUCT,NULL,,NULL
+108,63847,PRODUCT,NULL,,NULL
+108,33568,PRODUCT,NULL,,NULL
+108,1518,PRODUCT,NULL,,NULL
+108,1225,PRODUCT,NULL,,NULL
+108,427,PRODUCT,NULL,,NULL
+108,346,PRODUCT,NULL,,NULL
+108,68766 drone,PRODUCT,,,PRODUCT
+108,russia,GPE,,,GPE
+108,kyiv,GPE,,,GPE
+108,sharma,GPE,,,GPE
+108,zelensky,PERSON,,,PERSON
+108,harriette boucher,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,volodymyr zelensky,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,10,PRODUCT,,,PRODUCT
+108,us,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,728,PRODUCT,,,PRODUCT
+108,shweta,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,kyiv,LOC,GPE,,GPE
+108,ukraine,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,russian,NORP,,,NORP
+108,chernihiv,GPE,,,GPE
+108,kyiv,GPE,,,GPE
+108,dnipro,LOC,,,LOC
+108,liuba,PERSON,,,PERSON
+108,dtek,ORG,,,ORG
+108,kyiv,GPE,,,GPE
+108,capital,GPE,,,GPE
+108,dnipropetrovsk,GPE,,,GPE
+108,the southeast ukraines,LOC,NULL,,NULL
+108,kyiv,GPE,,,GPE
+108,ukrainian,NORP,,,NORP
+108,russianoccupie region,LOC,NULL,,NULL
+108,sharma,GPE,,,GPE
+108,ukrainian,NORP,,,NORP
+108,russianoccupied,NORP,NULL,,NULL
+108,kyivs,ORG,GPE,,GPE
+108,volodymyr zelenskiys,PERSON,,,PERSON
+108,andriy yermak,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,russianoccupie area,GPE,NULL,,NULL
+108,ukraine,GPE,,,GPE
+108,yermak,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,russiainstalled authority,ORG,NULL,,NULL
+108,russian,NORP,,,NORP
+108,occupy area,LOC,NULL,,NULL
+108,ukrainian,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,belarus,GPE,,,GPE
+108,yale school of public health,ORG,,,ORG
+108,russia,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,gaza,GPE,,,GPE
+108,zelensky,PERSON,,,PERSON
+108,harriette boucher,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,volodymyr zelensky,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,vladimir putin,PERSON,,,PERSON
+108,gaza,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,putin,PERSON,,,PERSON
+108,postsoviet union organisation,ORG,,,ORG
+108,430,PERSON,NULL,,NULL
+108,harriette boucher,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,vladimir putin,PERSON,,,PERSON
+108,the commonwealth of independent state cis,ORG,,,ORG
+108,eurasian,NORP,,,NORP
+108,soviet,NORP,,,NORP
+108,dushanbe,GPE,,,GPE
+108,tajikistan,GPE,,,GPE
+108,armenia belarus,GPE,,,GPE
+108,kazakhstan,GPE,,,GPE
+108,uzbekistan,GPE,,,GPE
+108,kremlin,ORG,FAC,,FAC
+108,putin,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,azerbaijan airlines,ORG,,,ORG
+108,kazakhstan,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,harriette boucher,PERSON,,,PERSON
+108,130,PERSON,NULL,,NULL
+108,harriette boucher,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,dutch,NORP,,,NORP
+108,ruben brekelman,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,volodymyr zelensky,PERSON,,,PERSON
+108,the netherlands,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,zelensky,PERSON,,,PERSON
+108,coalition of the willing,ORG,,,ORG
+108,harriette boucher,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,volodymyr zelensky,PERSON,,,PERSON
+108,the coalition of the willing,ORG,,,ORG
+108,russia,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,the coalition of the willing,ORG,,,ORG
+108,the uk france,GPE,,,GPE
+108,germany,GPE,,,GPE
+108,italy,GPE,,,GPE
+108,australia canada,GPE,,,GPE
+108,japan,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,zelenksy,PERSON,,,PERSON
+108,2300,PERSON,NULL,,NULL
+108,harriette boucher,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,ukraine energy system,ORG,,,ORG
+108,ukraine,GPE,,,GPE
+108,volodymyr zelensky,PERSON,,,PERSON
+108,kyiv,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,zelensky,PERSON,,,PERSON
+108,starmer,PERSON,,,PERSON
+108,harriette boucher,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,volodymyr zelensky,PERSON,,,PERSON
+108,keir starmer,PERSON,,,PERSON
+108,uks,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,six nato,ORG,,,ORG
+108,netherlands denmark,GPE,,,GPE
+108,norway,GPE,,,GPE
+108,sweden,GPE,,,GPE
+108,germany,GPE,,,GPE
+108,canada,GPE,,,GPE
+108,eu,ORG,,,ORG
+108,ukraine,GPE,,,GPE
+108,daniel keane,PERSON,,,PERSON
+108,eu,ORG,,,ORG
+108,ukraine,GPE,,,GPE
+108,european,NORP,,,NORP
+108,valdis dombrovskis,PERSON,,,PERSON
+108,the european commission,ORG,,,ORG
+108,russian,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,the threeandahalfyear war,EVENT,NULL,,NULL
+108,eu finance,ORG,,,ORG
+108,dombrovskis,PERSON,,,PERSON
+108,italys giancarlo giorgetti,PERSON,,,PERSON
+108,melania trump,PERSON,,,PERSON
+108,putin,PERSON,,,PERSON
+108,daniel keane poland,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,1900   daniel,PERSON,NULL,,NULL
+108,keane poland,GPE,NULL,,NULL
+108,ukraine,GPE,,,GPE
+108,lng,FAC,PRODUCT,,PRODUCT
+108,russia,GPE,,,GPE
+108,polish,NORP,,,NORP
+108,radoslaw sikorski,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,kyiv,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,lviv,GPE,,,GPE
+108,sikorski,PERSON,,,PERSON
+108,poland,GPE,,,GPE
+108,eastern,NORP,NULL,,NULL
+108,ukraine,GPE,,,GPE
+108,poland,GPE,,,GPE
+108,lng terminal,FAC,,,FAC
+108,swinoujscie,GPE,,,GPE
+108,poland,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,zelensky,PERSON,,,PERSON
+108,ecb,ORG,,,ORG
+108,daniel keane,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,volodymyr zelensky,PERSON,,,PERSON
+108,european,NORP,,,NORP
+108,central bank,ORG,,,ORG
+108,christine lagarde,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,russias,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,zelensky,PERSON,,,PERSON
+108,zelensky,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,daniel keane,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,ukraine energy system,ORG,,,ORG
+108,local authority,ORG,,,ORG
+108,kyiv,GPE,,,GPE
+108,ukrainian,NORP,,,NORP
+108,dtek,ORG,,,ORG
+108,kyiv,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,daniel keane melania trump,PERSON,,,PERSON
+108,putin,GPE,PERSON,,PERSON
+108,ukrainian,NORP,,,NORP
+108,1644,PERSON,NULL,,NULL
+108,daniel keane,PERSON,,,PERSON
+108,ukrainian,NORP,,,NORP
+108,russia,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,melania trump,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,ms trump,PERSON,,,PERSON
+108,slovenia,GPE,,,GPE
+108,yugoslavia,GPE,,,GPE
+108,the white house,FAC,,,FAC
+108,russian,NORP,,,NORP
+108,vladimir putin,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,melania trump,PERSON,,,PERSON
+108,putin,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,poland,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,1630,PERSON,NULL,,NULL
+108,daniel keane,PERSON,,,PERSON
+108,poland,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,digital affair,ORG,NULL,,NULL
+108,reuter,PERSON,ORG,,ORG
+108,russian,NORP,,,NORP
+108,krzysztof gawkowski,PERSON,,,PERSON
+108,poland,GPE,,,GPE
+108,trump,PERSON,,,PERSON
+108,laggard spain,PERSON,NULL,,NULL
+108,nato,ORG,,,ORG
+108,daniel keane,PERSON,,,PERSON
+108,us,GPE,,,GPE
+108,donald trump,PERSON,,,PERSON
+108,spain,GPE,,,GPE
+108,the nato alliance,ORG,,,ORG
+108,the usbacked security pact,ORG,,,ORG
+108,trump,PERSON,,,PERSON
+108,european,NORP,,,NORP
+108,spanish,NORP,,,NORP
+108,pedro sanchez,PERSON,,,PERSON
+108,trump,PERSON,,,PERSON
+108,laggard spain,PERSON,NULL,,NULL
+108,nato putin,ORG,NULL,,NULL
+108,russia,GPE,,,GPE
+108,weapon of deterrence,PRODUCT,NULL,,NULL
+108,daniel keane,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,vladimir putin,PERSON,,,PERSON
+108,reuters putin,PERSON,NULL,,NULL
+108,us,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,us,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,brovary,GPE,,,GPE
+108,kyiv,GPE,,,GPE
+108,taz ali,PERSON,,,PERSON
+108,hungarys orban,GPE,NULL,,NULL
+108,ukraine,GPE,,,GPE
+108,taz,PERSON,,,PERSON
+108,ali,PERSON,,,PERSON
+108,hungarian,NORP,,,NORP
+108,viktor orban,PERSON,,,PERSON
+108,ukrainian,NORP,,,NORP
+108,hungarian,NORP,,,NORP
+108,ukrainian,NORP,,,NORP
+108,the ukrainian intelligence service,ORG,,,ORG
+108,hungary,GPE,,,GPE
+108,proukrainian,NORP,,,NORP
+108,tisza party,ORG,,,ORG
+108,russians,NORP,,,NORP
+108,ukrainian,NORP,,,NORP
+108,orban europe,PERSON,NULL,,NULL
+108,prorussian,NORP,NULL,,NULL
+108,ukraine,GPE,,,GPE
+108,some opposition party,ORG,NULL,,NULL
+108,hungary,GPE,,,GPE
+108,taz ali,PERSON,,,PERSON
+108,the longplanne steadfast noon exercise,EVENT,,,EVENT
+108,europe,LOC,,,LOC
+108,russia,GPE,,,GPE
+108,nato,GPE,ORG,,ORG
+108,russias,NORP,GPE,,GPE
+108,ukraine,GPE,,,GPE
+108,zelensky,PERSON,,,PERSON
+108,taz,PERSON,,,PERSON
+108,ukrainian,NORP,,,NORP
+108,volodymyr zelensky,PERSON,,,PERSON
+108,russias,NORP,,,NORP
+108,largescale,NORP,NULL,,NULL
+108,ukraine,GPE,,,GPE
+108,russias,NORP,GPE,,GPE
+108,russians,NORP,,,NORP
+108,zelenskyyua,PERSON,,,PERSON
+108,ukraines,GPE,,,GPE
+108,kharkiv,GPE,,,GPE
+108,taz ali,GPE,,,GPE
+108,ukraines,GPE,,,GPE
+108,kharkiv,GPE,,,GPE
+108,russias,NORP,,,NORP
+108,oleh syniehubov,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,taz ali,PERSON,,,PERSON
+108,ukrainian,NORP,,,NORP
+108,yulia svyrydenko,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,energy facility,FAC,,,FAC
+108,volodymyr zelensky,PERSON,,,PERSON
+108,kyiv,GPE,,,GPE
+108,mykola kalashnyk,PERSON,,,PERSON
+108,poltava,GPE,,,GPE
+108,ukrainian,NORP,,,NORP
+108,dtek,ORG,,,ORG
+108,thermal power plant,FAC,,,FAC
+108,kyiv,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,taz ali power,ORG,NULL,,NULL
+108,kyiv,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,ukrainian,NORP,,,NORP
+108,energy company,ORG,,,ORG
+108,kyiv,GPE,,,GPE
+108,svitlana hrynchuk,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,kyiv,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,mig31,PRODUCT,,,PRODUCT
+108,ukraine,GPE,,,GPE
+108,moscow,GPE,,,GPE
+108,taz ali,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,mig31,PRODUCT,,,PRODUCT
+108,lipetsk,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,the russian defence ministry,ORG,,,ORG
+108,russias tass news agency,ORG,,,ORG
+108,russia,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,lipetsk,GPE,,,GPE
+108,ukraines,GPE,,,GPE
+108,mig31,PRODUCT,,,PRODUCT
+108,kinzhal hypersonic missile,PRODUCT,,,PRODUCT
+108,trump,PERSON,,,PERSON
+108,daniel keane maria corina machado,PERSON,NULL,,NULL
+108,latin america,LOC,,,LOC
+108,ms machado,PERSON,,,PERSON
+108,the norwegian nobel committee,ORG,,,ORG
+108,oslo,GPE,,,GPE
+108,venezuelan,NORP,,,NORP
+108,be,PERSON,,,PERSON
+108,venezuela,GPE,,,GPE
+108,the norwegian nobel committee,ORG,,,ORG
+108,trump,PERSON,,,PERSON
+108,trump,PERSON,,,PERSON
+108,chinese airline,ORG,,,ORG
+108,russia,GPE,,,GPE
+108,us,GPE,,,GPE
+108,daniel keane donald trump,PERSON,NULL,,NULL
+108,chinese airline,ORG,,,ORG
+108,russia,GPE,,,GPE
+108,us,GPE,,,GPE
+108,we airline,ORG,NULL,,NULL
+108,chinese,NORP,,,NORP
+108,russian,NORP,,,NORP
+108,washington,GPE,,,GPE
+108,us,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,daniel keane,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,the russian militaryindustrial complex,FAC,NULL,,NULL
+108,oleksandr syrskyi,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,sweden,GPE,,,GPE
+108,antidrone,PRODUCT,NULL,,NULL
+108,russia,GPE,,,GPE
+108,daniel keane,PERSON,,,PERSON
+108,sweden,GPE,,,GPE
+108,antidrone,PRODUCT,NULL,,NULL
+108,european,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,europe,LOC,,,LOC
+108,russia,GPE,,,GPE
+108,pal jonson,PERSON,,,PERSON
+108,nordic,NORP,,,NORP
+108,nato,ORG,,,ORG
+108,russia,GPE,,,GPE
+108,trump,PERSON,,,PERSON
+108,daniel keane,PERSON,,,PERSON
+108,kremlin,ORG,FAC,,FAC
+108,donald trump,PERSON,,,PERSON
+108,oslo,GPE,,,GPE
+108,uk,NORP,,,NORP
+108,trump,PERSON,,,PERSON
+108,gaza,GPE,,,GPE
+108,israel,GPE,,,GPE
+108,hamas state news agency,ORG,,,ORG
+108,tass,ORG,,,ORG
+108,kremlin,ORG,FAC,,FAC
+108,yuri ushakov,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,trump,PERSON,,,PERSON
+108,ukrainian,NORP,,,NORP
+108,volodymyr zelensky,PERSON,,,PERSON
+108,kyiv,ORG,GPE,,GPE
+108,trump,PERSON,,,PERSON
+108,zelensky,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,daniel keane,PERSON,,,PERSON
+108,ukrainian,NORP,,,NORP
+108,volodymyr zelensky,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,the energy sector,ORG,,,ORG
+108,russian,NORP,,,NORP
+108,kyiv,GPE,,,GPE
+108,daniel keane,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,kyiv,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,arpan rai,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,kyiv,GPE,,,GPE
+108,zaporizhzhia,GPE,,,GPE
+108,kyiv,GPE,,,GPE
+108,vitali klitschko,PERSON,,,PERSON
+108,the east bank,LOC,,,LOC
+108,the dnipro river,LOC,,,LOC
+108,russian,NORP,,,NORP
+108,kyiv,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,ukrainian,NORP,,,NORP
+108,authority,ORG,NULL,,NULL
+108,authority,ORG,NULL,,NULL
+108,kyiv,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,ukrainian,NORP,,,NORP
+108,kyiv,GPE,,,GPE
+108,vitali klitschko,PERSON,,,PERSON
+108,the dnipro river,LOC,,,LOC
+108,putin,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,azerbaijan airlines,ORG,,,ORG
+108,arpan rai,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,vladimir putin,PERSON,,,PERSON
+108,azerbaijan airlines,ORG,,,ORG
+108,kazakhstan,GPE,,,GPE
+108,putin,PERSON,,,PERSON
+108,azerbaijan,NORP,,,NORP
+108,ilham aliev,PERSON,,,PERSON
+108,tajikistan,GPE,,,GPE
+108,dushanbe,GPE,,,GPE
+108,soviet,NORP,,,NORP
+108,russian,NORP,,,NORP
+108,give,PERSON,NULL,,NULL
+108,putin,PERSON,,,PERSON
+108,putin,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,kyiv,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,arpan rai rescue service,ORG,NULL,,NULL
+108,kyiv,GPE,,,GPE
+108,tymur tkachenko,PERSON,,,PERSON
+108,kyivs military administration,ORG,,,ORG
+108,pecherskyi,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,kyiv,GPE,,,GPE
+108,the capital chp plant,FAC,,,FAC
+108,sumy region,GPE,,,GPE
+108,zaporizhzhia,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,trump,PERSON,,,PERSON
+108,arpan rai,GPE,PERSON,,PERSON
+108,us,GPE,,,GPE
+108,donald trump,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,trump,PERSON,,,PERSON
+108,the white house,FAC,,,FAC
+108,russia,GPE,,,GPE
+108,trump,PERSON,,,PERSON
+108,finnish,NORP,,,NORP
+108,alexander stubb,PERSON,,,PERSON
+108,trump,PERSON,,,PERSON
+108,the united states,GPE,,,GPE
+108,europe,LOC,,,LOC
+108,europe,LOC,,,LOC
+108,trump,PERSON,,,PERSON
+108,trump,PERSON,,,PERSON
+108,chinese airline,ORG,,,ORG
+108,russia,GPE,,,GPE
+108,us,GPE,,,GPE
+108,arpan rai,PERSON,,,PERSON
+108,trump,PERSON,,,PERSON
+108,chinese airline,ORG,,,ORG
+108,russia,GPE,,,GPE
+108,the united states,GPE,,,GPE
+108,american carrier,ORG,,,ORG
+108,we airline,ORG,,,ORG
+108,chinese carrier,ORG,,,ORG
+108,russia,GPE,,,GPE
+108,the us transportation department,ORG,,,ORG
+108,usdot,ORG,NULL,,NULL
+108,chinese,NORP,,,NORP
+108,we,ORG,,,ORG
+108,chinese,NORP,,,NORP
+108,russia,GPE,,,GPE
+108,we airline,ORG,,,ORG
+108,washington,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,us,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,ukraines zaporizhzhia nuclear plant,FAC,,,FAC
+108,arpan rai,PERSON,,,PERSON
+108,russianheld,NORP,NULL,,NULL
+108,zaporizhzhia nuclear power plant,FAC,,,FAC
+108,ukraine,GPE,,,GPE
+108,the un nuclear watchdog,ORG,NULL,,NULL
+108,europe large nuclear power plant,FAC,,,FAC
+108,rafael grossi,PERSON,,,PERSON
+108,the international atomic energy agency,ORG,,,ORG
+108,ukraine,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,grossi,PERSON,,,PERSON
+108,iaea,ORG,,,ORG
+108,the zaporizhzhia nuclear power plant,FAC,,,FAC
+108,russian,NORP,,,NORP
+108,europe,LOC,,,LOC
+108,kremlin,GPE,FAC,,FAC
+108,ukraine,GPE,,,GPE
+108,starmer,PERSON,,,PERSON
+108,modi,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,facetoface,GPE,NULL,,NULL
+108,arpan rai,PERSON,,,PERSON
+108,keir starmer,PERSON,,,PERSON
+108,narendra modi,PERSON,,,PERSON
+108,india,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,keir,PERSON,,,PERSON
+108,india,GPE,,,GPE
+108,the un security council,ORG,,,ORG
+108,indian,NORP,,,NORP
+108,russias,NORP,,,NORP
+108,vladimir putin,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,mumbai,GPE,,,GPE
+108,starmer,GPE,,,GPE
+108,modi,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,oil,GPE,PRODUCT,,PRODUCT
+108,facetoface,GPE,NULL,,NULL
+108,russianoccupied,NORP,NULL,,NULL
+108,ukraine,GPE,,,GPE
+108,arpan rai,GPE,,,GPE
+108,ukrainian,NORP,,,NORP
+108,russianoccupied,NORP,NULL,,NULL
+108,kyivs,NORP,GPE,,GPE
+108,volodymyr zelenskys,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,russianoccupie,GPE,NULL,,NULL
+108,ukraine,GPE,,,GPE
+108,andriy yermak yermak,PERSON,NULL,,NULL
+108,russian,NORP,,,NORP
+108,russiainstalled authority,ORG,,,ORG
+108,russian,NORP,,,NORP
+108,occupy area,LOC,NULL,,NULL
+108,ukrainian,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,belarus,GPE,,,GPE
+108,yale school of public health research,ORG,,,ORG
+108,kyiv,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,arpan rai,GPE,PERSON,,PERSON
+108,russia bombard,GPE,,,GPE
+108,kyiv,ORG,GPE,,GPE
+108,largescale,NORP,NULL,,NULL
+108,arpan rai,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,central kyiv,LOC,,,LOC
+108,capital,GPE,NULL,,NULL
+108,kyiv city,GPE,,,GPE
+108,military administration,ORG,,,ORG
+108,tymur tkachenko,PERSON,,,PERSON
+108,kyiv,GPE,,,GPE
+108,vitali klitschko,PERSON,,,PERSON
+108,the east bank,LOC,,,LOC
+108,the dnipro river,LOC,,,LOC
+108,svitlana grynchuk,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,grynchuk,PERSON,,,PERSON
+108,facebook,ORG,,,ORG
+108,putin,PERSON,,,PERSON
+108,central asia,LOC,,,LOC
+108,tajikistan,GPE,,,GPE
+108,maira,PERSON,,,PERSON
+108,butt,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,vladimir putin,PERSON,,,PERSON
+108,tajikistan,GPE,,,GPE
+108,moscow india,GPE,,,GPE
+108,russias fighter jet,PRODUCT,,,PRODUCT
+108,ukrainian,NORP,,,NORP
+108,maira butt,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,indian,NORP,,,NORP
+108,delhi,GPE,,,GPE
+108,mumbai,GPE,,,GPE
+108,be,GPE,NULL,,NULL
+108,russia,GPE,,,GPE
+108,kyivbase,ORG,,,ORG
+108,arpan rai,GPE,PERSON,,PERSON
+108,india,GPE,,,GPE
+108,russias,NORP,,,NORP
+108,putin,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,azerbaijan airlines,ORG,,,ORG
+108,102,PERSON,,,PERSON
+108,maira butt putin,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,putin,PERSON,,,PERSON
+108,zelensky,PERSON,,,PERSON
+108,maira butt,PERSON,,,PERSON
+108,vladimir putin,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,volodymyr zelensky,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,zelensky,PERSON,,,PERSON
+108,putin,PERSON,,,PERSON
+108,war,EVENT,,,EVENT
+108,zelensky,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,trump,PERSON,,,PERSON
+108,zelensky,PERSON,,,PERSON
+108,maira,PERSON,,,PERSON
+108,butt,PERSON,,,PERSON
+108,ukrainian,NORP,,,NORP
+108,volodymyr zelensky,PERSON,,,PERSON
+108,kyiv,ORG,GPE,,GPE
+108,donald trump,PERSON,,,PERSON
+108,tomahawk missile,PRODUCT,,,PRODUCT
+108,ukraine,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,trump,PERSON,,,PERSON
+108,the un general assembly,FAC,,,FAC
+108,zelensky,PERSON,,,PERSON
+108,trump,PERSON,,,PERSON
+108,ukrainian,NORP,,,NORP
+108,ukraine,NORP,,,NORP
+108,ukrainian,NORP,,,NORP
+108,odesa,GPE,,,GPE
+108,maira,PERSON,,,PERSON
+108,butt,PERSON,,,PERSON
+108,ukrainian,NORP,,,NORP
+108,wartorn,GPE,NULL,,NULL
+108,sumo,GPE,,,GPE
+108,maira,PERSON,,,PERSON
+108,butt,PERSON,,,PERSON
+108,ukrainian,NORP,,,NORP
+108,wartorn,GPE,NULL,,NULL
+108,sumo,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,ukraine chernihiv,GPE,,,GPE
+108,maira,PERSON,,,PERSON
+108,butt,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,chernihiv,GPE,,,GPE
+108,vyacheslav chaus,PERSON,,,PERSON
+108,facebook,ORG,,,ORG
+108,the national energy company,ORG,,,ORG
+108,ukraine,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,chernihiv,GPE,,,GPE
+108,the local power company,ORG,,,ORG
+108,holly bishop,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,chernihiv,GPE,,,GPE
+108,indian,NORP,,,NORP
+108,russian,NORP,,,NORP
+108,ukrainian,NORP,,,NORP
+108,kyiv,PERSON,GPE,,GPE
+108,maira,PERSON,,,PERSON
+108,indian,NORP,,,NORP
+108,russian,NORP,,,NORP
+108,ukrainian,NORP,,,NORP
+108,kyiv,PERSON,GPE,,GPE
+108,the 63rd mechanised brigade,ORG,,,ORG
+108,the ukrainian army,ORG,,,ORG
+108,telegram,ORG,,,ORG
+108,majoti sahil mohame hussein,PERSON,,,PERSON
+108,morbi,GPE,,,GPE
+108,gujarat,GPE,,,GPE
+108,namita singh,PERSON,,,PERSON
+108,indian,NORP,,,NORP
+108,russian,NORP,,,NORP
+108,ukrainian,NORP,,,NORP
+108,kyiv,PERSON,GPE,,GPE
+108,russia,GPE,,,GPE
+108,russianowne oil company,ORG,,,ORG
+108,serbia,GPE,,,GPE
+108,maira,GPE,PERSON,,PERSON
+108,butt,PERSON,,,PERSON
+108,the united states,GPE,,,GPE
+108,serbias,GPE,,,GPE
+108,russianowne oil company,ORG,NULL,,NULL
+108,ni niisbel,PERSON,,,PERSON
+108,croatia,GPE,,,GPE
+108,serbia,GPE,,,GPE
+108,aleksandr vucic,PERSON,,,PERSON
+108,starmer,PERSON,,,PERSON
+108,modi,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,facetoface,GPE,,,GPE
+108,maira,GPE,,,GPE
+108,british,NORP,,,NORP
+108,keir starmer,PERSON,,,PERSON
+108,indian,NORP,,,NORP
+108,narendra modi,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,starmer,PERSON,,,PERSON
+108,india,GPE,,,GPE
+108,the un security council,ORG,,,ORG
+108,ukraine,GPE,,,GPE
+108,indopacific,LOC,,,LOC
+108,zelensky,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,maira butt,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,china,GPE,,,GPE
+108,eu sanctions,ORG,NULL,,NULL
+108,maira,GPE,,,GPE
+108,david osullivan,PERSON,,,PERSON
+108,russias,NORP,,,NORP
+108,we,GPE,NULL,,NULL
+108,us,GPE,,,GPE
+108,g7,ORG,,,ORG
+108,russian,NORP,,,NORP
+108,us,GPE,,,GPE
+108,donald trump,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,vladimir putin,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,us,GPE,,,GPE
+108,eu,GPE,,,GPE
+108,slovakia,GPE,,,GPE
+108,hungary,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,china,GPE,,,GPE
+108,china,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,reuters,PERSON,ORG,,ORG
+108,international atomic energy agency,ORG,,,ORG
+108,maira butt,PERSON,,,PERSON
+108,the international atomic energy agency,ORG,,,ORG
+108,ukraines,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,dniprovska,GPE,,,GPE
+108,ferosplavna1,LOC,,,LOC
+108,rafael grossi,PERSON,,,PERSON
+108,xtwitter,ORG,,,ORG
+108,russian security council,ORG,,,ORG
+108,dmitry medvedev,PERSON,,,PERSON
+108,korea,GPE,,,GPE
+108,maira butt,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,the russian security council,ORG,,,ORG
+108,dmitry medvedev,PERSON,,,PERSON
+108,the central cadre training school,FAC,,,FAC
+108,the worker party of korea,ORG,,,ORG
+108,pyongyang,GPE,,,GPE
+108,putin,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,azerbaijan airlines,ORG,,,ORG
+108,maira butt,PERSON,,,PERSON
+108,putin,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,donald trump,PERSON,,,PERSON
+108,gaza,PERSON,GPE,,GPE
+108,maira butt,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,the gaza strip,GPE,,,GPE
+108,vladimir putin,PERSON,,,PERSON
+108,us,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,tajikistan,GPE,,,GPE
+108,india,GPE,,,GPE
+108,russias,NORP,,,NORP
+108,ukrainian,NORP,,,NORP
+108,maira butt,GPE,PERSON,,PERSON
+108,russian,NORP,,,NORP
+108,indian,NORP,,,NORP
+108,delhi,GPE,,,GPE
+108,mumbai,GPE,,,GPE
+108,be,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,kyivbase,ORG,NULL,,NULL
+108,arpan rai,GPE,PERSON,,PERSON
+108,india,GPE,,,GPE
+108,russias,NORP,,,NORP
+108,russia,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,maira,GPE,,,GPE
+108,butt russia,GPE,NULL,,NULL
+108,ukraine,GPE,,,GPE
+108,winter loom accord,EVENT,NULL,,NULL
+108,naftogaz ukraines,GPE,ORG,,ORG
+108,sergii koretskyi,PERSON,,,PERSON
+108,the financial time,ORG,,,ORG
+108,russia,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,putin,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,azerbaijani,NORP,,,NORP
+108,taz,PERSON,,,PERSON
+108,ali,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,vladimir putin,PERSON,,,PERSON
+108,russias,NORP,,,NORP
+108,azerbaijani,NORP,,,NORP
+108,azerbaijan airlines,ORG,,,ORG
+108,baku,GPE,,,GPE
+108,grozny,GPE,,,GPE
+108,chechnya,GPE,,,GPE
+108,russian air defence,ORG,,,ORG
+108,kazakhstan,GPE,,,GPE
+108,putin,GPE,PERSON,,PERSON
+108,azerbaijan,NORP,,,NORP
+108,ilham aliyev,PERSON,,,PERSON
+108,tajikistan,GPE,,,GPE
+108,aliyev,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,czech,NORP,,,NORP
+108,babis,PERSON,,,PERSON
+108,zelensky,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,taz ali,PERSON,,,PERSON
+108,czech,NORP,,,NORP
+108,andrej babis,PERSON,,,PERSON
+108,ukrainian,NORP,,,NORP
+108,volodymyr zelensky,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,kyiv,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,babi,PERSON,,,PERSON
+108,czech,NORP,,,NORP
+108,zelenskyyua,PERSON,,,PERSON
+108,andrej babiš,PERSON,,,PERSON
+108,andrejbabis,PERSON,,,PERSON
+108,trump,PERSON,,,PERSON
+108,zelensky,PERSON,,,PERSON
+108,ukrainian,NORP,,,NORP
+108,volodymyr zelensky,PERSON,,,PERSON
+108,kyiv,ORG,GPE,,GPE
+108,donald trump,PERSON,,,PERSON
+108,tomahawk missile,PRODUCT,,,PRODUCT
+108,ukraine,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,trump,PERSON,,,PERSON
+108,the un general assembly,FAC,,,FAC
+108,zelensky,PERSON,,,PERSON
+108,trump,PERSON,,,PERSON
+108,ukrainian,NORP,,,NORP
+108,ukraine kremlin,GPE,NULL,,NULL
+108,usrussia,GPE,NULL,,NULL
+108,daniel keane,PERSON,,,PERSON
+108,yuri ushakov,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,us,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,state news agency,ORG,,,ORG
+108,tass,ORG,,,ORG
+108,russian,NORP,,,NORP
+108,dmitry peskov,PERSON,,,PERSON
+108,ukrainian,NORP,,,NORP
+108,odesa,GPE,,,GPE
+108,daniel keane,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,china,GPE,,,GPE
+108,taz ali,PERSON,,,PERSON
+108,david osullivan,PERSON,,,PERSON
+108,russias,NORP,,,NORP
+108,us,GPE,,,GPE
+108,g7,ORG,,,ORG
+108,us,GPE,,,GPE
+108,donald trump,PERSON,,,PERSON
+108,russian,NORP,,,NORP
+108,vladimir putin,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,us,GPE,,,GPE
+108,eu,GPE,,,GPE
+108,slovakia,GPE,,,GPE
+108,hungary,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,china,GPE,,,GPE
+108,china,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,reuters,PERSON,ORG,,ORG
+108,russian oil facility,ORG,,,ORG
+108,russia,GPE,,,GPE
+108,daniel keane,PERSON,,,PERSON
+108,russian oil facility,ORG,,,ORG
+108,ukraine,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,volodymyr zelensky,PERSON,,,PERSON
+108,ukrainian,NORP,,,NORP
+108,russias,NORP,,,NORP
+108,donetsk,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,zelensky,PERSON,,,PERSON
+108,ruta,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,zelensky,PERSON,,,PERSON
+108,putin,PERSON,,,PERSON
+108,zelensky,PERSON,,,PERSON
+108,arpan rai,PERSON,,,PERSON
+108,vladimir putin,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,volodymyr zelensky,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,zelensky,PERSON,,,PERSON
+108,zelensky,PERSON,,,PERSON
+108,ukraine,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,volodymyr zelenskyy,PERSON,,,PERSON
+108,zelenskyyua,PERSON,NULL,,NULL
+108,putin,PERSON,,,PERSON
+108,central asia,LOC,,,LOC
+108,tajikistan,GPE,,,GPE
+108,arpan rai,NORP,PERSON,,PERSON
+108,russian,NORP,,,NORP
+108,vladimir putin,PERSON,,,PERSON
+108,tajikistan,GPE,,,GPE
+108,exsoviet,NORP,NULL,,NULL
+108,moscow russia,GPE,,,GPE
+108,ukrainian,NORP,,,NORP
+108,zelensky,PERSON,,,PERSON
+108,arpan rai,GPE,,,GPE
+108,ukraines,NORP,,,NORP
+108,russian energy facility,ORG,,,ORG
+108,russia,GPE,,,GPE
+108,volodymyr zelensky,PERSON,,,PERSON
+108,reuter,PERSON,ORG,,ORG
+108,ukrainian,NORP,,,NORP
+108,russian,NORP,,,NORP
+108,zelenskys,PERSON,,,PERSON
+108,zelensky,PERSON,,,PERSON
+108,kremlin,ORG,FAC,,FAC
+108,russias,NORP,,,NORP
+108,ukraine,GPE,,,GPE
+108,russias,NORP,GPE,,GPE
+108,russian,NORP,,,NORP
+108,ukrainian,NORP,,,NORP
+108,russian,NORP,,,NORP
+108,ukrainian oil depot,FAC,,,FAC
+108,arpan,PERSON,,,PERSON
+108,rai ukraine,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,donetsk,GPE,,,GPE
+108,zelensky,PERSON,,,PERSON
+108,arpan,PERSON,,,PERSON
+108,rai,NORP,PERSON,,PERSON
+108,ukrainian,NORP,,,NORP
+108,donetsk,GPE,,,GPE
+108,volodymyr zelensky,PERSON,,,PERSON
+108,vladimir putin,PERSON,,,PERSON
+108,russia,GPE,,,GPE
+108,zelensky,PERSON,,,PERSON
+108,oleksandr syrskyi,PERSON,,,PERSON
+108,dobropillia,GPE,,,GPE
+108,areaukraine,GPE,NULL,,NULL
+108,dobropillia,GPE,,,GPE
+108,pokrovsk,GPE,,,GPE
+108,russias,NORP,GPE,,GPE
+108,donetsk,GPE,,,GPE
+108,ukrainian,NORP,,,NORP
+108,zelensky,PERSON,,,PERSON
+108,kupiansk,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,russian,NORP,,,NORP
+108,novopavlivka,GPE,,,GPE
+108,zaporizhzhia,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,russia,GPE,,,GPE
+108,tomahawk missile,PRODUCT,,,PRODUCT
+108,arpan rai,PERSON,,,PERSON
+108,kremlin,ORG,FAC,,FAC
+108,we,ORG,,,ORG
+108,tomahawk missile,PRODUCT,,,PRODUCT
+108,ukraine,GPE,,,GPE
+108,european,NORP,,,NORP
+108,kremlin,ORG,FAC,,FAC
+108,us,GPE,,,GPE
+108,ukrainian,NORP,,,NORP
+108,tomahawk,PRODUCT,,,PRODUCT
+108,russias,NORP,,,NORP
+108,the institute for the study of war,ORG,,,ORG
+108,russian,NORP,,,NORP
+108,moscow,GPE,,,GPE
+108,europe,LOC,GPE,,GPE
+108,donald trump,PERSON,,,PERSON
+108,tomahawk,PRODUCT,,,PRODUCT
+108,ukraine,GPE,,,GPE
+108,andrei kartapolov,PERSON,,,PERSON
+108,the russian parliament defence committee,ORG,,,ORG
+108,moscow,GPE,,,GPE
+108,ukraine,GPE,,,GPE
+108,syria,GPE,,,GPE
+108,independent,NORP,ORG,,ORG
+108,cet,ORG,NULL,,NULL
+108,independent,ORG,,,ORG
+108,london uk,GPE,,,GPE
+109,pete hegseth,PERSON,,,PERSON
+109,the defense department,ORG,,,ORG
+109,maga,NORP,,,NORP
+109,us,GPE,,,GPE
+109,qatari,NORP,,,NORP
+109,air force,ORG,,,ORG
+109,american,NORP,,,NORP
+109,qatars,NORP,,,NORP
+109,sheikh saoud bin abdulrahman,PERSON,,,PERSON
+109,althani hegseth,PERSON,,,PERSON
+109,qatari,NORP,,,NORP
+109,air force facility,FAC,,,FAC
+109,the mountain home air force base,FAC,,,FAC
+109,idaho,GPE,,,GPE
+109,conservative,NORP,NULL,,NULL
+109,laura loomer,PERSON,,,PERSON
+109,donald trump,PERSON,,,PERSON
+109,hegseth,PERSON,,,PERSON
+109,the us military,ORG,,,ORG
+109,f15qa,PRODUCT,,,PRODUCT
+109,qatar,GPE,,,GPE
+109,the united statesnor,GPE,NULL,,NULL
+109,farright,NORP,,,NORP
+109,loomer,PERSON,,,PERSON
+109,hamas,ORG,,,ORG
+109,us,GPE,,,GPE
+109,hamas,ORG,,,ORG
+109,america,GPE,,,GPE
+109,us,GPE,,,GPE
+109,jihadist,NORP,,,NORP
+109,jihadi,NORP,,,NORP
+109,loomer,PERSON,,,PERSON
+109,hegseth,PERSON,,,PERSON
+109,loomer,PERSON,,,PERSON
+109,jihadis,NORP,,,NORP
+109,trump,ORG,,,ORG
+109,steve bannon,PERSON,,,PERSON
+109,the idaho freedom foundation,ORG,NULL,,NULL
+109,america,GPE,,,GPE
+109,bannon,PERSON,,,PERSON
+109,newsweek,ORG,,,ORG
+109,the magafriendly idaho freedom foundation,ORG,NULL,,NULL
+109,idaho,GPE,,,GPE
+109,air force,ORG,,,ORG
+109,qatari,NORP,,,NORP
+109,air force,ORG,,,ORG
+109,american,NORP,,,NORP
+109,usqatari,NORP,NULL,,NULL
+109,mountain home air force base,FAC,,,FAC
+109,the 366th fighter wing,ORG,,,ORG
+109,singapore,GPE,,,GPE
+109,qatari,NORP,,,NORP
+109,f15,PRODUCT,,,PRODUCT
+109,trump,PERSON,,,PERSON
+109,qatar,GPE,,,GPE
+109,israel,NORP,GPE,,GPE
+109,qatari,NORP,,,NORP
+109,qatars royal family,ORG,,,ORG
+109,trump,PERSON,,,PERSON
+109,trump,PERSON,,,PERSON
+109,white house,ORG,FAC,,FAC
+109,trump,PERSON,,,PERSON
+109,china,GPE,,,GPE
+109,americans,NORP,,,NORP
+109,cnn,ORG,,,ORG
+109,trump,PERSON,,,PERSON
+109,gaza,ORG,GPE,,GPE
+109,chicago,GPE,,,GPE
+109,ice rove street,FAC,,,FAC
+109,gavin newsom,PERSON,,,PERSON
+109,joe rogan,PERSON,,,PERSON
+109,cet,ORG,,,ORG
+109,london uk,GPE,,,GPE
+110,british,NORP,,,NORP
+110,voir,PERSON,NULL,,NULL
+111,jodi picoult,PERSON,,,PERSON
+112,uk,GPE,,,GPE
+112,uk,GPE,,,GPE
+113,northern ireland,GPE,,,GPE
+113,slovakia,GPE,,,GPE
+113,bradley,PERSON,,,PERSON
+113,rater,PERSON,,,PERSON
+113,slovakia,GPE,,,GPE
+113,bbc sportimage,ORG,,,ORG
+113,world cup,EVENT,,,EVENT
+113,voir larticle,PERSON,NULL,,NULL
+113,cision,ORG,,,ORG
+115,lahore,GPE,,,GPE
+115,pakistan,GPE,,,GPE
+115,ap,NORP,,,NORP
+115,pakistani,NORP,,,NORP
+115,lahore,GPE,,,GPE
+115,the radical islamist political party,ORG,,,ORG
+116,egypt,GPE,,,GPE
+116,giza pyramid,FAC,,,FAC
+116,armando mei,PERSON,,,PERSON
+116,the giza pyramid,FAC,,,FAC
+116,egypt,GPE,,,GPE
+117,dick johnson racing,ORG,,,ORG
+117,ford,ORG,,,ORG
+117,mustang,PRODUCT,,,PRODUCT
+117,brodie kostecki,PERSON,,,PERSON
+119,rural post office,ORG,NULL,,NULL
+120,hull kingston rover,ORG,,,ORG
+120,super league,ORG,,,ORG
+120,hull,ORG,,,ORG
+120,robin,ORG,,,ORG
+120,wigan,GPE,,,GPE
+120,trafford manchester,FAC,,,FAC
+121,corporation street,FAC,,,FAC
+121,stafford,GPE,,,GPE
+121,the west midland,LOC,,,LOC
+122,south carolina,GPE,,,GPE
+122,willie bar and grill,FAC,ORG,,ORG
+122,st helena island,LOC,,,LOC
+122,the beaufort county sheriff office,ORG,,,ORG
+122,willie terrell,PERSON,,,PERSON
+122,wjcl,ORG,,,ORG
+122,battery creek high school,ORG,,,ORG
+122,terrell,PERSON,,,PERSON
+122,terrell,PERSON,,,PERSON
+122,wjcl,ORG,,,ORG
+122,beaufort county,GPE,,,GPE
+122,terrell,PERSON,,,PERSON
+122,wjcl,ORG,,,ORG
+122,terrell,PERSON,,,PERSON
+122,the sheriff office,ORG,,,ORG
+122,the beaufort county sheriff office,ORG,,,ORG
+122,nancy mace,PERSON,,,PERSON
+122,st helena island,FAC,,,FAC
+122,the beaufort county sheriff office,ORG,,,ORG
+122,beaufort county,GPE,,,GPE
+122,tim scott,PERSON,,,PERSON
+122,love one,PERSON,,,PERSON
+122,all of we,ORG,,,ORG
+122,south carolina,GPE,,,GPE
+122,south carolina,GPE,,,GPE
+122,new jersey,GPE,,,GPE
+122,carolinas,GPE,,,GPE
+122,atlantic,GPE,LOC,,LOC
+122,pacific,LOC,,,LOC
+122,marjorie taylor greene buck trump,PERSON,,,PERSON
+122,maga,NORP,,,NORP
+122,vance,PERSON,,,PERSON
+122,abc,ORG,,,ORG
+122,homan,PERSON,,,PERSON
+122,george trump,PERSON,,,PERSON
+122,israel,GPE,,,GPE
+122,egypt,GPE,,,GPE
+122,gaza ceasefire,EVENT,,,EVENT
+122,london uk,GPE,,,GPE
+123,snp,ORG,,,ORG
+123,christina mckelvie,PERSON,,,PERSON
+123,mckelvie,PERSON,,,PERSON
+124,aldi,ORG,,,ORG
+124,uk,GPE,,,GPE
+124,getty aldi,ORG,,,ORG
+124,uk,GPE,,,GPE
+125,brighton,ORG,,,ORG
+125,maelys mpome,PERSON,,,PERSON
+125,women super league,ORG,,,ORG
+125,arsenal,ORG,,,ORG
+126,venezuela,GPE,,,GPE
+126,maracaibo,GPE,,,GPE
+127,propalestinian,NORP,NULL,,NULL
+127,london,GPE,,,GPE
+127,israel,GPE,,,GPE
+127,hamas,GPE,,,GPE
+127,gaza,GPE,,,GPE
+128,richard heady,PERSON,,,PERSON
+128,milton keynes,GPE,,,GPE
+129,coventry city,GPE,,,GPE
+129,bbc sport,ORG,,,ORG
+129,millwall,ORG,,,ORG
+131,lorraine hollywood,PERSON,,,PERSON
+131,ross king,PERSON,,,PERSON
+131,jowita przystał foxtrot,PERSON,,,PERSON
+132,madagascar,GPE,,,GPE
+132,andry rajoelina,PERSON,,,PERSON
+132,a youthle protest movement,ORG,EVENT,,EVENT
+133,andrea catherwood,PERSON,,,PERSON
+133,radio 4s,ORG,,,ORG
+133,the migrant hotel,FAC,,,FAC
+133,sue mitchell,PERSON,,,PERSON
+133,andrea catherwood,PERSON,,,PERSON
+133,file voir larticle,ORG,NULL,,NULL
+134,ian watkin,PERSON,,,PERSON
+134,exprison,ORG,,,ORG
+134,hmp wakefield,FAC,,,FAC
+135,broadmeadow aquatic centre,FAC,,,FAC
+135,melbourne northwest,GPE,,,GPE
+135,the western melbourne propulsion swim club,ORG,,,ORG
+136,new south wale,GPE,,,GPE
+136,alice spring,ORG,,,ORG
+137,london,GPE,,,GPE
+137,jet,ORG,PRODUCT,,PRODUCT
+137,bronco,ORG,,,ORG
+137,new york,GPE,,,GPE
+138,liverpool,GPE,,,GPE
+138,johnston,PERSON,,,PERSON
+138,ancroft road,FAC,,,FAC
+138,dovecot,GPE,,,GPE
+139,lang lang,PERSON,,,PERSON
+139,lang lang,PERSON,,,PERSON
+140,california,GPE,,,GPE
+140,scott muir,PERSON,,,PERSON
+141,barack obama,PERSON,,,PERSON
+141,the trump administration,ORG,,,ORG
+142,giant,PERSON,NULL,,NULL
+142,sebastian coe,PERSON,,,PERSON
+142,eleanor oldroyd,PERSON,,,PERSON
+142,sebastian coe,PERSON,,,PERSON
+142,olympian,NORP,,,NORP
+143,england,GPE,,,GPE
+143,world cup,EVENT,,,EVENT
+143,sri lanka,PERSON,GPE,,GPE
+143,nat sciverbrunt,PERSON,,,PERSON
+143,sophie ecclestone,PERSON,,,PERSON
+144,chris robshaws,PERSON,,,PERSON
+144,camilla kerslake,PERSON,,,PERSON
+144,england,GPE,,,GPE
+144,harlequin,PERSON,NULL,,NULL
+144,the strictly come dance ballroom,FAC,NULL,,NULL
+145,mike tyson,PERSON,,,PERSON
+145,ufc,ORG,,,ORG
+145,tyson,PERSON,,,PERSON
+145,iron mike,PERSON,,,PERSON
+145,jake paul,PERSON,,,PERSON
+145,tyson,PERSON,,,PERSON
+145,floyd mayweather,PERSON,,,PERSON
+145,octagon,ORG,,,ORG
+145,the world premier mma organisation,ORG,,,ORG
+145,ufc,ORG,,,ORG
+145,tyson,PERSON,,,PERSON
+145,hardrock bet,PERSON,,,PERSON
+145,mike tyson,PERSON,,,PERSON
+145,mma,ORG,,,ORG
+145,paul,PERSON,,,PERSON
+145,ufc,ORG,,,ORG
+145,dana white,PERSON,,,PERSON
+145,prime,PERSON,ORG,,ORG
+145,ufcs,ORG,,,ORG
+145,wbc wba,ORG,,,ORG
+145,ibf,ORG,,,ORG
+145,tyson,PERSON,,,PERSON
+145,wrestlemania 14,EVENT,,,EVENT
+145,steve austin,PERSON,,,PERSON
+145,shawn michael,PERSON,,,PERSON
+145,ufc,ORG,,,ORG
+145,irishman,NORP,,,NORP
+145,kevin mcbride,PERSON,,,PERSON
+145,roy jones jr,PERSON,,,PERSON
+145,the contest,PERSON,NULL,,NULL
+145,tyson,PERSON,,,PERSON
+145,paul,PERSON,,,PERSON
+145,paul,PERSON,,,PERSON
+145,tyson,PERSON,,,PERSON
+145,the att stadium,FAC,,,FAC
+145,texas,GPE,,,GPE
+145,tyson,PERSON,,,PERSON
+145,amir khan,PERSON,,,PERSON
+145,mike tyson,PERSON,,,PERSON
+145,floyd mayweather,PERSON,,,PERSON
+145,mike tyson,PERSON,,,PERSON
+145,floyd mayweather,PERSON,,,PERSON
+145,jake paul,PERSON,,,PERSON
+145,ufc,ORG,,,ORG
+145,ufc,ORG,,,ORG
+145,ufc,ORG,,,ORG
+145,cet,ORG,,,ORG
+145,london uk,GPE,,,GPE
+146,durham university,ORG,,,ORG
+146,syria,GPE,,,GPE
+146,the journal,ORG,,,ORG
+146,southwest asias,LOC,,,LOC
+146,turkey,GPE,,,GPE
+146,the karahantepe archaeological site,FAC,LOC,,LOC
+146,necmi karul,PERSON,,,PERSON
+146,the karahantepe excavation,ORG,,,ORG
+146,modern,NORP,NULL,,NULL
+146,karahantepe,NORP,,,NORP
+146,aztec,NORP,,,NORP
+146,roman headstone,PERSON,NULL,,NULL
+146,new orleans,GPE,,,GPE
+146,pharaonic,NORP,,,NORP
+146,egypt,GPE,,,GPE
+146,london uk,GPE,,,GPE
+147,cuban,NORP,,,NORP
+147,josé daniel ferrer,PERSON,,,PERSON
+147,us,GPE,,,GPE
+147,the communist,ORG,,,ORG
+149,scottish,NORP,,,NORP
+149,harry potter,PERSON,,,PERSON
+149,jk rowling,PERSON,,,PERSON
+149,harry potter,PERSON,,,PERSON
+149,harry potter,PERSON,,,PERSON
+149,jk rowling,PERSON,,,PERSON
+150,zinedine zidane,PERSON,,,PERSON
+150,new jobmanchester united,ORG,NULL,,NULL
+150,zinedine zidane,PERSON,,,PERSON
+150,frenchman,NORP,,,NORP
+151,laura shanley,PERSON,,,PERSON
+151,alfred corbett,PERSON,,,PERSON
+152,raif mentesh,PERSON,,,PERSON
+153,gareth taylor,PERSON,,,PERSON
+153,liverpool,ORG,,,ORG
+154,range,ORG,,,ORG
+155,keith wolverson,PERSON,,,PERSON
+156,west yorkshire,GPE,,,GPE
+157,alex kingston,PERSON,,,PERSON
+157,savesteven mcintoshentertainment,PERSON,NULL,,NULL
+158,khristianne voir,PERSON,NULL,,NULL
+161,uk,GPE,,,GPE
+163,brenda edward,PERSON,,,PERSON
+163,regular brenda edwards,PERSON,NULL,,NULL
+164,ian watkin,PERSON,,,PERSON
+164,deathwarne,PERSON,,,PERSON
+164,ian watkin,PERSON,,,PERSON
+165,thomas taylor,PERSON,,,PERSON
+165,savegeorge king,PERSON,NULL,,NULL
+166,scarecrow festival,EVENT,,,EVENT
+167,angie duffin,PERSON,,,PERSON
+167,nhs,ORG,,,ORG
+167,savebea swalloww,PERSON,NULL,,NULL
+167,england,GPE,,,GPE
+168,the people in recovery,ORG,NULL,,NULL
+169,road,FAC,NULL,,NULL
+169,botchergate,GPE,,,GPE
+169,carlisle station gateway,FAC,,,FAC
+169,city rail station road,FAC,,,FAC
+170,jane bean,PERSON,,,PERSON
+170,kent,GPE,,,GPE
+170,debbie houschild,PERSON,,,PERSON
+170,new jersey,GPE,,,GPE
+170,international pen pal meet,ORG,EVENT,,EVENT
+170,savesophie sutton,PERSON,NULL,,NULL
+170,andcraig buchansouth,PERSON,NULL,,NULL
+171,brownstaine,LOC,,,LOC
+172,leonard gregory,PERSON,,,PERSON
+172,sydney,GPE,,,GPE
+172,hull kr,ORG,NULL,,NULL
+174,tim connor,PERSON,,,PERSON
+174,harrogate,GPE,,,GPE
+174,pateley bridges nidderdale,ORG,FAC,,FAC
+175,doncaster,GPE,,,GPE
+176,steve evet,PERSON,,,PERSON
+176,jim,PERSON,,,PERSON
+176,evet,PERSON,,,PERSON
+177,steve witkoff,PERSON,,,PERSON
+177,jonathan powell,PERSON,,,PERSON
+177,trump,PERSON,,,PERSON
+177,gaza,ORG,GPE,,GPE
+177,pa news agency,ORG,,,ORG
+177,cision,ORG,,,ORG
+178,shropshire council,ORG,,,ORG
+178,saveandy giddingswest midland,ORG,NULL,,NULL
+179,janet kennedy,PERSON,,,PERSON
+179,julia wandelt,PERSON,,,PERSON
+179,madeleine mccann,PERSON,,,PERSON
+179,mccann,PERSON,,,PERSON
+180,r360,PRODUCT,,,PRODUCT
+180,rugbys civil voir,ORG,NULL,,NULL
+181,ian watkin,PERSON,,,PERSON
+181,ian watkin,PERSON,,,PERSON
+181,cision,ORG,,,ORG
+182,christmas tree,EVENT,,,EVENT
+182,christmas fast approach,EVENT,NULL,,NULL
+183,catherine,PERSON,,,PERSON
+183,the homestart centre,FAC,,,FAC
+183,oxford,GPE,,,GPE
+183,kate,PERSON,,,PERSON
+184,european,NORP,,,NORP
+185,mollymae hague,PERSON,,,PERSON
+185,bambis,PERSON,,,PERSON
+185,waymollymae hague,PERSON,,,PERSON
+188,brit,GPE,,,GPE
+189,savestuart,PERSON,,,PERSON
+189,cision,ORG,,,ORG
+190,exeastender,ORG,,,ORG
+190,cheryl fergison,PERSON,,,PERSON
+190,carboot,ORG,,,ORG
+190,eastender,ORG,,,ORG
+190,cheryl fergison,PERSON,,,PERSON
+190,carboot,ORG,,,ORG
+190,voir larticle,GPE,NULL,,NULL
+191,the department of homeland security,ORG,,,ORG
+191,chappell roan,PERSON,,,PERSON
+191,los angeles voir,GPE,NULL,,NULL
+192,british champion day,EVENT,,,EVENT
+192,ascotombudsman field of,FAC,NULL,,NULL
+192,delacroix,PERSON,,,PERSON
+192,calandagan,PERSON,,,PERSON
+193,sam gardiner,PERSON,,,PERSON
+193,bbc,ORG,,,ORG
+193,sam gardiner,PERSON,,,PERSON
+193,appal voir larticle,GPE,NULL,,NULL
+195,leicestershire,GPE,,,GPE
+195,bbc,ORG,,,ORG
+195,leicester,GPE,,,GPE
+196,cairo ap,GPE,,,GPE
+196,israelis,NORP,,,NORP
+196,gaza,GPE,,,GPE
+197,us,GPE,,,GPE
+197,gaza,GPE,,,GPE
+197,palestinians,NORP,,,NORP
+197,trump,PERSON,,,PERSON
+197,israel,GPE,,,GPE
+198,edtteam news,ORG,,,ORG
+198,brennan johnson,PERSON,,,PERSON
+198,kieffer moore,PERSON,,,PERSON
+198,the wale bench,FAC,,,FAC
+198,wale darlow,PERSON,,,PERSON
+198,rodon cabango,PERSON,,,PERSON
+198,ben davies,PERSON,,,PERSON
+198,jordan james brooks,PERSON,,,PERSON
+198,wilson,PERSON,,,PERSON
+198,thomas,PERSON,,,PERSON
+199,bbc,ORG,,,ORG
+199,tim davie,PERSON,,,PERSON
+199,israel,GPE,,,GPE
+199,eurovision,ORG,,,ORG
+200,marco penge,PERSON,,,PERSON
+200,englishman,NORP,,,NORP
+200,daniel brown,PERSON,,,PERSON
+200,spanish,NORP,,,NORP
+200,madrid,GPE,,,GPE
+200,england,GPE,,,GPE
+200,penge,PERSON,,,PERSON
+200,spanish,NORP,,,NORP
+200,getty voir,PERSON,,,PERSON
+202,palestinian,NORP,,,NORP
+202,a theatre voir,FAC,NULL,,NULL
+203,the super league grand final,EVENT,EVENT,,EVENT
+203,trafford,FAC,,,FAC
+203,super league grand final,ORG,,,ORG
+203,west voir,GPE,NULL,,NULL
+204,edinburgh,GPE,,,GPE
+205,england,GPE,,,GPE
+205,luther burrell,PERSON,,,PERSON
+205,burrell,PERSON,,,PERSON
+206,london,GPE,,,GPE
+206,vauxhall station,FAC,,,FAC
+206,london waterloo,FAC,,,FAC
+206,clapham junction,FAC,,,FAC
+207,world cup,EVENT,,,EVENT
+207,england,GPE,,,GPE
+207,nat sciverbrunt,PERSON,,,PERSON
+208,claire leveque,PERSON,,,PERSON
+208,aren pearson,PERSON,,,PERSON
+209,tommy robinson,PERSON,,,PERSON
+209,elon musk,PERSON,,,PERSON
+210,french,NORP,,,NORP
+210,emmanuel macron,PERSON,,,PERSON
+210,rival political party,ORG,,,ORG
+210,france,GPE,,,GPE
+210,france,GPE,,,GPE
+211,middle eastweve,LOC,,,LOC
+211,israel,GPE,,,GPE
+212,sarah ferguson,PERSON,,,PERSON
+212,natalie dormer,PERSON,,,PERSON
+212,sarah ferguson,PERSON,,,PERSON
+212,jeffrey epstein,PERSON,,,PERSON
+214,dunloy,ORG,GPE,,GPE
+214,antrim,NORP,GPE,,GPE
+214,cargin,GPE,,,GPE
+214,corrigan park,FAC,,,FAC
+215,south carolina,GPE,,,GPE
+215,chloe kitts,PERSON,,,PERSON
+215,social medium,ORG,,,ORG
+217,glentoran,PERSON,ORG,,ORG
+217,crusader,PERSON,ORG,,ORG
+217,allirish,NORP,,,NORP
+217,the betmclean cup,EVENT,,,EVENT
+217,glen host crue,GPE,NULL,,NULL
+217,betmclean cup,EVENT,,,EVENT
+218,fa cup,EVENT,,,EVENT
+218,getty,ORG,,,ORG
+218,eighty,ORG,,,ORG
+218,the fa cup,EVENT,,,EVENT
+218,bychris peddybbc,PERSON,,,PERSON
+219,noa argamani,PERSON,,,PERSON
+219,avinatan,PERSON,,,PERSON
+219,israeli,NORP,,,NORP
+219,sas,ORG,,,ORG
+220,bowen,PERSON,,,PERSON
+220,inaugural welsh racing festival,EVENT,,,EVENT
+220,chepstow bowen,GPE,,,GPE
+220,welsh race voir larticle ce document référence un lien url de site non hébergé par cision,EVENT,NULL,,NULL
+221,anne hathaway,PERSON,,,PERSON
+222,aoba fujino,PERSON,,,PERSON
+222,manchester city,GPE,ORG,,ORG
+222,anfield,FAC,,,FAC
+222,liverpool,GPE,,,GPE
+222,womens super league,ORG,,,ORG
+222,aoba fujino,PERSON,,,PERSON
+223,catrin heledd,PERSON,,,PERSON
+223,wale world cup,EVENT,,,EVENT
+223,belgium,GPE,,,GPE
+223,cardiff city stadium,FAC,,,FAC
+223,ashley williams,PERSON,,,PERSON
+223,rob earnshaw,PERSON,,,PERSON
+223,nia jones,GPE,PERSON,,PERSON
+224,courtney,PERSON,,,PERSON
+224,29 european,NORP,NULL,,NULL
+224,the european union,ORG,,,ORG
+224,uk,GPE,,,GPE
+224,uk,GPE,,,GPE
+224,european,NORP,,,NORP
+224,jet2,ORG,,,ORG
+224,europe,LOC,,,LOC
+224,british,NORP,,,NORP
+224,noneu citizen,NORP,NULL,,NULL
+224,the eu border,FAC,,,FAC
+224,british,NORP,,,NORP
+224,alex norris,PERSON,,,PERSON
+224,british,NORP,,,NORP
+224,european,NORP,,,NORP
+224,uk,GPE,,,GPE
+224,eu,GPE,,,GPE
+224,the eu border,FAC,,,FAC
+224,schengen,GPE,,,GPE
+224,schengen,GPE,,,GPE
+224,nicholastansellpa,ORG,NULL,,NULL
+224,jet2,PRODUCT,ORG,,ORG
+225,connor oneill,PERSON,,,PERSON
+225,kamara,PERSON,,,PERSON
+225,world boxing cup,EVENT,,,EVENT
+225,india,GPE,,,GPE
+225,kamara,GPE,,,GPE
+225,the inaugural world boxing championship,EVENT,,,EVENT
+225,the ms bank arena,FAC,,,FAC
+225,great britain olympic,ORG,,,ORG
+225,salisbury abc,GPE,,,GPE
+225,kazakhstan,NORP,GPE,,GPE
+225,torekhan sabyrkhan,PERSON,,,PERSON
+225,kamara,PERSON,,,PERSON
+225,india,GPE,,,GPE
+225,british,NORP,,,NORP
+225,the world championship,EVENT,,,EVENT
+225,olympicstyle,ORG,NULL,,NULL
+225,india,GPE,,,GPE
+225,sky sport,ORG,,,ORG
+225,odel kamara,PERSON,,,PERSON
+225,the world box championship,EVENT,,,EVENT
+225,odel kamara,PERSON,,,PERSON
+225,kuwardeep manu,PERSON,,,PERSON
+226,patrick edrich,PERSON,,,PERSON
+226,lydia morris,PERSON,,,PERSON
+226,matthew evans,PERSON,,,PERSON
+226,uk,GPE,,,GPE
+226,gareth thomas,PERSON,,,PERSON
+226,north wale,GPE,,,GPE
+226,echos,ORG,,,ORG
+226,northwaleslive,ORG,,,ORG
+226,thomas,PERSON,,,PERSON
+226,northwaleslive,GPE,ORG,,ORG
+226,thomas,PERSON,PERSON,,PERSON
+226,thomas,PERSON,PERSON,,PERSON
+226,thomas,PERSON,PERSON,,PERSON
+226,thomas,PERSON,PERSON,,PERSON
+226,the uks road,FAC,FAC,,FAC
+226,thomas,PERSON,PERSON,,PERSON
+226,ian cooper,PERSON,PERSON,,PERSON
+226,gareth thomas,PERSON,PERSON,,PERSON
+226,north wale,GPE,GPE,,GPE
+226,ian coopernorth,PERSON,PERSON,,PERSON
+226,wale,GPE,GPE,,GPE
+226,ian coopernorth,PERSON,PERSON,,PERSON
+226,wale,GPE,GPE,,GPE
+226,gareth thomas,PERSON,PERSON,,PERSON
+227,megan banner,PERSON,PERSON,,PERSON
+227,russell grant,PERSON,PERSON,,PERSON
+227,arie,PERSON,NULL,,NULL
+227,pisce,PERSON,NULL,,NULL
+227,gemini,PERSON,NULL,,NULL
+227,cancer,PERSON,NULL,,NULL
+228,australian,NORP,NORP,,NORP
+228,madeleine habib,PERSON,PERSON,,PERSON
+228,israeli,NORP,NORP,,NORP
+228,israeli,NORP,NORP,,NORP
+229,matt cross,PERSON,PERSON,,PERSON
+229,bourne,GPE,GPE,,GPE
+229,king conker,PERSON,PERSON,,PERSON
+229,matt cross,PERSON,PERSON,,PERSON
+229,bourne,GPE,GPE,,GPE
+229,lincolnshire,GPE,GPE,,GPE
+229,king conker,PERSON,PERSON,,PERSON
+230,aston villa,GPE,ORG,,ORG
+230,ollie watkin,PERSON,PERSON,,PERSON
+230,england world cup,EVENT,EVENT,,EVENT
+230,latvia,GPE,GPE,,GPE
+230,watkin,PERSON,PERSON,,PERSON
+230,wale,ORG,GPE,,GPE
+230,marcus rashford,PERSON,PERSON,,PERSON
+230,ollie watkin,PERSON,PERSON,,PERSON
+230,fifaworldcup qualifi,EVENT,EVENT,,EVENT
+230,latvia,GPE,GPE,,GPE
+230,wale,ORG,GPE,,GPE
+230,ollie,PERSON,PERSON,,PERSON
+230,the mixed zone,LOC,NULL,,NULL
+230,riga,GPE,GPE,,GPE
+230,villa,GPE,NULL,,NULL
+230,premier league,ORG,ORG,,ORG
+230,tottenham,GPE,GPE,,GPE
+230,the football association,ORG,ORG,,ORG
+230,ollie watkin,PERSON,PERSON,,PERSON
+230,fifa world cup qualifi,EVENT,EVENT,,EVENT
+230,latvia,GPE,GPE,,GPE
+230,aston villa,ORG,ORG,,ORG
+230,wale,ORG,GPE,,GPE
+230,wembley,GPE,FAC,,FAC
+230,riga,GPE,GPE,,GPE
+230,harry kane,PERSON,PERSON,,PERSON
+230,wale,ORG,GPE,,GPE
+230,bayern munich,GPE,ORG,,ORG
+230,kane,PERSON,PERSON,,PERSON
+230,bayern,NORP,ORG,,ORG
+230,anthony gordon,PERSON,PERSON,,PERSON
+230,wale thomas,PERSON,PERSON,,PERSON
+230,tuchels,PERSON,PERSON,,PERSON
+230,world cup,EVENT,EVENT,,EVENT
+230,latvian,NORP,NORP,,NORP
+230,group k,ORG,NULL,,NULL
+230,tuchel,PERSON,PERSON,,PERSON
+230,jordan pickford,PERSON,PERSON,,PERSON
+230,medium,ORG,NULL,,NULL
+230,riga,GPE,GPE,,GPE
+230,wale,PERSON,GPE,,GPE
+230,belgium,GPE,GPE,,GPE
+230,world cup,EVENT,EVENT,,EVENT
+230,scotland,GPE,GPE,,GPE
+230,chelsea,GPE,GPE,,GPE
+230,craig bellamy,PERSON,PERSON,,PERSON
+230,wale,ORG,GPE,,GPE
+230,belgium,GPE,GPE,,GPE
+230,jack wilshere,PERSON,PERSON,,PERSON
+230,luton,ORG,GPE,,GPE
+230,jack wilshere,PERSON,PERSON,,PERSON
+230,arsenal,ORG,ORG,,ORG
+230,fa cup,ORG,EVENT,,EVENT
+230,ball number cet,ORG,NULL,,NULL
+230,the independent london uk,ORG,ORG,,ORG
+231,tariq ahme,PERSON,PERSON,,PERSON
+232,ibiza,GPE,GPE,,GPE
+232,playa den bossa,LOC,LOC,,LOC
+232,plata den bossa,LOC,LOC,,LOC
+232,ibiza,GPE,GPE,,GPE
+232,ibiza,GPE,GPE,,GPE
+232,the balearic island,LOC,LOC,,LOC
+232,diario de ibiza,ORG,ORG,,ORG
+232,vibra algarb,FAC,FAC,,FAC
+232,the civil guard,ORG,ORG,,ORG
+232,the bay of talamanca accord,LOC,LOC,,LOC
+232,periódico de ibiza y formentera   maritime rescue,ORG,NULL,,NULL
+232,ibiza,GPE,GPE,,GPE
+232,storm alice,EVENT,EVENT,,EVENT
+232,ibiza,GPE,GPE,,GPE
+232,prestwick beach,FAC,LOC,,LOC
+232,south ayrshire,GPE,LOC,,LOC
+232,with,GPE,NULL,,NULL
+232,scotland,GPE,GPE,,GPE
+232,southern california,LOC,LOC,,LOC
+232,the palos verde estate,FAC,NULL,,NULL
+232,the spanish national police,ORG,ORG,,ORG
+232,the ibiza island council,ORG,ORG,,ORG
+232,spain flood,EVENT,EVENT,,EVENT
+232,storm alice,EVENT,EVENT,,EVENT
+232,ibiza,GPE,GPE,,GPE
+232,formentera brighton,GPE,NULL,,NULL
+232,england,GPE,GPE,,GPE
+232,uk airline,ORG,ORG,,ORG
+232,prague airport,FAC,FAC,,FAC
+232,european attraction,FAC,NULL,,NULL
+232,the independent,ORG,ORG,,ORG
+232,london uk,GPE,GPE,,GPE
+233,prince andrew,PERSON,PERSON,,PERSON
+233,aaron chownpoolafp,PERSON,PERSON,,PERSON
+233,getty,ORG,ORG,,ORG
+233,prince andrew,PERSON,PERSON,,PERSON
+234,arno grove,GPE,GPE,,GPE
+234,north london2,GPE,NULL,,NULL
+235,nhs,ORG,ORG,,ORG
+235,new ambulance hub,FAC,FAC,,FAC
+235,nhs boss1,PERSON,NULL,,NULL
+235,anddebbie tubbybbc,PERSON,PERSON,,PERSON
+236,broadwater farm,FAC,FAC,,FAC
+237,health,ORG,NULL,,NULL
+237,rfk jr,PERSON,PERSON,,PERSON
+237,donald trump,PERSON,PERSON,,PERSON
+237,skit,ORG,NULL,,NULL
+238,british,NORP,NORP,,NORP
+239,israeli,NORP,NORP,,NORP
+239,hamas,ORG,ORG,,ORG
+239,donald trump,PERSON,PERSON,,PERSON
+239,tel avivs hostage square,FAC,NULL,,NULL
+239,hamas,ORG,ORG,,ORG
+239,israel,GPE,GPE,,GPE
+239,us,GPE,GPE,,GPE
+239,israel,GPE,GPE,,GPE
+239,air force one,PRODUCT,ORG,,ORG
+239,palestinian,NORP,NORP,,NORP
+239,palestinian,NORP,NORP,,NORP
+239,israeli,NORP,NORP,,NORP
+239,israelbase,GPE,NULL,,NULL
+239,hamoke,ORG,NULL,,NULL
+239,trump,PERSON,PERSON,,PERSON
+239,ben gurion airport,FAC,FAC,,FAC
+239,israeli,NORP,NORP,,NORP
+239,benjamin netanyahu,PERSON,PERSON,,PERSON
+239,jerusalem,GPE,GPE,,GPE
+239,israeli,NORP,NORP,,NORP
+239,knesset,ORG,NULL,,NULL
+239,egypts,GPE,GPE,,GPE
+239,sharmel sheikh,GPE,GPE,,GPE
+239,keir starmer,PERSON,PERSON,,PERSON
+239,trump,PERSON,PERSON,,PERSON
+239,egypt,GPE,GPE,,GPE
+239,gaza,GPE,GPE,,GPE
+239,the middle east,LOC,LOC,,LOC
+239,trump,PERSON,PERSON,,PERSON
+239,israel,GPE,GPE,,GPE
+239,gaza,GPE,GPE,,GPE
+239,gaza,GPE,GPE,,GPE
+239,trump,PERSON,PERSON,,PERSON
+239,israel,GPE,GPE,,GPE
+239,hamas,ORG,ORG,,ORG
+239,gaza,GPE,GPE,,GPE
+239,armed group,ORG,NULL,,NULL
+239,london uk,GPE,GPE,,GPE
+240,40cult beauty,ORG,NULL,,NULL
+241,trump,PERSON,PERSON,,PERSON
+241,middle east,LOC,LOC,,LOC
+241,uk,GPE,GPE,,GPE
+241,gaza,GPE,GPE,,GPE
+241,steve witkoff,PERSON,PERSON,,PERSON
+241,jonathan powell,PERSON,PERSON,,PERSON
+241,keir starmer,PERSON,PERSON,,PERSON
+241,sharm el sheikh,GPE,GPE,,GPE
+241,donald trump,PERSON,PERSON,,PERSON
+241,egypt,GPE,GPE,,GPE
+241,qatar,GPE,GPE,,GPE
+241,turkey,GPE,GPE,,GPE
+241,gaza,GPE,GPE,,GPE
+241,the united kingdom,GPE,GPE,,GPE
+241,israel,GPE,GPE,,GPE
+241,jonathan powell,PERSON,PERSON,,PERSON
+241,steve witkoff,PERSON,PERSON,,PERSON
+241,us,GPE,GPE,,GPE
+241,egyptian,NORP,NORP,,NORP
+241,abdel fattah elsisi,PERSON,PERSON,,PERSON
+241,israel,GPE,GPE,,GPE
+241,hamas,GPE,ORG,,ORG
+241,israel,GPE,GPE,,GPE
+241,hamas,NORP,ORG,,ORG
+241,red cross,ORG,ORG,,ORG
+241,keirs,PERSON,PERSON,,PERSON
+241,witkoff,PERSON,PERSON,,PERSON
+241,witkoff,PERSON,PERSON,,PERSON
+241,the united kingdom,GPE,GPE,,GPE
+241,israel,GPE,GPE,,GPE
+241,jonathan powell,PERSON,PERSON,,PERSON
+241,uk,GPE,GPE,,GPE
+241,uk,GPE,GPE,,GPE
+241,we,NORP,NULL,,NULL
+241,israeli,NORP,NORP,,NORP
+241,keir us,PERSON,NULL,,NULL
+241,israel,GPE,GPE,,GPE
+241,mike huckabee,PERSON,PERSON,,PERSON
+241,bridget phillipson,PERSON,PERSON,,PERSON
+241,israeli,NORP,NORP,,NORP
+241,benjamin netanyahus,PERSON,PERSON,,PERSON
+241,sharren haskel,PERSON,PERSON,,PERSON
+241,uks,NORP,NORP,,NORP
+241,uk,GPE,GPE,,GPE
+241,palestinian,NORP,NORP,,NORP
+241,hamas,NORP,ORG,,ORG
+241,sir keir,PERSON,PERSON,,PERSON
+241,northern ireland,GPE,LOC,,LOC
+241,hama,ORG,ORG,,ORG
+241,egyptian,NORP,NORP,,NORP
+241,trump,PERSON,PERSON,,PERSON
+241,israel,GPE,GPE,,GPE
+241,hostage,PERSON,NULL,,NULL
+241,parliament,ORG,ORG,,ORG
+241,israel,GPE,GPE,,GPE
+241,arab,NORP,NORP,,NORP
+241,israel,GPE,GPE,,GPE
+241,hamas,GPE,ORG,,ORG
+241,israel,GPE,GPE,,GPE
+241,ot,GPE,NULL,,NULL
+241,trump,PERSON,PERSON,,PERSON
+241,gaza,GPE,GPE,,GPE
+241,us,GPE,GPE,,GPE
+241,hama,GPE,ORG,,ORG
+241,palestinian,NORP,NORP,,NORP
+241,keir,PERSON,PERSON,,PERSON
+241,the sharm el sheikh summit,FAC,EVENT,,EVENT
+241,trump,PERSON,PERSON,,PERSON
+241,uk,GPE,GPE,,GPE
+241,gaza,GPE,GPE,,GPE
+241,keir,PERSON,PERSON,,PERSON
+241,uk,GPE,GPE,,GPE
+241,keir,PERSON,PERSON,,PERSON
+241,gaza,LOC,GPE,,GPE
+241,uk,GPE,GPE,,GPE
+241,threeday,NORP,NULL,,NULL
+241,gazas,LOC,GPE,,GPE
+241,yvette cooper,PERSON,PERSON,,PERSON
+241,gazas,GPE,GPE,,GPE
+241,us,GPE,GPE,,GPE
+241,israel,GPE,GPE,,GPE
+241,gaza,GPE,GPE,,GPE
+241,israel,GPE,GPE,,GPE
+241,arab,NORP,NORP,,NORP
+241,muslim,NORP,NORP,,NORP
+241,israeli,NORP,NORP,,NORP
+241,gaza,GPE,GPE,,GPE
+241,british,NORP,NORP,,NORP
+241,tony blair,PERSON,PERSON,,PERSON
+241,a board of peace supervising governance of gaza,ORG,NULL,,NULL
+241,the palestinian authority,ORG,ORG,,ORG
+241,trump,PERSON,PERSON,,PERSON
+241,tony,PERSON,PERSON,,PERSON
+241,the middle east,LOC,LOC,,LOC
+241,us,GPE,GPE,,GPE
+241,tony,PERSON,PERSON,,PERSON
+241,tony,PERSON,PERSON,,PERSON
+241,tony,PERSON,PERSON,,PERSON
+241,palestinians,NORP,NORP,,NORP
+241,israelgaza,GPE,NULL,,NULL
+241,israel,GPE,GPE,,GPE
+241,uk,GPE,GPE,,GPE
+241,gaza,GPE,GPE,,GPE
+241,trump,PERSON,PERSON,,PERSON
+241,israel,GPE,GPE,,GPE
+241,gaza,GPE,GPE,,GPE
+241,israel,GPE,GPE,,GPE
+241,uk,GPE,GPE,,GPE
+241,london uk,GPE,GPE,,GPE
+242,tommy robinson,PERSON,PERSON,,PERSON
+244,meghan markle,PERSON,PERSON,,PERSON
+244,chrissy teigen,PERSON,PERSON,,PERSON
+244,kristina bumphreyvariety,PERSON,PERSON,,PERSON
+244,getty,ORG,ORG,,ORG
+244,olivia wongwireimage,PERSON,NULL,,NULL
+244,american,NORP,NORP,,NORP
+244,meghan markle,PERSON,PERSON,,PERSON
+245,jack wilshere,PERSON,PERSON,,PERSON
+245,luton town,GPE,GPE,,GPE
+245,jack wilshere,PERSON,PERSON,,PERSON
+246,amanda holden,PERSON,PERSON,,PERSON
+246,heart fm,ORG,ORG,A partir d'ici je note que la ou y a eu un changement hehe sorry,ORG
+246,airwave,ORG,PRODUCT,,PRODUCT
+246,silentamanda holden,PERSON,NULL,,NULL
+246,heart radio,ORG,,,ORG
+247,jannik sinner,PERSON,,,PERSON
+247,the shanghai master,ORG,EVENT,,EVENT
+247,cramp,PERSON,NULL,,NULL
+247,jannik sinner,PERSON,,,PERSON
+247,riyadh,GPE,,,GPE
+247,the six king slam a voir larticle ce document référence un lien url de site non hébergé par cision,EVENT,NULL,,NULL
+248,paloma faith,PERSON,,,PERSON
+248,alan carr,PERSON,,,PERSON
+248,faith,PERSON,,,PERSON
+248,carr,PERSON,,,PERSON
+248,faith,PERSON,,,PERSON
+248,carrs,PERSON,,,PERSON
+248,bbc,ORG,,,ORG
+248,the scottish castle,FAC,,,FAC
+248,carr,PERSON,,,PERSON
+248,claudia winkleman,PERSON,,,PERSON
+248,carr,PERSON,,,PERSON
+248,traitor,PERSON,NULL,,NULL
+248,tv,ORG,NULL,,NULL
+248,jonathan ross,PERSON,,,PERSON
+248,cat burn,PERSON,NULL,,NULL
+248,carr,PERSON,,,PERSON
+248,ed gamble,PERSON,,,PERSON
+248,carr,PERSON,,,PERSON
+248,carr,PERSON,,,PERSON
+248,alan face,PERSON,NULL,,NULL
+248,carr,PERSON,,,PERSON
+248,carr,PERSON,,,PERSON
+248,winkleman,PERSON,,,PERSON
+248,lucy beaumont,PERSON,,,PERSON
+248,carr,PERSON,,,PERSON
+248,winkleman,PERSON,,,PERSON
+248,carr,PERSON,,,PERSON
+248,jonathan ross,PERSON,,,PERSON
+248,carr,PERSON,,,PERSON
+248,ross,PERSON,,,PERSON
+248,carrs,PERSON,,,PERSON
+248,celia imrie,PERSON,,,PERSON
+248,ruth codd,PERSON,,,PERSON
+248,qi,ORG,NULL,,NULL
+248,stephen fry,PERSON,,,PERSON
+248,kate garraway,PERSON,,,PERSON
+248,clare balding,PERSON,,,PERSON
+248,charlotte church,ORG,,,ORG
+248,lucy beaumont,PERSON,,,PERSON
+248,joe marler,PERSON,,,PERSON
+248,niko omilana,PERSON,,,PERSON
+248,david olusoga,PERSON,,,PERSON
+248,tom daley,PERSON,,,PERSON
+248,joe wilkinson,PERSON,,,PERSON
+248,ted lasso,PERSON,,,PERSON
+248,nick mohamme,PERSON,,,PERSON
+248,paloma,GPE,PERSON,,PERSON
+248,alan carrs,PERSON,,,PERSON
+248,paloma,GPE,PERSON,,PERSON
+248,alan carr,PERSON,,,PERSON
+248,sad threeword,PERSON,,,PERSON
+248,lorraine kelly,PERSON,,,PERSON
+248,itv,ORG,,,ORG
+248,london uk,GPE,,,GPE
+249,oxford,GPE,,,GPE
+250,nfl,ORG,,,ORG
+250,british,NORP,,,NORP
+250,giggs,PERSON,,,PERSON
+250,new york,GPE,,,GPE
+250,jet,ORG,NULL,,NULL
+250,denver broncos,ORG,,,ORG
+250,tottenham hotspur stadium,FAC,,,FAC
+250,london,GPE,,,GPE
+250,giggs,PERSON,,,PERSON
+250,nfl,ORG,,,ORG
+250,london,GPE,,,GPE
+250,cleveland browns,ORG,,,ORG
+250,giggs,PERSON,,,PERSON
+250,drake 21,ORG,NULL,,NULL
+250,ed sheeran,PERSON,,,PERSON
+250,dave,PERSON,,,PERSON
+250,british,NORP,,,NORP
+250,raye,PERSON,,,PERSON
+250,tottenham,GPE,,,GPE
+250,minnesota,GPE,,,GPE
+250,cleveland,ORG,GPE,,GPE
+250,british,NORP,,,NORP
+250,myles smith,PERSON,,,PERSON
+250,nfl,ORG,,,ORG
+250,ireland,GPE,,,GPE
+250,croke park,FAC,,,FAC
+250,pittsburgh,GPE,,,GPE
+250,steeler,ORG,,,ORG
+250,viking,NORP,,,NORP
+250,grammy awardwinne,PERSON,NULL,,NULL
+250,karol g,PERSON,,,PERSON
+250,são paulo brazil,GPE,,,GPE
+250,the los angeles charger,ORG,,,ORG
+250,kansas city,GPE,,,GPE
+250,corinthian arena,FAC,,,FAC
+250,bad bunny,PERSON,,,PERSON
+250,apple music super bowl,EVENT,NULL,,NULL
+250,levis stadium,FAC,,,FAC
+250,santa clara,GPE,,,GPE
+250,california,GPE,,,GPE
+250,nfl,ORG,,,ORG
+250,tim tubito,PERSON,,,PERSON
+250,london uk,GPE,,,GPE
+251,kyiv,GPE,,,GPE
+251,ukraine   in cafe gym school,FAC,NULL,,NULL
+251,russias,NORP,GPE,,GPE
+251,kyivs maidan square,FAC,,,FAC
+251,iryna tsybukh,PERSON,,,PERSON
+251,eastern ukraine,LOC,,,LOC
+251,the daily remembrance initiative,ORG,NULL,,NULL
+251,kateryna datsenko,PERSON,,,PERSON
+251,vshanuy,ORG,,,ORG
+251,the daily observance,ORG,NULL,,NULL
+251,garden,PERSON,LOC,,LOC
+251,volodymyr zelenskyy,PERSON,,,PERSON
+251,russian,NORP,,,NORP
+251,ukrainian,NORP,,,NORP
+251,ihor reva,PERSON,,,PERSON
+251,kyivs military administration,ORG,,,ORG
+251,kyivs,FAC,GPE,,GPE
+251,reva,PERSON,,,PERSON
+251,daria kolomiec,PERSON,,,PERSON
+251,aps,ORG,NULL,,NULL
+251,ukraine,GPE,,,GPE
+251,ukraine,GPE,,,GPE
+251,trump,PERSON,,,PERSON
+251,tomahawk missile,PRODUCT,,,PRODUCT
+251,kyiv,GPE,,,GPE
+251,war connolly,PERSON,NULL,,NULL
+251,humphrey,PERSON,,,PERSON
+251,uk,PERSON,GPE,,GPE
+251,ukrainian,NORP,,,NORP
+251,home office,ORG,NULL,,NULL
+251,spain,NORP,GPE,,GPE
+251,alice,PERSON,,,PERSON
+251,trumpgaza,PERSON,NULL,,NULL
+251,israel,GPE,,,GPE
+251,hamas,NORP,ORG,,ORG
+251,london uk,GPE,,,GPE
+252,britain,GPE,,,GPE
+252,dave betton,PERSON,,,PERSON
+252,dean,PERSON,,,PERSON
+254,gus lamont,PERSON,,,PERSON
+254,the oak voir larticle,FAC,NULL,,NULL
+255,elliot jessett,PERSON,,,PERSON
+255,muchlove,LOC,NULL,,NULL
+255,crosbys seafront promenade,FAC,,,FAC
+255,the sea wall,FAC,,,FAC
+255,liverpool,GPE,,,GPE
+255,anthony gormley iron man,FAC,NULL,,NULL
+255,christopher,PERSON,,,PERSON
+255,linda wolstenholme,PERSON,,,PERSON
+255,linda,PERSON,,,PERSON
+255,the coastal path,FAC,,,FAC
+255,waterloo,FAC,,,FAC
+255,crosby coastal park,FAC,,,FAC
+255,chris,PERSON,,,PERSON
+255,sefton council,ORG,,,ORG
+255,green sefton,ORG,NULL,,NULL
+255,crosby coastal park,FAC,,,FAC
+255,chris,PERSON,,,PERSON
+255,linda,PERSON,,,PERSON
+255,sefton council,ORG,,,ORG
+255,crosby seafront walkway,FAC,,,FAC
+255,david,PERSON,,,PERSON
+255,southport town hall,FAC,,,FAC
+255,sefton council,ORG,,,ORG
+255,linda,PERSON,,,PERSON
+255,chris,PERSON,,,PERSON
+255,marram,LOC,PRODUCT,,PRODUCT
+255,david mcaleavy,PERSON,,,PERSON
+255,park and garden,FAC,,,FAC
+255,sefton,GPE,,,GPE
+255,sefton,GPE,,,GPE
+255,crosbys dune,LOC,,,LOC
+255,british,NORP,,,NORP
+255,sefton council,ORG,,,ORG
+255,uk,GPE,,,GPE
+255,chris,PERSON,,,PERSON
+255,linda,PERSON,,,PERSON
+255,crosbys coastline,LOC,,,LOC
+255,sefton council,ORG,,,ORG
+255,linda,PERSON,,,PERSON
+255,the old crosby borough council,ORG,NULL,,NULL
+255,liverpool,GPE,,,GPE
+255,chris wolstenholme,PERSON,,,PERSON
+255,crosby beach,FAC,,,FAC
+255,liverpool,GPE,,,GPE
+255,chris wolstenholme,PERSON,,,PERSON
+255,crosby beach,FAC,,,FAC
+255,iron man,PERSON,EVENT,,EVENT
+255,a crosby beach,LOC,NULL,,NULL
+255,crosby beach,FAC,,,FAC
+255,liverpool,GPE,,,GPE
+255,chris wolstenholme,PERSON,,,PERSON
+255,crosby beach,FAC,,,FAC
+255,liverpool,GPE,,,GPE
+255,chris wolstenholme,PERSON,,,PERSON
+255,crosby beach,LOC,,,LOC
+256,celtic park,FAC,,,FAC
+256,ibrox,ORG,FAC,,FAC
+256,match celtic park,EVENT,NULL,,NULL
+256,hampden park,FAC,,,FAC
+257,premier league,ORG,,,ORG
+257,swansea ben davy,FAC,NULL,,NULL
+257,volkswagen,PRODUCT,,,PRODUCT
+258,the festival of light,EVENT,,,EVENT
+258,hindus sikh,PERSON,,,PERSON
+258,jains,PERSON,,,PERSON
+258,diwali,EVENT,,,EVENT
+259,ollerton town centre,FAC,,,FAC
+260,liverpool,GPE,,,GPE
+260,car clothe,PRODUCT,,,PRODUCT
+260,shoesibrahima konate,PERSON,NULL,,NULL
+260,liverpool,GPE,,,GPE
+260,real madrid,ORG,,,ORG
+261,fran kirby,PERSON,,,PERSON
+262,coventry,GPE,,,GPE
+262,cathedral25,FAC,NULL,,NULL
+263,saveethan gudgesouth,ORG,NULL,,NULL
+263,england,GPE,,,GPE
+263,cision,ORG,NULL,,NULL
+264,manchester,ORG,GPE,,GPE
+266,taiwan,GPE,,,GPE
+266,william lai,PERSON,,,PERSON
+266,china,GPE,,,GPE
+267,cebu,GPE,,,GPE
+267,southern philippines3,LOC,NULL,,NULL
+268,dina boluarte,PERSON,,,PERSON
+268,peru,GPE,,,GPE
+268,perus,GPE,,,GPE
+269,holly clarke,PERSON,,,PERSON
+269,david harper,PERSON,,,PERSON
+269,middlesbroughborn,GPE,NULL,,NULL
+269,david hop,PERSON,,,PERSON
+269,be bear,PERSON,NULL,,NULL
+269,uk,GPE,,,GPE
+269,zimbabwe,GPE,,,GPE
+269,david,PERSON,,,PERSON
+269,david,PERSON,,,PERSON
+269,uk plc,GPE,NULL,,NULL
+269,the far east,LOC,,,LOC
+269,america,GPE,,,GPE
+269,international art and antique fair,EVENT,,,EVENT
+269,david,PERSON,,,PERSON
+269,david,PERSON,,,PERSON
+269,art museum,ORG,FAC,,FAC
+269,david,PERSON,,,PERSON
+269,africa,LOC,,,LOC
+269,picasso matisse,PERSON,NULL,,NULL
+269,vlaminck,PERSON,,,PERSON
+269,jampack,ORG,NULL,,NULL
+269,david,PERSON,,,PERSON
+269,david,PERSON,,,PERSON
+269,wendy,PERSON,,,PERSON
+269,david,PERSON,,,PERSON
+269,wendy,PERSON,,,PERSON
+269,london,GPE,,,GPE
+269,barnard castle,FAC,,,FAC
+269,county durham,GPE,LOC,,LOC
+269,david,PERSON,,,PERSON
+269,henrietta,PERSON,,,PERSON
+269,hetti,PERSON,,,PERSON
+269,tiffany twist,PERSON,,,PERSON
+269,bbc one,ORG,,,ORG
+269,bbc,ORG,,,ORG
+269,david harper,PERSON,,,PERSON
+269,bbc,ORG,,,ORG
+269,david harper,PERSON,,,PERSON
+269,tahmina ghaffar,PERSON,,,PERSON
+270,ryan paton,PERSON,,,PERSON
+270,chris mccausland,PERSON,,,PERSON
+270,bbc,ORG,,,ORG
+270,liverpudlians,NORP,NULL,,NULL
+270,dianne buswell,PERSON,,,PERSON
+270,chris be,PERSON,,,PERSON
+270,dianne,PERSON,,,PERSON
+270,chris,PERSON,,,PERSON
+270,chris,PERSON,,,PERSON
+270,chris,PERSON,,,PERSON
+270,liverpool,GPE,,,GPE
+270,chris,PERSON,,,PERSON
+270,chris,PERSON,,,PERSON
+270,liverpool,GPE,,,GPE
+270,the community spirit,ORG,NULL,,NULL
+270,west derby,GPE,EVENT,,EVENT
+270,liverpool,GPE,,,GPE
+270,evertonian,NORP,NULL,,NULL
+270,liverpudlian,NORP,NULL,,NULL
+270,chris,PERSON,,,PERSON
+270,chris,PERSON,,,PERSON
+270,london,GPE,,,GPE
+270,kingston university,ORG,FAC,,FAC
+270,chris,PERSON,,,PERSON
+270,chris,PERSON,,,PERSON
+270,ken dodd,PERSON,,,PERSON
+270,chris,PERSON,,,PERSON
+270,yonk,PERSON,,,PERSON
+270,the philharmonic hall,FAC,,,FAC
+270,chris,PERSON,,,PERSON
+270,liverpool fc,ORG,,,ORG
+270,anfield,FAC,NULL,,NULL
+270,the albert dock,FAC,,,FAC
+270,liverpool,GPE,,,GPE
+270,chris,PERSON,,,PERSON
+270,blue,NORP,NULL,,NULL
+270,merseyside,GPE,NULL,,NULL
+270,evertonian,NORP,NULL,,NULL
+270,man utd,ORG,,,ORG
+270,chris,PERSON,,,PERSON
+270,unite club,ORG,NULL,,NULL
+270,patricia,PERSON,,,PERSON
+270,sophie,PERSON,,,PERSON
+270,chris,PERSON,,,PERSON
+270,chris mccausland,PERSON,,,PERSON
+270,the liverpool philharmonic hall,FAC,,,FAC
+270,chris mccausland,PERSON,,,PERSON
+270,liverpool,GPE,,,GPE
+271,anthony mark,PERSON,,,PERSON
+271,a,PERSON,NULL,,NULL
+271,england,GPE,,,GPE
+271,wale,GPE,,,GPE
+271,john spark,PERSON,,,PERSON
+271,crisis,ORG,NULL,,NULL
+271,mark mummery,PERSON,,,PERSON
+271,grimsby,GPE,NULL,,NULL
+271,uk,GPE,,,GPE
+271,conservative,NORP,,,NORP
+271,european,NORP,NULL,,NULL
+271,london uk,GPE,,,GPE
+272,courtney eale,PERSON,,,PERSON
+272,whyment,PERSON,,,PERSON
+272,itv,ORG,,,ORG
+272,soap longestrunne,PERSON,NULL,,NULL
+272,kirk sutherland,PERSON,,,PERSON
+272,kirk,PERSON,,,PERSON
+272,maria connor,PERSON,,,PERSON
+272,beth sutherland,PERSON,,,PERSON
+272,kirk,PERSON,,,PERSON
+272,maria,PERSON,,,PERSON
+272,tyrone dobbs,PERSON,,,PERSON
+272,le battersby,PERSON,,,PERSON
+272,cilla brown,PERSON,,,PERSON
+272,andy,PERSON,,,PERSON
+272,nicola willis,PERSON,,,PERSON
+272,thomas,PERSON,,,PERSON
+272,hollie,PERSON,,,PERSON
+272,andy,PERSON,,,PERSON
+272,tom,PERSON,,,PERSON
+272,coronation street,FAC,,,FAC
+272,alan halsall,PERSON,,,PERSON
+272,tom,PERSON,,,PERSON
+272,sally metcalfe,PERSON,,,PERSON
+272,sally dynevor,PERSON,,,PERSON
+272,tom,PERSON,,,PERSON
+272,tanisha gorey,PERSON,,,PERSON
+272,asha alahan,PERSON,,,PERSON
+272,andy,PERSON,,,PERSON
+272,hollie,PERSON,,,PERSON
+272,hollie,PERSON,,,PERSON
+272,coronation street,FAC,,,FAC
+272,kirk sutherland,PERSON,,,PERSON
+272,alan halsall,PERSON,,,PERSON
+272,andy,PERSON,,,PERSON
+272,andy,PERSON,,,PERSON
+272,alan halsall,PERSON,,,PERSON
+272,nicola,PERSON,,,PERSON
+272,al,PERSON,,,PERSON
+272,corrie,PERSON,,,PERSON
+272,ok magazine,ORG,,,ORG
+272,andy,PERSON,,,PERSON
+272,msc cruise,PRODUCT,ORG,,ORG
+272,andy,PERSON,,,PERSON
+272,msccruisesofficial orchestra,ORG,NULL,,NULL
+272,paphos,GPE,,,GPE
+272,andy,PERSON,,,PERSON
+272,andy whyment,PERSON,,,PERSON
+272,andy whyment,PERSON,,,PERSON
+273,paul gorst,PERSON,,,PERSON
+273,emile heskey,PERSON,,,PERSON
+273,liverpool,GPE,,,GPE
+273,anfield,GPE,,,GPE
+273,arne slot,PERSON,,,PERSON
+273,premier league,ORG,,,ORG
+273,crystal palace,FAC,,,FAC
+273,chelsea,GPE,,,GPE
+273,liverpool,GPE,,,GPE
+273,manchester united,ORG,,,ORG
+273,tribal football,ORG,NULL,,NULL
+273,heskey,PERSON,NULL,,NULL
+273,twoweek,ORG,NULL,,NULL
+273,reed boss,PERSON,,,PERSON
+273,slot,PERSON,NULL,,NULL
+273,ruben amorim,GPE,PERSON,,PERSON
+273,liverpool,GPE,,,GPE
+273,heskey,PERSON,NULL,,NULL
+273,red,ORG,NULL,,NULL
+273,the uefa cup league cup,EVENT,,,EVENT
+273,fa cup,EVENT,,,EVENT
+273,liverpool,ORG,GPE,,GPE
+273,the premier league,ORG,,,ORG
+273,liverpool,GPE,,,GPE
+273,the premier league,ORG,,,ORG
+273,arsenal,PERSON,GPE,,GPE
+273,fulham,PERSON,GPE,,GPE
+273,twitterâlivecholfc,ORG,NULL,,NULL
+273,liverpool echo,ORG,NULL,,NULL
+273,lfc,ORG,,,ORG
+273,lfc news,ORG,NULL,,NULL
+273,liverpool,GPE,,,GPE
+273,liverpool,GPE,,,GPE
+273,echos,ORG,NULL,,NULL
+273,liverpool fcby,ORG,NULL,,NULL
+273,ryan piersegetty,PERSON,,,PERSON
+273,arne slot,PERSON,,,PERSON
+273,champion league,ORG,,,ORG
+273,liverpool,ORG,GPE,,GPE
+273,atletico madrid,ORG,,,ORG
+274,bethan shufflebotham,PERSON,,,PERSON
+274,disney,PERSON,ORG,,ORG
+274,zavvi,ORG,,,ORG
+274,moneysave,ORG,NULL,,NULL
+274,topcashback,ORG,,,ORG
+274,zavvi,ORG,,,ORG
+274,lego,ORG,,,ORG
+274,babu frik,PERSON,,,PERSON
+274,c3po,PRODUCT,PERSON,,PERSON
+274,jawa,PRODUCT,PERSON,,PERSON
+274,builder,ORG,NULL,,NULL
+274,bb8,PRODUCT,PERSON,,PERSON
+274,the festive season,EVENT,NULL,,NULL
+274,workbench chair,PRODUCT,,,PRODUCT
+274,droid,PRODUCT,PERSON,,PERSON
+274,joshua boyles,PERSON,,,PERSON
+274,the manchester evening news,ORG,NULL,,NULL
+274,topcashback,ORG,,,ORG
+274,zavvi,ORG,,,ORG
+274,customer centre,ORG,NULL,,NULL
+274,past calendar,EVENT,NULL,,NULL
+274,gonk,PRODUCT,,,PRODUCT
+274,r7,PRODUCT,,,PRODUCT
+274,star war,EVENT,NULL,,NULL
+274,zavvi,PRODUCT,ORG,,ORG
+274,topcashback,ORG,,,ORG
+274,zavvi,PRODUCT,ORG,,ORG
+274,topcashback,ORG,,,ORG
+275,gaza,GPE,,,GPE
+275,israel,GPE,,,GPE
+275,hamas,GPE,ORG,,ORG
+275,hamas,NORP,ORG,,ORG
+275,palestinian,NORP,,,NORP
+275,besiege,NORP,NULL,,NULL
+275,dughmush,PERSON,NULL,,NULL
+275,sabra,GPE,LOC,,LOC
+275,war,NORP,NULL,,NULL
+275,be,NORP,NULL,,NULL
+275,al jazeera,ORG,GPE,,GPE
+275,saleh aljafarawis,PERSON,,,PERSON
+275,gazas,GPE,,,GPE
+275,internal ministry,ORG,,,ORG
+275,gaza city,GPE,,,GPE
+275,israel,GPE,,,GPE
+275,gaza,GPE,,,GPE
+275,hamas,NORP,ORG,,ORG
+275,dughmush,PERSON,NULL,,NULL
+275,gaza city,GPE,,,GPE
+275,palestinian,NORP,,,NORP
+275,telegram channel,ORG,NULL,,NULL
+275,hamas,ORG,,,ORG
+275,palestinians,NORP,,,NORP
+275,israeli,NORP,,,NORP
+275,bbc news,ORG,,,ORG
+275,the interior ministry,ORG,,,ORG
+275,the hamasrun,ORG,NULL,,NULL
+275,interior ministry,ORG,,,ORG
+275,dughmush,PERSON,NULL,,NULL
+275,hamas,NORP,ORG,,ORG
+275,israel,GPE,,,GPE
+275,israeli,NORP,,,NORP
+275,jews,NORP,,,NORP
+275,dughmush,PERSON,NULL,,NULL
+275,gazas,GPE,,,GPE
+275,hamas,NORP,ORG,,ORG
+275,hamas,NORP,ORG,,ORG
+275,dughmush,NORP,NULL,,NULL
+275,dughmush,PERSON,NULL,,NULL
+275,local medium,ORG,NULL,,NULL
+275,hamas,NORP,ORG,,ORG
+275,sabra,GPE,LOC,,LOC
+275,gaza,GPE,,,GPE
+275,israeli,NORP,,,NORP
+275,jordanian,NORP,,,NORP
+275,hamas,ORG,,,ORG
+275,doghmush,ORG,NULL,,NULL
+275,gaza,GPE,,,GPE
+275,israeli,NORP,,,NORP
+275,the us state department,ORG,,,ORG
+275,hamas,ORG,,,ORG
+275,israeli,NORP,,,NORP
+275,gaza,GPE,,,GPE
+275,israeli,NORP,,,NORP
+275,hamas,ORG,,,ORG
+275,hamas,NORP,ORG,,ORG
+275,gaza,GPE,,,GPE
+275,palestinian,NORP,,,NORP
+275,trump,PERSON,,,PERSON
+275,tel aviv,ORG,GPE,,GPE
+275,air force one,PRODUCT,ORG,,ORG
+275,hamas,NORP,ORG,,ORG
+275,israel,GPE,,,GPE
+275,israeli,NORP,,,NORP
+275,palestinians,NORP,,,NORP
+275,the gaza health ministry,ORG,,,ORG
+275,gaza,GPE,,,GPE
+275,israeli,NORP,,,NORP
+275,trump,PERSON,,,PERSON
+275,hamas,ORG,,,ORG
+275,trump,PERSON,,,PERSON
+275,israel,GPE,,,GPE
+275,trumpshaped,PERSON,NULL,,NULL
+275,israeli,NORP,,,NORP
+275,palestinians,NORP,,,NORP
+275,the israelgaza ceasefire,EVENT,NULL,,NULL
+275,trump,PERSON,,,PERSON
+275,israel,GPE,,,GPE
+275,london uk,GPE,,,GPE
+276,south africa,GPE,,,GPE
+276,bangladesh,GPE,,,GPE
+276,the womens world cup,EVENT,,,EVENT
+276,bangladesh,GPE,,,GPE
+276,rubya,GPE,NULL,,NULL
+276,jhilik fargana,PERSON,,,PERSON
+277,lisbon,GPE,,,GPE
+277,carlos moedas,PERSON,,,PERSON
+277,moedas,PERSON,,,PERSON
+277,lisbon,GPE,,,GPE
+277,leftofcentre,ORG,NULL,,NULL
+277,alexandra leitão,PERSON,,,PERSON
+277,the september 3 incident,EVENT,,,EVENT
+277,lisbon,GPE,,,GPE
+277,lisbon,GPE,,,GPE
+277,lisbon,GPE,,,GPE
+277,fabiana pavel,PERSON,,,PERSON
+277,the bairro alto residents association,ORG,,,ORG
+277,bbc,ORG,,,ORG
+277,funicular,PRODUCT,,,PRODUCT
+277,moedas,GPE,PERSON,,PERSON
+277,portugal centerright social democratic party,ORG,,,ORG
+277,portugal,GPE,,,GPE
+277,lisbon,GPE,,,GPE
+277,eu border,GPE,LOC,,LOC
+277,ukraine,GPE,,,GPE
+277,tomahawk missile,PRODUCT,,,PRODUCT
+277,kyiv,GPE,,,GPE
+277,london uk,GPE,,,GPE
+278,beethoven,PERSON,,,PERSON
+278,mitsuko uchida,PERSON,,,PERSON
+279,ryan gravenberch,PERSON,,,PERSON
+279,netherlands,GPE,,,GPE
+279,ryan gravenberch,PERSON,,,PERSON
+279,liverpool,ORG,GPE,,GPE
+279,manchester voir,ORG,NULL,,NULL
+280,nato,ORG,,,ORG
+280,putin,ORG,PERSON,,PERSON
+280,nato,ORG,,,ORG
+280,putin,ORG,PERSON,,PERSON
+280,the english channel,ORG,LOC,,LOC
+281,george finch,PERSON,,,PERSON
+281,warwickshire county council,ORG,,,ORG
+281,nigel farage,PERSON,,,PERSON
+282,christmas,EVENT,,,EVENT
+282,getty,ORG,,,ORG
+283,novak djokovic,PERSON,,,PERSON
+283,shanghai,GPE,,,GPE
+283,novak djokovic,PERSON,,,PERSON
+283,shanghai masters,EVENT,,,EVENT
+284,prince harry,PERSON,,,PERSON
+284,meghan markle,PERSON,,,PERSON
+284,new york,GPE,,,GPE
+284,harry,PERSON,,,PERSON
+284,meghan markle,PERSON,,,PERSON
+284,new york city,GPE,,,GPE
+285,european,NORP,,,NORP
+285,greek,NORP,,,NORP
+285,athens,GPE,,,GPE
+286,edinburgh,GPE,,,GPE
+286,scotland,GPE,,,GPE
+286,caledonian,NORP,,,NORP
+286,waverley station,FAC,,,FAC
+286,edinburgh scotland,GPE,,,GPE
+286,ken jackgetty,PERSON,,,PERSON
+286,ken jack getty,PERSON,,,PERSON
+287,ladybird,PRODUCT,NULL,,NULL
+287,uk,GPE,,,GPE
+287,britain,GPE,,,GPE
+287,lately,PRODUCT,NULL,,NULL
+287,ladybird,PRODUCT,NULL,,NULL
+288,charles iii,PERSON,,,PERSON
+288,charles iii,PERSON,,,PERSON
+290,lossiemouth beach3,FAC,NULL,,NULL
+291,adlington,GPE,,,GPE
+291,the cheshire countryside,LOC,,,LOC
+292,blaydon,GPE,,,GPE
+292,savejim scottnorth,PERSON,,,PERSON
+293,trump,PERSON,,,PERSON
+293,us,GPE,,,GPE
+293,donald trump,PERSON,,,PERSON
+293,israeli,NORP,,,NORP
+294,israel,GPE,,,GPE
+294,israel,GPE,,,GPE
+295,alexander isak,PERSON,,,PERSON
+295,mohame salah,PERSON,,,PERSON
+295,liverpool,GPE,,,GPE
+295,balanceliverpool,ORG,NULL,,NULL
+296,leed louise simpson,PERSON,NULL,,NULL
+297,shaun wane,PERSON,,,PERSON
+297,england,GPE,,,GPE
+298,liverpool,ORG,GPE,,GPE
+298,bbc sport,ORG,,,ORG
+299,sir keir starmer,PERSON,,,PERSON
+299,egypt,GPE,,,GPE
+299,sir keir starmer,PERSON,,,PERSON
+299,egypt,GPE,,,GPE
+300,the cold war,EVENT,,,EVENT
+300,uk,GPE,,,GPE
+301,mendip hill,LOC,,,LOC
+301,britain,GPE,,,GPE
+302,angus,PERSON,,,PERSON
+302,european,NORP,,,NORP
+302,angus,PERSON,,,PERSON
+302,angus,PERSON,,,PERSON
+302,40 marathon,EVENT,NULL,,NULL
+303,uks,ORG,GPE,,GPE
+303,danny gutmann,PERSON,,,PERSON
+303,the near supermarket,FAC,NULL,,NULL
+304,jihad alshamie,PERSON,,,PERSON
+304,jewish,NORP,,,NORP
+304,jihad alshamie,PERSON,,,PERSON
+305,brit,PERSON,NORP,,NORP
+307,mason,PERSON,,,PERSON
+307,bolton,ORG,,,ORG
+307,peterborough,ORG,,,ORG
+308,crown,PERSON,NULL,,NULL
+308,uks,GPE,,,GPE
+309,tiktok,ORG,,,ORG
+310,temu christmas,EVENT,NULL,,NULL
+311,vicky myers,PERSON,,,PERSON
+311,lisa swain,GPE,PERSON,,PERSON
+311,vicky myers,PERSON,,,PERSON
+313,verstappen,PERSON,,,PERSON
+313,russell share,ORG,NULL,,NULL
+314,keir starmer,PERSON,,,PERSON
+314,liverpool,GPE,,,GPE
+314,the labour conference,EVENT,,,EVENT
+315,dna,ORG,NULL,,NULL
+316,texas,GPE,,,GPE
+316,ap,PERSON,PERSON,,PERSON
+316,josh hoover,PERSON,NULL,,NULL
+316,eric mcalister,PERSON,,,PERSON
+316,tcu,ORG,,,ORG
+316,colorado,ORG,GPE,,GPE
+317,houston ap   ander dreyer,PERSON,NULL,,NULL
+317,amahl pellegrino,PERSON,,,PERSON
+317,san diego fc,ORG,,,ORG
+317,the houston dynamo,ORG,,,ORG
+318,uk,GPE,,,GPE
+319,aap,GPE,PERSON,,PERSON
+319,rockys,NORP,PERSON,,PERSON
+319,aap,GPE,PERSON,,PERSON
+319,rakim athelston,PERSON,,,PERSON
+319,mayer,PERSON,,,PERSON
+321,los angeles ap,GPE,NULL,,NULL
+321,alaskan,NORP,,,NORP
+321,yosemite national parks,FAC,,,FAC
+321,el capitan,GPE,,,GPE
+321,balin miller,PERSON,,,PERSON
+322,kemi badenoch,PERSON,,,PERSON
+322,tory,NORP,,,NORP
+322,the european convention on human right,ORG,,,ORG
+322,conservative,NORP,,,NORP
+322,partys,ORG,NULL,,NULL
+322,manchester,GPE,,,GPE
+322,nigel farage reform uk,ORG,NULL,,NULL
+322,keir starmer labour,PERSON,NULL,,NULL
+322,echr,GPE,NULL,,NULL
+322,conservative,NORP,,,NORP
+322,london,GPE,,,GPE
+322,redbridge keith,PERSON,,,PERSON
+322,chris philp,PERSON,,,PERSON
+322,partys,ORG,NULL,,NULL
+322,bbc,ORG,,,ORG
+322,conservative,NORP,,,NORP
+322,badenoch,PERSON,,,PERSON
+322,baron wolfson,PERSON,,,PERSON
+322,tredegar,GPE,,,GPE
+322,philp,PERSON,,,PERSON
+322,wolfson,PERSON,,,PERSON
+322,badenoch,PERSON,,,PERSON
+322,uk,GPE,,,GPE
+322,the ukeu,GPE,NULL,,NULL
+322,northern ireland,GPE,LOC,,LOC
+322,uk,GPE,,,GPE
+322,kemi badenoch,PERSON,,,PERSON
+322,uks,GPE,,,GPE
+322,sacha deshmukh,PERSON,,,PERSON
+322,richard atkinson,PERSON,,,PERSON
+322,the law society of england and wale,ORG,,,ORG
+322,the conservative party,ORG,NORP,,NORP
+322,keir starmer,PERSON,,,PERSON
+322,badenoch,PERSON,,,PERSON
+322,badenoch,PERSON,,,PERSON
+322,robert jenrick,PERSON,,,PERSON
+322,conservative party,ORG,NORP,,NORP
+322,jenrick,PERSON,,,PERSON
+322,badenoch,PERSON,,,PERSON
+322,london assembly,GPE,ORG,,ORG
+322,havering,GPE,,,GPE
+322,redbridge keith prince,PERSON,NULL,,NULL
+322,echr,ORG,NULL,,NULL
+322,labour party,ORG,NORP,,NORP
+322,kemi badenoch,PERSON,,,PERSON
+322,liberal democrat,NORP,,,NORP
+322,ed davey,PERSON,,,PERSON
+322,uk,GPE,,,GPE
+322,uk,GPE,,,GPE
+322,conservative,NORP,,,NORP
+322,echr,GPE,NULL,,NULL
+322,the conservative party,ORG,NORP,,NORP
+322,storm amy sweep,EVENT,,,EVENT
+322,synagogue,FAC,,,FAC
+322,palestine,NORP,GPE,,GPE
+322,palestine,GPE,,,GPE
+322,palestine,GPE,,,GPE
+322,heston,PERSON,,,PERSON
+322,greggs,ORG,,,ORG
+322,london uk,GPE,,,GPE
+323,illinois,GPE,,,GPE
+323,jb pritzker,PERSON,,,PERSON
+323,trump,PERSON,,,PERSON
+323,national guard,ORG,,,ORG
+323,white house,ORG,,,ORG
+323,donald trump,PERSON,,,PERSON
+323,democraticle city,GPE,NULL,,NULL
+323,los angeles,GPE,,,GPE
+323,washington dc,GPE,,,GPE
+323,memphis,GPE,,,GPE
+323,portland,GPE,,,GPE
+323,chicago,GPE,,,GPE
+323,pritzker,PERSON,,,PERSON
+323,the trump administration department of war,ORG,NULL,,NULL
+323,illinois,GPE,,,GPE
+323,unamerican,NORP,NULL,,NULL
+323,pritzker,PERSON,,,PERSON
+323,donald trump,PERSON,,,PERSON
+323,illinois,GPE,,,GPE
+323,the illinois national guard,ORG,,,ORG
+323,trump,PERSON,,,PERSON
+323,independent,ORG,,,ORG
+323,the white house,ORG,FAC,,FAC
+323,trump,PERSON,,,PERSON
+323,chicago,GPE,,,GPE
+323,pritzker,PERSON,,,PERSON
+323,pritzker,PERSON,,,PERSON
+323,us,GPE,,,GPE
+323,the village,GPE,NULL,,NULL
+323,broadview,GPE,,,GPE
+323,chicago,GPE,,,GPE
+323,border patrol agent,ORG,PERSON,,PERSON
+323,department of homeland security,ORG,,,ORG
+323,tricia mclaughlin,PERSON,,,PERSON
+323,mclaughlin,PERSON,,,PERSON
+323,wound,PERSON,NULL,,NULL
+323,broadview,GPE,,,GPE
+323,chicago,GPE,,,GPE
+323,the department of homeland security,ORG,,,ORG
+323,kristi noem,PERSON,,,PERSON
+323,broadview,GPE,,,GPE
+323,the village,GPE,NULL,,NULL
+323,broadview,GPE,,,GPE
+323,federal,NORP,NULL,,NULL
+323,trump,PERSON,,,PERSON
+323,oregon,GPE,,,GPE
+323,trump,PERSON,,,PERSON
+323,national guard,ORG,,,ORG
+323,portland,GPE,,,GPE
+323,portland,GPE,,,GPE
+323,trump,PERSON,,,PERSON
+323,antifa,ORG,NORP,,NORP
+323,department of war,ORG,,,ORG
+323,pete hegseth,PERSON,,,PERSON
+323,warravage,GPE,NULL,,NULL
+323,hegseth,PERSON,,,PERSON
+323,federalize,GPE,NULL,,NULL
+323,oregon,GPE,,,GPE
+323,national guard,ORG,,,ORG
+323,federal court,ORG,,,ORG
+323,trump,PERSON,,,PERSON
+323,noem,PERSON,,,PERSON
+323,portland,GPE,,,GPE
+323,the department of homeland security,ORG,,,ORG
+323,the national guard,ORG,,,ORG
+323,portland,GPE,,,GPE
+323,trump,PERSON,,,PERSON
+323,israel,GPE,,,GPE
+323,gaza,GPE,,,GPE
+323,hamas,PERSON,ORG,,ORG
+323,trump,PERSON,,,PERSON
+323,portland,GPE,,,GPE
+323,netanyahu,PERSON,,,PERSON
+323,gaza,GPE,,,GPE
+323,badenoch,PERSON,,,PERSON
+323,tory,NORP,PERSON,,PERSON
+323,usstyle,GPE,NULL,,NULL
+323,vance,PERSON,,,PERSON
+323,democratic,NORP,,,NORP
+323,hitler,PERSON,,,PERSON
+323,maga,NORP,,,NORP
+323,fox news,ORG,,,ORG
+323,portland,GPE,,,GPE
+323,london uk,GPE,,,GPE
+324,south africa s,GPE,NULL,,NULL
+324,argentina,GPE,,,GPE
+324,allianz stadium twickenham,FAC,,,FAC
+324,backtoback rugby championship,EVENT,NULL,,NULL
+324,new zealand,GPE,,,GPE
+324,all black,ORG,,,ORG
+324,australia,GPE,,,GPE
+324,perth,GPE,,,GPE
+324,south africa,GPE,,,GPE
+324,malcolm marx,PERSON,,,PERSON
+324,cobus reinach,PERSON,,,PERSON
+324,puma,ORG,,,ORG
+324,south africa day,GPE,NULL,,NULL
+324,new zealand,GPE,,,GPE
+324,south africa,GPE,,,GPE
+324,australia,GPE,,,GPE
+324,argentina,GPE,,,GPE
+324,reinach,PERSON,,,PERSON
+324,argentina,GPE,,,GPE
+324,twickenham,FAC,,,FAC
+324,argentina,GPE,,,GPE
+324,finance,ORG,NULL,,NULL
+324,bautista delguy,PERSON,,,PERSON
+324,south africa,GPE,,,GPE
+324,santiago carrera,PERSON,,,PERSON
+324,pummel,PERSON,,,PERSON
+324,durban,GPE,,,GPE
+324,springbok,ORG,,,ORG
+324,argentina,NORP,GPE,,GPE
+324,reinach,PERSON,,,PERSON
+324,south africa,GPE,,,GPE
+324,puma,ORG,,,ORG
+324,argentina,NORP,GPE,,GPE
+324,mayco visa,PERSON,,,PERSON
+324,south african,NORP,,,NORP
+324,marx,ORG,PERSON,,PERSON
+324,reinach,PERSON,,,PERSON
+324,marx,ORG,PERSON,,PERSON
+324,south africa,GPE,,,GPE
+324,delguy,PERSON,,,PERSON
+324,carrera,PERSON,,,PERSON
+324,argentina,NORP,GPE,,GPE
+324,rodrigo isgro,PERSON,,,PERSON
+324,carrera,PERSON,,,PERSON
+324,carrerass,PERSON,,,PERSON
+324,reuter,PERSON,,,PERSON
+324,argentina,GPE,,,GPE
+324,south africa,GPE,,,GPE
+324,springbok,NORP,ORG,,ORG
+324,new zealand,GPE,,,GPE
+324,australia,GPE,,,GPE
+324,rugby championship,EVENT,,,EVENT
+324,australia,GPE,,,GPE
+324,new zealand,GPE,,,GPE
+324,rugby championship,EVENT,,,EVENT
+324,springbok,ORG,,,ORG
+324,fin smith,PERSON,,,PERSON
+324,northampton,GPE,,,GPE
+324,argentina,GPE,,,GPE
+324,south africa,GPE,,,GPE
+324,london,GPE,,,GPE
+324,the independent,ORG,,,ORG
+324,london uk,GPE,,,GPE
+325,jimmy kimmel live,PERSON,EVENT,,EVENT
+325,london,GPE,,,GPE
+325,springsteen,PERSON,,,PERSON
+325,springsteen,PERSON,,,PERSON
+325,latenight,ORG,NULL,,NULL
+325,jeremy allen white,PERSON,,,PERSON
+325,springsteen,PERSON,,,PERSON
+325,springsteen,PERSON,,,PERSON
+325,scott cooper,PERSON,,,PERSON
+325,springsteen,PERSON,,,PERSON
+325,springsteen,PERSON,,,PERSON
+325,cooper,PERSON,,,PERSON
+325,stephen graham,PERSON,,,PERSON
+325,springsteen,PERSON,,,PERSON
+325,bruce springsteen,PERSON,,,PERSON
+325,donald trump,PERSON,,,PERSON
+325,julia roberts,PERSON,,,PERSON
+325,cillian murphy,PERSON,,,PERSON
+325,oscar,PERSON,EVENT,,EVENT
+325,nicole kidmans,PERSON,,,PERSON
+325,keith urban,PERSON,,,PERSON
+325,ruffalo,PERSON,,,PERSON
+325,jesus call,PERSON,NULL,,NULL
+325,cet,PERSON,NULL,,NULL
+325,london uk,GPE,,,GPE
+326,raf,NORP,ORG,,ORG
+326,train ground,ORG,NULL,,NULL
+326,mikel arteta,PERSON,,,PERSON
+326,arsenal,ORG,,,ORG
+326,west ham united,ORG,,,ORG
+326,spaniard,NORP,,,NORP
+326,declan rice,PERSON,,,PERSON
+326,bukayo saka,PERSON,,,PERSON
+326,arsenal,ORG,,,ORG
+326,premier league,ORG,EVENT,,EVENT
+326,arteta,PERSON,,,PERSON
+326,arsenal start 11,ORG,NULL,,NULL
+326,arteta,PERSON,,,PERSON
+326,odegaard,PERSON,,,PERSON
+326,a,PERSON,NULL,,NULL
+326,premier league,ORG,EVENT,,EVENT
+326,premier league,ORG,EVENT,,EVENT
+326,norwegian,NORP,,,NORP
+326,martin zubimendi,PERSON,,,PERSON
+326,gunner,ORG,,,ORG
+326,odegaard,PERSON,,,PERSON
+326,eberechi eze,PERSON,,,PERSON
+326,zubimendi,PERSON,,,PERSON
+326,eze,PERSON,,,PERSON
+326,rice,PERSON,,,PERSON
+326,zubimendi,PERSON,,,PERSON
+326,rice,PERSON,,,PERSON
+326,odegaard,PERSON,,,PERSON
+326,arteta,PERSON,,,PERSON
+326,zubimendi,PERSON,,,PERSON
+326,arteta,ORG,PERSON,,PERSON
+326,cristhian mosquera,PERSON,,,PERSON
+326,zubimendi,PERSON,,,PERSON
+326,ethan nwaneri,PERSON,,,PERSON
+326,myle lewisskelly,PERSON,,,PERSON
+326,saka,PERSON,,,PERSON
+326,premier league,ORG,EVENT,,EVENT
+326,gabriel martinelli,PERSON,,,PERSON
+326,manchester city,ORG,,,ORG
+326,bilbao,ORG,GPE,,GPE
+326,and,GPE,NULL,,NULL
+326,mikel merino,PERSON,,,PERSON
+326,arsenal,ORG,,,ORG
+326,martinellis,PERSON,,,PERSON
+326,rice,PERSON,,,PERSON
+326,kai havertz,PERSON,,,PERSON
+326,gabriel jesus,PERSON,,,PERSON
+326,noni madueke,PERSON,,,PERSON
+326,be,PERSON,NULL,,NULL
+326,arsenal,ORG,,,ORG
+326,odegaard,PERSON,,,PERSON
+326,saka,PERSON,,,PERSON
+326,arsenal,ORG,,,ORG
+326,premier league,ORG,EVENT,,EVENT
+326,settle star,PERSON,NULL,,NULL
+326,emirate,GPE,ORG,,ORG
+326,premier league,ORG,EVENT,,EVENT
+326,chelsea v liverpool live estevao stun,EVENT,NULL,,NULL
+326,ruben amorim,PERSON,,,PERSON
+326,united skin,PERSON,NULL,,NULL
+326,ruben amorim,PERSON,,,PERSON
+326,mason,PERSON,,,PERSON
+326,sesko,PERSON,,,PERSON
+326,premier league,ORG,EVENT,,EVENT
+326,mikel arteta,PERSON,,,PERSON
+326,martin odegaard,PERSON,,,PERSON
+326,thomas frank hail,PERSON,,,PERSON
+326,tottenham,PERSON,GPE,,GPE
+326,leed cet,PERSON,NULL,,NULL
+326,independent,ORG,,,ORG
+326,london uk,GPE,,,GPE
+327,ever,PRODUCT,NULL,,NULL
+328,dutch,NORP,,,NORP
+328,zaanse schan,GPE,,,GPE
+330,the boat lake,LOC,,,LOC
+330,southampton common,FAC,,,FAC
+330,lake,LOC,,,LOC
+330,savejason lewislocal,PERSON,,,PERSON
+331,heacham,GPE,,,GPE
+332,lenny henry,PERSON,,,PERSON
+332,black,NORP,NULL,,NULL
+332,ira aldridge,PERSON,,,PERSON
+332,american,NORP,,,NORP
+333,scottish,NORP,,,NORP
+334,smile,PERSON,NULL,,NULL
+334,katie lam,PERSON,,,PERSON
+335,gary neville,PERSON,,,PERSON
+335,liverpool,GPE,,,GPE
+335,uselessmilos kerkez,PERSON,NULL,,NULL
+335,gary neville,PERSON,,,PERSON
+335,liverpool,GPE,,,GPE
+336,openai,ORG,,,ORG
+336,sora 2,ORG,PRODUCT,,PRODUCT
+337,rachel reeves,PERSON,,,PERSON
+337,britain,NORP,,,NORP
+339,scott,PERSON,,,PERSON
+339,nisbet,PERSON,,,PERSON
+340,david ansell,PERSON,,,PERSON
+341,british,NORP,,,NORP
+341,dubai,GPE,,,GPE
+343,india,GPE,,,GPE
+343,nepal,GPE,,,GPE
+343,nepal,ORG,,,ORG
+343,ilam,GPE,LOC,,LOC
+343,indias,NORP,GPE,,GPE
+343,west bengal,GPE,LOC,,LOC
+343,ilam,GPE,LOC,,LOC
+343,india,GPE,,,GPE
+343,kalidas dhauboji,PERSON,,,PERSON
+343,the armed police force,ORG,,,ORG
+343,miss,PERSON,NULL,,NULL
+343,shanti mahat,PERSON,,,PERSON
+343,nepal national disaster risk reduction and management authority,ORG,,,ORG
+343,kathmandu,GPE,,,GPE
+343,rinji sherpa,PERSON,,,PERSON
+343,kathmandu airport authority,ORG,,,ORG
+343,the koshi river,LOC,,,LOC
+343,nepal,GPE,,,GPE
+343,indias,NORP,GPE,,GPE
+343,bihar,GPE,,,GPE
+343,the koshi barrage,FAC,,,FAC
+343,dharmendra kumar mishra,PERSON,,,PERSON
+343,sunsari,GPE,,,GPE
+343,india,GPE,,,GPE
+343,eastern himalayan,LOC,,,LOC
+343,darjeele,GPE,,,GPE
+343,west bengal,GPE,LOC,,LOC
+343,the dhudia iron bridge,FAC,,,FAC
+343,the balason river,LOC,FAC,,FAC
+343,siliguri,GPE,,,GPE
+343,mirik,GPE,,,GPE
+343,mirik,GPE,,,GPE
+343,darjeeling,GPE,NULL,,NULL
+343,udayan guha,PERSON,,,PERSON
+343,north bengal,GPE,LOC,,LOC
+343,press trust of,ORG,NULL,,NULL
+343,india,GPE,,,GPE
+343,bishnulal gaon,PERSON,,,PERSON
+343,jasbir gaon,PERSON,,,PERSON
+343,ngo,ORG,NULL,,NULL
+343,narendra modi,PERSON,,,PERSON
+343,mirik,GPE,,,GPE
+343,dara gaon,GPE,,,GPE
+343,salbari,GPE,,,GPE
+343,siliguri,GPE,,,GPE
+343,dasai dussehra,EVENT,,,EVENT
+343,aditya pradhan,PERSON,,,PERSON
+343,the hindustan time,ORG,,,ORG
+343,the india meteorological department,ORG,,,ORG
+343,subhimalayan,NORP,LOC,,LOC
+343,west bengal,GPE,LOC,,LOC
+343,darjeeling,GPE,NULL,,NULL
+343,kalimpong,GPE,,,GPE
+343,bollywood,NORP,ORG,,ORG
+343,shah rukh khan,PERSON,,,PERSON
+343,india,GPE,,,GPE
+343,pakistani,NORP,,,NORP
+343,air force,ORG,,,ORG
+343,talibans,PERSON,ORG,,ORG
+343,india,GPE,,,GPE
+343,afghanistan,GPE,,,GPE
+343,taliban,ORG,ORG,,ORG
+343,london uk,GPE,,,GPE
+344,suranne jones,PERSON,,,PERSON
+344,jodie whittaker,PERSON,,,PERSON
+344,heist year 2025,EVENT,NULL,,NULL
+344,british,NORP,,,NORP
+345,benjamin netanyahu,PERSON,,,PERSON
+345,uk street,EVENT,NULL,,NULL
+345,propalestine march,EVENT,,,EVENT
+345,london,GPE,,,GPE
+345,manchester,GPE,,,GPE
+346,socalle supermoon,EVENT,,,EVENT
+346,the full moon,EVENT,,,EVENT
+346,harvest moon,EVENT,,,EVENT
+346,harvest moon,EVENT,,,EVENT
+346,the northern hemisphere,LOC,,,LOC
+346,the full moon,EVENT,,,EVENT
+346,the full moon,EVENT,,,EVENT
+346,the harvest moon,LOC,EVENT,,EVENT
+346,supermoon,LOC,EVENT,,EVENT
+346,earth,LOC,,,LOC
+346,nasa,PERSON,ORG,,ORG
+346,supermoon,EVENT,,,EVENT
+346,uk,GPE,,,GPE
+346,the 5 november full moon,EVENT,,,EVENT
+346,the beaver moon,EVENT,,,EVENT
+346,london uk,GPE,,,GPE
+347,strictlys stefan dennis,PERSON,,,PERSON
+347,gail robinson,PERSON,,,PERSON
+347,fiona corke,PERSON,,,PERSON
+347,gail robinson,PERSON,,,PERSON
+347,paul,PERSON,,,PERSON
+348,margaret hulley,PERSON,,,PERSON
+348,sheffield,GPE,,,GPE
+349,evanston,PERSON,,,PERSON
+349,caleb komolafe,PERSON,,,PERSON
+350,troy deeney,PERSON,,,PERSON
+350,masterchef,ORG,,,ORG
+350,british,NORP,,,NORP
+351,keir starmer,PERSON,,,PERSON
+351,labour party,ORG,NORP,,NORP
+351,keir starmer,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,english,NORP,,,NORP
+355,the premier league,ORG,EVENT,,EVENT
+355,leicester city,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,southampton,GPE,,,GPE
+355,birmingham city,GPE,ORG,,ORG
+355,wrexham,GPE,ORG,,ORG
+355,sheffield,GPE,ORG,,ORG
+355,hull city,GPE,ORG,,ORG
+355,ipswich town fc,ORG,ORG,,ORG
+355,norwich city,GPE,ORG,ORG ou GPE ?,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,chuba akpom,GPE,PERSON,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,marcelino núñez,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,jaden philogene,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,chuba akpom,GPE,PERSON,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,vladan kovacevic,PERSON,,,PERSON
+355,norwich city,GPE,ORG,,ORG
+355,azor matusiwa,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,jaden philogene,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,crnac norwich city,GPE,NULL,cnar ??,NULL
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,jack clarke,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,dara oshea,GPE,PERSON,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,marcelino núñez,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,chuba akpom,GPE,PERSON,,PERSON
+355,sam szmodics,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,jack stacey,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,jovon makama,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,darnell furlong,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,leif davis,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,marcelino núñez,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,pelle mattsson,PERSON,,,PERSON
+355,norwich city,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,jack clarke,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,iván azón,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,marcelino núñez,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,lucien mahovo,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,jaden philogene,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,jack clarke,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,iván azón,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,marcelino núñez,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,lucien mahovo,PERSON,,,PERSON
+355,kellen fisher,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,jovon makama,PERSON,,,PERSON
+355,mirko,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,marcelino núñez,PERSON,,,PERSON
+355,jens cajuste,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,iván azón,GPE,ORG,,ORG
+355,george hirst,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,jack clarke,PERSON,,,PERSON
+355,sindre egeli,GPE,PERSON,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,sindre egeli,GPE,PERSON,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,jaden philogene,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,mclean,PERSON,,,PERSON
+355,norwich city,GPE,ORG,,ORG
+355,matej jurásek,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,kenny mclean,PERSON,,,PERSON
+355,norwich city,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,jaden philogene,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,george hirst,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,azor matusiwa,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,pelle mattsson,PERSON,,,PERSON
+355,norwich city,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,jaden philogene,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,jens cajuste,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,vladan kovacevic,PERSON,,,PERSON
+355,norwich city,GPE,ORG,,ORG
+355,jaden philogene,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,josh sargent,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,jaden philogene,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,darnell furlong,GPE,PERSON,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,sindre egeli,GPE,PERSON,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,matej jurásek,PERSON,,,PERSON
+355,oscar schwartau,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,cédric kipré,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,jack stacey,PERSON,,,PERSON
+355,norwich city,GPE,ORG,,ORG
+355,mirko,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,jaden philogene,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,sindre egeli,GPE,PERSON,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,darnell furlong,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,sindre egeli,GPE,PERSON,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,jens cajuste,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,leif davis,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,ORG,,ORG
+355,sam szmodics,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,vladan kovacevic,PERSON,,,PERSON
+355,norwich city,GPE,ORG,,ORG
+355,george hirst,PERSON,,,PERSON
+355,ipswich town,GPE,ORG,,ORG
+355,norwich city,GPE,,,GPE
+355,jaden philogene,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,alex palmer,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,mirko topic,PERSON,,,PERSON
+355,norwich city,GPE,,,GPE
+355,oscar schwartau,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,harry darling,PERSON,,,PERSON
+355,norwich city,GPE,,,GPE
+355,alex palmer,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,kenny mclean,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,sindre egeli,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,sindre egeli,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,george hirst,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,vladan kovacevic,PERSON,,,PERSON
+355,norwich city,GPE,,,GPE
+355,sam szmodics,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,jaden philogene,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,jaden philogene,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,crnac norwich city,GPE,NULL,crnac = person,NULL
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,josh sargent,PERSON,,,PERSON
+355,norwich city,GPE,,,GPE
+355,alex palmer,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,pelle mattsson,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,jaden philogene,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,vladan kovacevic,PERSON,,,PERSON
+355,norwich city,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,jack stacey,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,josé córdoba,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,george hirst,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,jens cajuste,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,harry darling,PERSON,,,PERSON
+355,norwich city,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,leif davis,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,azor matusiwa,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,oscar schwartau,PERSON,,,PERSON
+355,norwich city,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,leif davis,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,cédric kipré,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,vladan kovacevic,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,leif davis,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,george hirst,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,vladan kovacevic,PERSON,,,PERSON
+355,norwich city,GPE,,,GPE
+355,sindre egeli,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,sindre egeli,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,george hirst,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,azor matusiwa,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,cédric kipré,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,sam szmodics,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,pelle mattsson,PERSON,,,PERSON
+355,norwich city,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,alex palmer,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,oscar schwartau,PERSON,,,PERSON
+355,norwich city,GPE,,,GPE
+355,alex palmer,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,george hirst,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,darnell furlong,GPE,PERSON,,PERSON
+355,ipswich town,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,josh sargent,PERSON,,,PERSON
+355,norwich city,GPE,,,GPE
+355,oscar schwartau,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,jack stacey,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,jack stacey,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,sindre egeli,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,sam szmodics,PERSON,,,PERSON
+355,ipswich town,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,pelle mattsson,PERSON,,,PERSON
+355,norwich city,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,ipswich town,GPE,,,GPE
+355,norwich city,GPE,,,GPE
+355,independent,ORG,NULL,,NULL
+355,the premier league wsl championship carabao cup,EVENT,,,EVENT
+355,fa cup,EVENT,,,EVENT
+355,the champion league,ORG,,,ORG
+355,europe cet,ORG,NULL,,NULL
+355,london uk,GPE,,,GPE
+356,the prince,PERSON,,,PERSON
+356,wale,GPE,PERSON,,PERSON
+356,prince william,PERSON,,,PERSON
+356,rio de janeiro brazil,GPE,,,GPE
+356,earthshot,ORG,,,ORG
+356,william,PERSON,,,PERSON
+356,william,PERSON,,,PERSON
+356,brazil,GPE,,,GPE
+356,george,GPE,PERSON,,PERSON
+356,charlotte,GPE,PERSON,,PERSON
+356,louis,GPE,PERSON,,PERSON
+356,we,GPE,NULL,,NULL
+356,goal,GPE,NULL,,NULL
+356,william,PERSON,,,PERSON
+356,british,NORP,,,NORP
+356,bristol,GPE,,,GPE
+356,the ocean,LOC,,,LOC
+356,adam root,ORG,PERSON,,PERSON
+356,matter,ORG,,,ORG
+356,rio,GPE,,,GPE
+356,olympic,NORP,NULL,,NULL
+356,rio,GPE,,,GPE
+356,cate blanchett,PERSON,,,PERSON
+356,electronic protect forest,ORG,NULL,,NULL
+356,the prize council,ORG,,,ORG
+356,prince william,PERSON,,,PERSON
+356,london uk,GPE,,,GPE
+357,the health board,ORG,,,ORG
+357,uk,GPE,,,GPE
+357,nhs fife,ORG,,,ORG
+358,zayn,PERSON,,,PERSON
+358,louis,PERSON,,,PERSON
+358,one direction,ORG,,,ORG
+358,louis tomlinson,PERSON,,,PERSON
+358,zayn malik,PERSON,,,PERSON
+358,netflix road,PRODUCT,NULL,erreur ?,NULL
+362,the city of code and light festival,EVENT,,,EVENT
+362,milton keynes light festival,EVENT,,,EVENT
+362,savealex popebuckinghamshire,ORG,NULL,erreur,NULL
+363,cruise ship,PRODUCT,,,PRODUCT
+363,cruise passenger,PRODUCT,,,PRODUCT
+363,menorca,GPE,,,GPE
+363,mahon,GPE,,,GPE
+363,menorca,GPE,,,GPE
+364,ruben amorim,GPE,PERSON,,PERSON
+364,man utd,ORG,,,ORG
+364,wayne rooney,PERSON,,,PERSON
+364,gary neville,PERSON,,,PERSON
+364,manchester united legend,ORG,,,ORG
+364,ruben amorim,GPE,PERSON,,PERSON
+364,the red devil,ORG,,,ORG
+365,palestine,NORP,GPE,,GPE
+365,jews,NORP,,,NORP
+365,manchester,GPE,,,GPE
+365,getty,PERSON,ORG,,ORG
+365,a,PERSON,NULL,erreur,NULL
+365,israeli,NORP,,,NORP
+365,britain,GPE,,,GPE
+365,propalestine,NORP,,,NORP
+366,malachy coyle,PERSON,,,PERSON
+370,daniel mcnally,PERSON,,,PERSON
+370,authorsdaniel mcnallyview,PERSON,NULL,erreur ,NULL
+372,cnn,ORG,,,ORG
+372,trump,PERSON,,,PERSON
+372,cnn,ORG,,,ORG
+372,us,GPE,,,GPE
+372,donald trump,PERSON,,,PERSON
+372,cnn,ORG,,,ORG
+372,democratic,NORP,,,NORP
+372,madeleine voir,PERSON,NULL,erreur,NULL
+372,cision,ORG,,,ORG
+373,ionut mihai,PERSON,,,PERSON
+374,efl,ORG,,,ORG
+374,east anglian,NORP,,,NORP
+374,efl,ORG,,,ORG
+375,egypt,GPE,,,GPE
+375,qatar,GPE,,,GPE
+375,hamas,ORG,,,ORG
+375,donald trump,PERSON,,,PERSON
+375,gaza,GPE,,,GPE
+375,egypt,GPE,,,GPE
+376,northamptonshire,GPE,,,GPE
+376,louis kimber,PERSON,,,PERSON
+376,twoyear,ORG,NULL,,NULL
+376,leicestershire,GPE,,,GPE
+376,kimber,PERSON,,,PERSON
+376,northant,ORG,NULL,,NULL
+376,leicestershire,GPE,,,GPE
+376,getty imagesimage,PERSON,NULL,erreur,NULL
+376,louis kimber,PERSON,,,PERSON
+377,county line,FAC,,,FAC
+378,virginia,GPE,,,GPE
+378,carolyn voir,PERSON,NULL,erreur,NULL
+379,fredi rivero,PERSON,,,PERSON
+379,islington,GPE,,,GPE
+380,chinese,NORP,,,NORP
+381,east anglian derby,EVENT,,,EVENT
+381,gettybyphil,PERSON,NULL,erreur,NULL
+381,bbc,ORG,,,ORG
+381,norwich city,GPE,,,GPE
+381,ipswich town,GPE,,,GPE
+381,east anglian,NORP,,,NORP
+382,lisburn,GPE,,,GPE
+382,lisburn23,GPE,NULL,,NULL
+383,palestine,GPE,,,GPE
+383,jewish,NORP,,,NORP
+383,muslim,NORP,,,NORP
+384,liverpool,GPE,,,GPE
+384,the popular poetry revolution,EVENT,,,EVENT
+384,brian patten,PERSON,,,PERSON
+385,lincoln,GPE,,,GPE
+386,donald trump,PERSON,,,PERSON
+387,sir keir starmer,PERSON,,,PERSON
+387,keir starmer,PERSON,,,PERSON
+387,manchester,GPE,,,GPE
+388,manchester united,ORG,,,ORG
+388,manchester city,GPE,,,GPE
+388,manchester,GPE,,,GPE
+389,taylor swift,PERSON,,,PERSON
+389,nfl,ORG,,,ORG
+389,travis kelces,PERSON,,,PERSON
+389,swift,PERSON,,,PERSON
+389,swiftie,PERSON,,,PERSON
+389,ariana grande,PERSON,,,PERSON
+389,viola davis,PERSON,,,PERSON
+389,baby ill,PERSON,NULL,,NULL
+389,new height,PERSON,ORG,,ORG
+389,swift,PERSON,,,PERSON
+389,kelce,PERSON,,,PERSON
+389,grammywinne,NORP,NULL,erreur,NULL
+389,kelce,PERSON,,,PERSON
+389,taylor swift,PERSON,,,PERSON
+389,wood,PERSON,NULL,,NULL
+389,taylor swift,PERSON,,,PERSON
+389,wood,PERSON,NULL,,NULL
+389,travis kelce   good,PERSON,NULL,erreur,NULL
+389,wood,PERSON,NULL,,NULL
+389,taylor swiftgirl,PERSON,NULL,erreur,NULL
+389,pack,PERSON,NULL,,NULL
+389,taylor swift,PERSON,,,PERSON
+389,swift,PERSON,,,PERSON
+389,nicki minaj,PERSON,,,PERSON
+389,wood swift,PERSON,NULL,,NULL
+389,greg james,PERSON,,,PERSON
+389,taylor swift,PERSON,,,PERSON
+389,radio 1 interview,ORG,NULL,,NULL
+389,taylor swift,PERSON,,,PERSON
+389,taylor swift,PERSON,,,PERSON
+389,charli xcx,ORG,PERSON,,PERSON
+389,taylor swift,PERSON,,,PERSON
+389,travis kelce,PERSON,,,PERSON
+389,lionel richie,PERSON,,,PERSON
+389,michael jackson,PERSON,,,PERSON
+389,taylor swift,PERSON,,,PERSON
+389,london uk,GPE,,,GPE
+390,tesla,ORG,,,ORG
+390,bestselle,ORG,NULL,,NULL
+390,3,PRODUCT,NULL,,NULL
+390,y,PRODUCT,NULL,,NULL
+390,uturn,ORG,NULL,,NULL
+390,american,NORP,,,NORP
+390,3,PRODUCT,NULL,,NULL
+390,facelifte,PRODUCT,NULL,,NULL
+390,3,PRODUCT,NULL,,NULL
+390,tesla,ORG,,,ORG
+390,uk road,FAC,,,FAC
+390,tesla,ORG,,,ORG
+390,tesla,ORG,,,ORG
+390,tesla,ORG,,,ORG
+390,3,PRODUCT,NULL,,NULL
+390,tesla,ORG,,,ORG
+390,the model 3,PRODUCT,,,PRODUCT
+390,bestselle electric suv,PRODUCT,,,PRODUCT
+390,tesla,ORG,,,ORG
+390,tesla,ORG,,,ORG
+390,london uk,GPE,,,GPE
+391,snp,ORG,,,ORG
+391,scotland,GPE,,,GPE
+391,snp,ORG,,,ORG
+392,bournemouth,GPE,,,GPE
+392,dorset police,ORG,,,ORG
+392,kurdish,NORP,,,NORP
+392,bournemouth,GPE,,,GPE
+393,reform party,ORG,,,ORG
+393,kemi voir,PERSON,NULL,,NULL
+394,injuriesethan ivesgriffith,PERSON,NULL,erreur,NULL
+396,storm amy nuneaton,EVENT,NULL,erreur,NULL
+396,bedworth borough council,ORG,,,ORG
+396,nuneaton street,FAC,,,FAC
+397,sir keir starmer,PERSON,,,PERSON
+397,manchester,GPE,,,GPE
+398,italian,NORP,,,NORP
+398,the israeli foreign ministry,ORG,,,ORG
+398,israel1,GPE,NULL,erreur,NULL
+399,mark hughes,PERSON,,,PERSON
+399,carlisle united,ORG,,,ORG
+399,the national league,ORG,,,ORG
+399,carlisle,GPE,ORG,,ORG
+400,kynance cove,LOC,,,LOC
+400,cornwall,GPE,,,GPE
+400,england,GPE,,,GPE
+400,united kingdom,GPE,,,GPE
+400,getty,ORG,,,ORG
+400,the official tourist board of cornwall,ORG,,,ORG
+402,glaswegian,NORP,,,NORP
+402,nhs,ORG,,,ORG
+402,uk government,GPE,,,GPE
+402,michelle mone,PERSON,,,PERSON
+403,expand ecosystem,ORG,NULL,,NULL
+403,madison,ORG,GPE,,GPE
+403,us,GPE,,,GPE
+403,tysons,GPE,,,GPE
+403,prnewswire,ORG,,,ORG
+403,madison energy infrastructure,ORG,,,ORG
+404,norwalk conn,GPE,,,GPE
+404,prnewswire   emeren group ltd emeren,ORG,NULL,erreur,NULL
+404,wwwemerencom nyse sol,ORG,NULL,erreur,NULL
+405,openais chatgpt,PERSON,ORG,erreur,ORG
+405,googles gemini,PERSON,ORG,erreur,ORG
+405,goldman sachs,ORG,,,ORG
+405,neema raphael,PERSON,,,PERSON
+405,raphael,PERSON,,,PERSON
+405,bank exchange,ORG,NULL,,NULL
+405,socalle,ORG,NULL,,NULL
+405,the journal nature,ORG,,,ORG
+405,openai,ORG,,,ORG
+405,ilya sutskever,PERSON,,,PERSON
+405,sutskever,PERSON,,,PERSON
+405,ai company,ORG,,,ORG
+405,chatgpt,ORG,,,ORG
+405,humanity,ORG,NULL,,NULL
+405,london uk,GPE,,,GPE
+406,taylor swift,PERSON,,,PERSON
+407,tayla harris,PERSON,,,PERSON
+407,melbourne,ORG,GPE,,GPE
+407,aflw,ORG,,,ORG
+407,essendon,ORG,,,ORG
+407,ikon park,FAC,,,FAC
+407,demon,PERSON,,,PERSON
+408,scottish,GPE,,,GPE
+408,angela constance,PERSON,,,PERSON
+408,parliament,ORG,,,ORG
+409,nhs highland,ORG,,,ORG
+410,trump,PERSON,,,PERSON
+410,hamas,ORG,,,ORG
+410,gaza,GPE,,,GPE
+411,los angeles ap,GPE,,,GPE
+412,donald trump,PERSON,,,PERSON
+413,london,GPE,,,GPE
+413,the heaton park hebrew congregation synagogue,FAC,,,FAC
+413,manchester,GPE,,,GPE
+413,england,GPE,,,GPE
+413,yom voir larticle ce document référence un lien url de site non hébergé par cision,EVENT,NULL,erreur,NULL
+414,danielle longstaffe,PERSON,,,PERSON
+414,gateshead,GPE,,,GPE
+414,a mumtobe,PERSON,NULL,erreur,NULL
+416,alan shearer,PERSON,,,PERSON
+416,wayne rooney,PERSON,,,PERSON
+416,man utd,ORG,,,ORG
+416,ruben amorim,PERSON,,,PERSON
+416,nightmarealan,PERSON,NULL,erreur,NULL
+416,gary lineker,PERSON,,,PERSON
+416,wayne rooney,PERSON,,,PERSON
+416,man utd,ORG,,,ORG
+417,sarah jessica,PERSON,,,PERSON
+417,parker,PERSON,,,PERSON
+418,hamas,ORG,,,ORG
+418,donald trump,PERSON,,,PERSON
+419,keir starmer,PERSON,,,PERSON
+419,copenhagen airport,FAC,,,FAC
+419,donald trump,PERSON,,,PERSON
+419,us,GPE,,,GPE
+419,mexico voir,GPE,NULL,erreur,NULL
+420,canterbury,GPE,,,GPE
+420,dame sarah mullally,PERSON,,,PERSON
+420,sir keir starmer,PERSON,,,PERSON
+420,labour party,ORG,,,ORG
+420,nigel farage reform,ORG,,,ORG
+420,uk party,GPE,,,GPE
+420,britain,GPE,,,GPE
+420,sarah,PERSON,,,PERSON
+420,the pa news agency,ORG,,,ORG
+420,dame sarah,PERSON,,,PERSON
+420,rachel reeves,PERSON,,,PERSON
+420,treasury,ORG,,,ORG
+420,dame sarah,PERSON,,,PERSON
+420,christian,NORP,,,NORP
+420,68 college,ORG,,,ORG
+420,england,GPE,,,GPE
+420,canterbury,GPE,,,GPE
+420,rabbi keir starmer,PERSON,,,PERSON
+420,uk,NORP,GPE,,GPE
+420,polanski,PERSON,,,PERSON
+420,uk,GPE,,,GPE
+420,kemi badenoch,PERSON,,,PERSON
+420,tory party,ORG,,,ORG
+420,cet,ORG,NULL,,NULL
+420,est paru dan,PERSON,NULL,,NULL
+420,london uk,GPE,,,GPE
+422,daniel gunter,PERSON,,,PERSON
+423,archetype,ORG,NULL,,NULL
+423,snowflake,ORG,NULL,,NULL
+423,snowflake,ORG,NULL,,NULL
+424,womensex,GPE,NULL,,NULL
+424,donata venclovas,PERSON,,,PERSON
+425,sarah mullally,PERSON,,,PERSON
+425,canterbury,GPE,,,GPE
+427,israel,GPE,,,GPE
+427,corridor,FAC,NULL,,NULL
+427,strip,GPE,NULL,,NULL
+427,be,LOC,NULL,,NULL
+427,martin rowson,PERSON,,,PERSON
+427,gaza voir larticle,GPE,NULL,erreur,NULL
+428,martin odegaard,PERSON,,,PERSON
+429,leo,PERSON,,,PERSON
+430,bbc sport wale,ORG,,,ORG
+430,wrexham,GPE,,,GPE
+430,birmingham city,GPE,,,GPE
+430,wrexham,GPE,,,GPE
+430,birmingham,GPE,,,GPE
+431,cumbrias helen skelton,PERSON,,,PERSON
+432,haaland,PERSON,,,PERSON
+432,champion league,ORG,,,ORG
+432,erle haaland,PERSON,,,PERSON
+432,manchester city,ORG,,,ORG
+432,monaco,ORG,GPE,,GPE
+434,emily leeme,PERSON,,,PERSON
+434,king college london,ORG,,,ORG
+434,mohammed enayat,PERSON,,,PERSON
+434,the hum2n clinic,ORG,,,ORG
+434,jens walter,PERSON,,,PERSON
+434,university college cork,ORG,,,ORG
+434,western,NORP,,,NORP
+434,walter,PERSON,,,PERSON
+434,western,NORP,,,NORP
+434,biotech,ORG,,,ORG
+434,newish,NORP,,,NORP
+434,the hum2n clinic,ORG,,,ORG
+434,hum2n,ORG,,,ORG
+434,megan rossi,PERSON,,,PERSON
+434,the gut health clinic,ORG,,,ORG
+434,king college london,ORG,,,ORG
+434,leeme,PERSON,NULL,,NULL
+434,leeming,PERSON,,,PERSON
+434,enayat,PERSON,,,PERSON
+434,hum2n,ORG,,,ORG
+434,andrew steele,PERSON,,,PERSON
+434,exolympian,NORP,NULL,,NULL
+434,stride,PERSON,NULL,,NULL
+434,singleuse,PRODUCT,NULL,,NULL
+434,british,NORP,,,NORP
+434,mit,ORG,NULL,,NULL
+434,im8,PRODUCT,NULL,,NULL
+434,david beckham,PERSON,,,PERSON
+434,dr walter,PERSON,,,PERSON
+434,walter,PERSON,,,PERSON
+434,thenimedietcom,ORG,NULL,,NULL
+434,leeming,PERSON,,,PERSON
+434,leeming,PERSON,,,PERSON
+434,rossi,PERSON,,,PERSON
+434,emma bardwell,PERSON,,,PERSON
+434,tim spector,PERSON,,,PERSON
+434,momo,PRODUCT,NULL,,NULL
+434,olga donica,PERSON,,,PERSON
+434,clinique la prairie,ORG,,,ORG
+435,james halstead,PERSON,,,PERSON
+435,north america,LOC,GPE,,GPE
+435,europe,LOC,GPE,,GPE
+435,asia pacific,LOC,GPE,,GPE
+435,gordon oliver,PERSON,,,PERSON
+435,uk,GPE,,,GPE
+435,europe,LOC,GPE,,GPE
+435,zeus capital,ORG,,,ORG
+435,james halsteads,ORG,,,ORG
+435,michael fahy,PERSON,,,PERSON
+436,l loyds bank,ORG,,,ORG
+436,schroder,ORG,,,ORG
+436,brexit,ORG,EVENT,,EVENT
+436,company house,ORG,,,ORG
+436,schroder,PERSON,,,PERSON
+436,uk,GPE,,,GPE
+436,uk,GPE,,,GPE
+436,the financial conduct authority,ORG,,,ORG
+436,schroder personal wealth,ORG,NULL,,NULL
+436,uks,ORG,NULL,,NULL
+436,schroders,ORG,,,ORG
+436,st jamess,ORG,,,ORG
+436,lloyds,ORG,,,ORG
+436,rise,ORG,,,ORG
+436,high street bank,ORG,,,ORG
+436,lloyd,ORG,,,ORG
+436,schroder,ORG,,,ORG
+436,lloyds,ORG,,,ORG
+436,schroder,ORG,,,ORG
+436,lloyds,ORG,,,ORG
+436,charlie nunn,PERSON,,,PERSON
+436,antónio hortaosório,PERSON,,,PERSON
+436,schroder,ORG,,,ORG
+436,socalled,NORP,NULL,,NULL
+436,henrys,ORG,,,ORG
+437,fevertree,ORG,,,ORG
+438,trulli ulivi,ORG,,,ORG
+438,maureen,PERSON,,,PERSON
+438,tony papa,PERSON,,,PERSON
+438,masseria borzone,FAC,,,FAC
+438,puglia,GPE,,,GPE
+438,trullo,FAC,,,FAC
+438,puglia,GPE,,,GPE
+438,trulli ulivi,ORG,,,ORG
+438,maureen,PERSON,,,PERSON
+438,tony papass,PERSON,,,PERSON
+438,tony,PERSON,,,PERSON
+438,ostuni,GPE,,,GPE
+438,the trailblaze artisanal brasserie bread company,ORG,,,ORG
+438,australia,GPE,,,GPE
+438,new zealand,GPE,,,GPE
+438,olive grove,FAC,,,FAC
+438,masseria borzone,FAC,,,FAC
+438,twoyear,PERSON,NULL,,NULL
+438,flore,PERSON,NULL,,NULL
+438,venezia,PERSON,GPE,,GPE
+438,trulli,PERSON,NULL,,NULL
+438,olive,PERSON,NULL,,NULL
+438,uk,GPE,,,GPE
+438,the towpath café,FAC,,,FAC
+438,london,GPE,,,GPE
+438,papase,PERSON,NULL,,NULL
+438,papase,PERSON,NULL,,NULL
+438,maureen,PERSON,,,PERSON
+438,tony,PERSON,,,PERSON
+438,trullo,FAC,,,FAC
+438,puglia,GPE,,,GPE
+438,trulli ulivi,ORG,,,ORG
+438,maureen,PERSON,,,PERSON
+438,tony papass,PERSON,,,PERSON
+438,tony,PERSON,,,PERSON
+438,ostuni,GPE,,,GPE
+438,the trailblaze artisanal brasserie bread company,ORG,,,ORG
+438,australia,GPE,,,GPE
+438,olive grove,LOC,,,LOC
+438,masseria borzone,FAC,,,FAC
+438,flore,PERSON,,,PERSON
+438,venezia,PERSON,,,PERSON
+438,trulli,ORG,,,ORG
+438,trulli ulivi,ORG,,,ORG
+438,uk,GPE,,,GPE
+438,the towpath café,FAC,,,FAC
+438,london,GPE,,,GPE
+438,papase,PERSON,NULL,,NULL
+438,papase,ORG,NULL,,NULL
+438,maureen,PERSON,,,PERSON
+438,tony,PERSON,,,PERSON
+438,anchovy,NORP,,,NORP
+438,martina franca,GPE,,,GPE
+438,anchovy,NORP,,,NORP
+438,martina franca,GPE,,,GPE
+438,patricia lorizzo,PERSON,,,PERSON
+438,il convivio,ORG,,,ORG
+438,pugliese,NORP,,,NORP
+438,oronzo morelli,PERSON,,,PERSON
+438,maurizio semeraro,PERSON,,,PERSON
+438,enzo leone,PERSON,,,PERSON
+438,mimmo zaccaria,PERSON,,,PERSON
+438,the doctor of olives zaccaria,PERSON,,,PERSON
+438,giuseppe,PERSON,,,PERSON
+438,maureen,PERSON,,,PERSON
+438,il convivio,ORG,,,ORG
+438,pugliese,NORP,,,NORP
+438,oronzo morelli,PERSON,,,PERSON
+438,maurizio semeraro,PERSON,,,PERSON
+438,enzo leone,PERSON,,,PERSON
+438,mimmo zaccaria,PERSON,,,PERSON
+438,the doctor of olives zaccaria,PERSON,,,PERSON
+438,giuseppe,PERSON,,,PERSON
+438,maureen,PERSON,,,PERSON
+438,mimmos,PERSON,NULL,,NULL
+438,tony,PERSON,,,PERSON
+438,grove,LOC,,,LOC
+438,mimmo,PERSON,,,PERSON
+438,the minerva coratina bella di spagna,FAC,,,FAC
+438,the monumentale the ancient olive tree,FAC,,,FAC
+438,lecce del corno,LOC,,,LOC
+438,papase,PERSON,NULL,,NULL
+438,tony,PERSON,,,PERSON
+438,trulli ulivi,LOC,,,LOC
+438,the bayswater brasserie,FAC,,,FAC
+438,sydney,GPE,,,GPE
+438,new zealandborn,GPE,NULL,error,NULL
+438,tony,PERSON,,,PERSON
+438,maureen,PERSON,,,PERSON
+438,france,GPE,,,GPE
+438,work,GPE,NULL,,NULL
+438,frontofhouse,ORG,NULL,erreur,NULL
+438,sydney,GPE,,,GPE
+438,blackwattle bay,LOC,,,LOC
+438,michael allpress,PERSON,,,PERSON
+438,allpress,ORG,NULL,,NULL
+438,australia,GPE,,,GPE
+438,london,GPE,,,GPE
+438,europe,LOC,GPE,,GPE
+438,tony,PERSON,,,PERSON
+438,maureen,PERSON,,,PERSON
+438,the bayswater brasserie,FAC,,,FAC
+438,sydney,GPE,,,GPE
+438,new zealandborn,GPE,NULL,erreur,NULL
+438,tony,PERSON,,,PERSON
+438,maureen,PERSON,,,PERSON
+438,france,GPE,,,GPE
+438,work,LOC,NULL,,NULL
+438,frontofhouse,ORG,NULL,erreur,NULL
+438,sydney,GPE,,,GPE
+438,blackwattle bay,LOC,,,LOC
+438,michael allpress,PERSON,,,PERSON
+438,australia,GPE,,,GPE
+438,london,GPE,,,GPE
+438,europe,LOC,GPE,,GPE
+438,tony,PERSON,,,PERSON
+438,maureen,PERSON,,,PERSON
+439,marseillebase,ORG,NULL,erreur,NULL
+439,sarah espeute,PERSON,,,PERSON
+439,uvre sensible,ORG,NULL,,NULL
+439,trompeloeil,PRODUCT,NULL,erreur,NULL
+439,instagram,ORG,,,ORG
+439,uvre,ORG,NULL,,NULL
+439,marseille,GPE,,,GPE
+439,marseille,ORG,GPE,,GPE
+439,the 1st arrondissement,LOC,,,LOC
+439,noaille,LOC,,,LOC
+439,marseille,NORP,GPE,,GPE
+439,970,PRODUCT,NULL,,NULL
+439,henri matisse,PERSON,,,PERSON
+439,pierre boncompain,PERSON,,,PERSON
+439,threemichelinstar,ORG,NULL,erreur,NULL
+440,uk,GPE,,,GPE
+440,storm amy,EVENT,,,EVENT
+440,uk,GPE,,,GPE
+440,fintan devenney,PERSON,,,PERSON
+440,montel,ORG,NULL,,NULL
+440,scotland,GPE,,,GPE
+440,europe,LOC,GPE,,GPE
+440,uk,GPE,,,GPE
+440,uk,GPE,,,GPE
+440,storm amy accord to forecaster,EVENT,,,EVENT
+441,european central bank,ORG,,,ORG
+441,christine lagarde,PERSON,,,PERSON
+441,financial regulator,ORG,NULL,,NULL
+441,we regulator,ORG,NULL,,NULL
+441,lagarde,PERSON,,,PERSON
+441,amsterdam,GPE,,,GPE
+441,lagarde,PERSON,,,PERSON
+441,financial institution,ORG,NULL,,NULL
+441,eu bank,ORG,,,ORG
+441,hedge fund,ORG,,,ORG
+441,lagarde,PERSON,,,PERSON
+441,eurozone,GPE,,,GPE
+441,lagarde,PERSON,,,PERSON
+441,lagarde,PERSON,,,PERSON
+441,jirí król,PERSON,,,PERSON
+441,government affair,ORG,NULL,,NULL
+441,the alternative investment manager association,ORG,,,ORG
+441,eu bank,ORG,,,ORG
+441,europe,LOC,GPE,,GPE
+442,poppy otoole,PERSON,,,PERSON
+442,tiktok,ORG,,,ORG
+443,dubai,GPE,,,GPE
+443,emirate,GPE,,,GPE
+443,car be king,FAC,NULL,,NULL
+443,the emirate authority,ORG,,,ORG
+443,uae,NORP,GPE,,GPE
+443,dubai,GPE,,,GPE
+443,dubai,NORP,,,NORP
+443,the house of the future,ORG,,,ORG
+443,reidin,GPE,NULL,,NULL
+443,dubaibased,GPE,NULL,erreur,NULL
+443,danish,NORP,,,NORP
+443,dutch,NORP,,,NORP
+443,copenhagenstyle,NORP,NULL,erreur,NULL
+443,may ahmed,GPE,PERSON,,PERSON
+443,dubais ruler,PERSON,NULL,erreur,NULL
+443,arm holding,ORG,NULL,,NULL
+443,bjarke ingels group,ORG,,,ORG
+443,palm jumeirah artificial island,LOC,,,LOC
+443,the jebel ali racecourse,FAC,,,FAC
+443,community centre,ORG,,,ORG
+443,alain kallas,PERSON,,,PERSON
+443,arm hold,ORG,NULL,,NULL
+443,arabian,NORP,,,NORP
+443,peninsulathe,GPE,,,GPE
+443,annabel spencer,PERSON,,,PERSON
+443,uk,GPE,,,GPE
+443,uae,LOC,GPE,,GPE
+443,the world health organization,ORG,,,ORG
+443,uae,GPE,,,GPE
+443,the ngo human right watch,ORG,,,ORG
+443,joao albuquerque,PERSON,,,PERSON
+443,desert,LOC,,,LOC
+443,ghaf,LOC,,,LOC
+443,ben van berkel,PERSON,,,PERSON
+443,dutch,NORP,,,NORP
+443,unstudio,PERSON,NULL,erreur,NULL
+443,the jebel ali,FAC,,,FAC
+443,dubais expo,EVENT,,,EVENT
+443,dubai,GPE,,,GPE
+443,berkel,PERSON,,,PERSON
+443,jebel ali racecourse,FAC,,,FAC
+443,expo city,FAC,,,FAC
+443,gate villa,FAC,,,FAC
+443,dubais,NORP,NULL,,NULL
+443,emirate,NORP,,,NORP
+443,the sustainable city,ORG,,,ORG
+443,diamond developer,ORG,NULL,,NULL
+443,dubais southern edge,FAC,,,FAC
+443,shield,LOC,NULL,,NULL
+443,australian,NORP,,,NORP
+443,jennifer stelco,PERSON,,,PERSON
+443,dubai,GPE,,,GPE
+443,dubai,GPE,,,GPE
+443,hadeel ahmad,PERSON,,,PERSON
+443,diamond developer,ORG,NULL,,NULL
+443,abu dhabi sharjah,GPE,,,GPE
+443,oman,GPE,,,GPE
+443,emirate,GPE,,,GPE
+443,uae government,ORG,,,ORG
+443,dubais,LOC,NULL,,NULL
+443,copenhagen,GPE,,,GPE
+443,albuquerque,GPE,,,GPE
+444,nathan brooker,PERSON,,,PERSON
+444,ferrari,PRODUCT,,,PRODUCT
+444,morgan housels,PERSON,,,PERSON
+444,moira oneill,PERSON,,,PERSON
+444,claer barrett,PERSON,,,PERSON
+444,uks,NORP,NULL,,NULL
+444,neal hudson,PERSON,,,PERSON
+444,luke boase,ORG,PERSON,,PERSON
+444,alcoholfree beer,PRODUCT,,,PRODUCT
+444,lucky saint,PERSON,PRODUCT,,PRODUCT
+444,stuart kirk,PERSON,,,PERSON
+445,london,GPE,,,GPE
+445,ibraaz,FAC,,,FAC
+445,yan du project,FAC,NULL,,NULL
+445,fitzrovia,GPE,,,GPE
+445,the kamel lazaar foundation,ORG,,,ORG
+445,kamel lazaar,PERSON,,,PERSON
+445,lina,PERSON,,,PERSON
+445,stonefronte,LOC,,,LOC
+445,synagogue,FAC,,,FAC
+445,german,NORP,,,NORP
+445,lina lazaar,PERSON,,,PERSON
+445,african,NORP,,,NORP
+445,asian,NORP,,,NORP
+445,latin american,NORP,,,NORP
+445,ghanaian,NORP,,,NORP
+445,ibrahim mahamas,PERSON,,,PERSON
+445,ghanaian,NORP,,,NORP
+445,ghanas railway station,FAC,,,FAC
+445,lazaar,PERSON,,,PERSON
+445,ibraaz,PERSON,FAC,,FAC
+445,bedford square yan du project fund,FAC,,,FAC
+445,asian,NORP,,,NORP
+445,duan jianyu,PERSON,,,PERSON
+445,china,GPE,,,GPE
+445,london,GPE,,,GPE
+445,marylebone,GPE,,,GPE
+445,glenn brown,PERSON,,,PERSON
+445,thing brown,PERSON, NULL,, NULL
+445,dus,PERSON,NULL,,NULL
+445,yayoi kusama georgia okeeffe,PERSON,NULL,erreur,NULL
+445,louise bourgeois,PERSON,,,PERSON
+445,alexander petalas,PERSON,,,PERSON
+445,wolfgang tillmans,PERSON,,,PERSON
+445,sarah lucas,PERSON,,,PERSON
+445,bloomsbury,FAC,,,FAC
+445,georgina adam,PERSON,,,PERSON
+445,the private art museum,ORG,,,ORG
+445,tate,PERSON,FAC,,FAC
+445,petalas,PERSON,NULL,,NULL
+445,wigmore hall,ORG,,,ORG
+445,london,GPE,,,GPE
+445,john gilhooly,PERSON,,,PERSON
+445,arts council,ORG,,,ORG
+445,england,GPE,,,GPE
+445,bbc,ORG,,,ORG
+445,america,GPE,,,GPE
+445,donald trump,PERSON,,,PERSON
+445,smithsonian,ORG,NULL,,NULL
+445,american,NORP,,,NORP
+445,ibraaz lazaar,ORG,NULL,,NULL
+446,jihad alshamie voir,PERSON,NULL,erreur,NULL
+447,german,NORP,,,NORP
+447,werner herzog,PERSON,,,PERSON
+447,robot,PRODUCT,,,PRODUCT
+447,catholic,NORP,,,NORP
+447,herzog,PERSON,,,PERSON
+447,bavarian,NORP,,,NORP
+447,east africa,GPE,,,GPE
+447,antarctica,GPE,,,GPE
+447,footslog,PERSON,NULL,,NULL
+447,herzog,PERSON,,,PERSON
+447,herzog,PERSON,,,PERSON
+447,herzog,PERSON,,,PERSON
+447,irish,NORP,,,NORP
+447,south american,NORP,,,NORP
+447,herzog,PERSON,,,PERSON
+447,herzog,PERSON,,,PERSON
+447,herzog,PERSON,,,PERSON
+447,fitzcarraldo,PERSON,NULL,erreur,NULL
+447,herzog,PERSON,,,PERSON
+447,the burn oilfield,LOC,NULL,,NULL
+447,kuwait,GPE,,,GPE
+447,iraqi,NORP,,,NORP
+447,blaise pascal,PERSON,,,PERSON
+447,pascal,PERSON,,,PERSON
+447,france,GPE,,,GPE
+447,herzog,GPE,PERSON,,PERSON
+447,herzog,GPE,PERSON,,PERSON
+448,cory doctorow,PERSON,,,PERSON
+448,the world big technology company,ORG,,,ORG
+448,apple alphabet,ORG,NULL,,NULL
+448,doctorow,PERSON,,,PERSON
+448,doctorow,PERSON,,,PERSON
+448,google,ORG,,,ORG
+448,google,ORG,,,ORG
+448,michael roszak,PERSON,,,PERSON
+448,roszak,PERSON,,,PERSON
+448,amazon,ORG,,,ORG
+448,facebook,ORG,,,ORG
+448,facebook,ORG,,,ORG
+448,iphone,PRODUCT,,,PRODUCT
+448,doctorow,PERSON,,,PERSON
+448,tesla,ORG,,,ORG
+448,doctorow,PERSON,,,PERSON
+448,doctorow,PERSON,,,PERSON
+448,xtwitter,PRODUCT,NULL,erreur,NULL
+448,myspace,PRODUCT,,,PRODUCT
+448,doctorow,PERSON,,,PERSON
+448,twitter,ORG,,,ORG
+448,elon musk,PERSON,,,PERSON
+448,doctorow,ORG,,,ORG
+448,paul krugman,PERSON,,,PERSON
+448,doctorow,ORG,PERSON,,PERSON
+448,cherrypicke,PERSON,NULL,,NULL
+448,doctorow,ORG,PERSON,,PERSON
+448,procter,ORG,,erreur ?,ORG
+448,gamble,ORG,,,ORG
+448,pg,ORG,,,ORG
+448,other,ORG,NULL,,NULL
+448,doctorow,PERSON,,,PERSON
+448,uk,NORP,GPE,,GPE
+448,democrat,NORP,,,NORP
+448,meta,ORG,,,ORG
+448,nick clegg,PERSON,,,PERSON
+448,brexit,EVENT,,,EVENT
+448,britain,NORP,GPE,,GPE
+448,eu,ORG,,,ORG
+448,doctorow,PERSON,,,PERSON
+448,biden,PERSON,,,PERSON
+448,federal trade commission,ORG,,,ORG
+448,lina khan,PERSON,,,PERSON
+448,trump,PERSON,,,PERSON
+448,doctorow,PERSON,,,PERSON
+448,jd vance,PERSON,,,PERSON
+448,khan,PERSON,,,PERSON
+448,chatgpt,ORG,,,ORG
+448,doctorow,ORG,PERSON,,PERSON
+448,doctorow,ORG,PERSON,,PERSON
+448,audible,ORG,,,ORG
+448,amazon,ORG,,,ORG
+448,henry mance,PERSON,,,PERSON
+448,fts,ORG,NULL,,NULL
+448,apple,PERSON,ORG,,ORG
+448,doctorow,ORG,PERSON,,PERSON
+449,finland,GPE,,,GPE
+449,the baltic sea,LOC,,,LOC
+449,finnish,NORP,,,NORP
+449,the eagle s,PRODUCT,NULL,,NULL
+449,helsinki district court,ORG,,,ORG
+449,finland,GPE,,,GPE
+449,finland,GPE,,,GPE
+449,the eagle s,PRODUCT,NULL,,NULL
+449,the baltic sea,LOC,,,LOC
+449,nato,ORG,,,ORG
+449,russia,GPE,,,GPE
+449,western,NORP,,,NORP
+449,davit vadatchkor,PERSON,,,PERSON
+449,robert egizaryan,PERSON,,,PERSON
+449,santosh kumar chaurasia,PERSON,,,PERSON
+449,finland,GPE,,,GPE
+449,international water,LOC,,,LOC
+449,finnish,NORP,,,NORP
+449,europe,LOC,GPE,,GPE
+449,russia,GPE,,,GPE
+449,european,NORP,,,NORP
+449,georgian,NORP,,,NORP
+449,indian,NORP,,,NORP
+449,finland,GPE,,,GPE
+449,nato,ORG,,,ORG
+449,baltic sentry,ORG,EVENT,,EVENT
+449,eastern sentry,ORG,EVENT,,EVENT
+449,russia,GPE,,,GPE
+449,belarus,GPE,,,GPE
+449,nato,ORG,,,ORG
+449,denmark,GPE,,,GPE
+449,northern germany,GPE,,,GPE
+449,the baltic sea,LOC,,,LOC
+449,denmark,GPE,,,GPE
+449,france,GPE,,,GPE
+449,munich,GPE,,,GPE
+449,german,NORP,,,NORP
+449,air traffic controller,ORG,NULL,,NULL
+449,mette frederiksen,PERSON,,,PERSON
+449,denmark,GPE,,,GPE
+449,the financial time,ORG,,,ORG
+449,europe,LOC,GPE,,GPE
+449,antidrone,PRODUCT,,,PRODUCT
+449,finland,GPE,,,GPE
+450,morocco,GPE,,,GPE
+450,casablanca,GPE,,,GPE
+450,tangy,GPE,NULL,,NULL
+450,football world cup,EVENT,,,EVENT
+451,eisenhower presidential librarys,ORG,LOC,,LOC
+451,charle,PERSON,,,PERSON
+451,donald trump,PERSON,,,PERSON
+453,cristiano ronaldo,PERSON,,,PERSON
+453,manchester united,ORG,,,ORG
+453,ruben amorim,PERSON,,,PERSON
+454,greg james,PERSON,,,PERSON
+454,bbc,ORG,,,ORG
+454,greg james,PERSON,,,PERSON
+454,bbc radio,ORG,,,ORG
+455,israel,GPE,,,GPE
+455,gaza,GPE,,,GPE
+455,israeli,NORP,,,NORP
+456,taylor swift,PERSON,,,PERSON
+456,bestie brittany,PERSON,,,PERSON
+456,donald trump,PERSON,,,PERSON
+456,kansas city,GPE,,,GPE
+456,voir larticle,PERSON,NULL,,NULL
+457,baghdadborn,NORP,,,NORP
+459,donald trump,PERSON,,,PERSON
+459,hamas,GPE,ORG,,ORG
+459,washington dc,GPE,,,GPE
+459,israeli,NORP,,,NORP
+459,gaza,NORP,GPE,,GPE
+459,hamas,NORP,ORG,,ORG
+459,hamas,NORP,ORG,,ORG
+459,trump,PERSON,,,PERSON
+459,hamas,NORP,ORG,,ORG
+459,gaza,GPE,,,GPE
+459,palestinians,NORP,,,NORP
+459,un,ORG,,,ORG
+459,gaza,GPE,,,GPE
+459,trump,PERSON,,,PERSON
+459,hamas,NORP,ORG,,ORG
+459,gaza,GPE,,,GPE
+459,london uk,GPE,,,GPE
+460,senate,ORG,,,ORG
+460,the house of representative,ORG,,,ORG
+460,house,ORG,,,ORG
+460,mike johnson,PERSON,,,PERSON
+460,house,ORG,,,ORG
+460,house,ORG,,,ORG
+460,democrats,NORP,,,NORP
+460,republicans,NORP,,,NORP
+460,republicans,NORP,,,NORP
+460,democrat,NORP,,,NORP
+460,senate,ORG,,,ORG
+460,john thune,PERSON,,,PERSON
+460,south dakota,GPE,,,GPE
+460,thune,PERSON,,,PERSON
+460,south dakotan,NORP,,,NORP
+460,mike rounds,PERSON,,,PERSON
+460,democrats,NORP,,,NORP
+460,republicans,NORP,,,NORP
+460,independent,ORG,NULL,,NULL
+460,democrats,NORP,,,NORP
+460,state,ORG,,,ORG
+460,democrats,NORP,,,NORP
+460,republicans,NORP,,,NORP
+460,thom tillis,PERSON,,,PERSON
+460,rnc,PERSON,NULL,,NULL
+460,independent,ORG,,,ORG
+460,tillis,PERSON,,,PERSON
+460,donald trump,PERSON,,,PERSON
+460,turn office of management,ORG,,,ORG
+460,russell vought,PERSON,,,PERSON
+460,senate,ORG,,,ORG
+460,chuck schumer,PERSON,,,PERSON
+460,republicans,NORP,,,NORP
+460,democrats,NORP,,,NORP
+460,kaine dva,PERSON,NULL,,NULL
+460,independent,ORG,,,ORG
+460,federal,ORG,,,ORG
+460,catherine cortez masto,PERSON,,,PERSON
+460,republicans,NORP,,,NORP
+460,cortez masto,PERSON,,,PERSON
+460,independent,ORG,,,ORG
+460,american,NORP,,,NORP
+460,democrats,NORP,,,NORP
+460,republicans,NORP,,,NORP
+460,democrat,NORP,,,NORP
+460,trump,PERSON,,,PERSON
+460,trump,PERSON,,,PERSON
+460,republicans,NORP,,,NORP
+460,obamacare,EVENT,NULL,,NULL
+460,thune,PERSON,,,PERSON
+460,democraticheld,NORP,NULL,erreur,NULL
+460,thune,PERSON,,,PERSON
+460,independent,ORG,,,ORG
+460,south dakota,GPE,,,GPE
+460,schumer,PERSON,,,PERSON
+460,thune,PERSON,,,PERSON
+460,national park,FAC,,,FAC
+460,medicaid,ORG,NULL,,NULL
+460,hispanic,NORP,,,NORP
+460,the united states,GPE,,,GPE
+460,trump,PERSON,,,PERSON
+460,white house,ORG,,,ORG
+460,democrat,NORP,,,NORP
+460,trump,PERSON,,,PERSON
+460,trump,PERSON,,,PERSON
+460,democrats,NORP,,,NORP
+460,the party of hate evil,ORG,NULL,,NULL
+460,satan,PERSON,,?,PERSON
+460,trump,PERSON,,,PERSON
+460,israel,GPE,,,GPE
+460,bomb gaza,ORG,NULL,,NULL
+460,hamas,NORP,ORG,,ORG
+460,treasury,ORG,,,ORG
+460,trump,PERSON,,,PERSON
+460,america,GPE,,,GPE
+460,cet,ORG,NULL,,NULL
+460,the independent,ORG,,,ORG
+460,london uk,GPE,,,GPE
+461,larkin,PERSON,,,PERSON
+462,india,GPE,,,GPE
+462,india,GPE,,,GPE
+462,world cup,EVENT,,,EVENT
+463,propalestinian,NORP,,,NORP
+463,italy,GPE,,,GPE
+463,national football team train centre,FAC,,,FAC
+463,world cup,EVENT,,,EVENT
+463,israel,GPE,,,GPE
+463,florence s coverciano facility,FAC,,,FAC
+463,gaza,GPE,,,GPE
+463,israeli,NORP,,,NORP
+463,italy,GPE,,,GPE
+463,israel,GPE,,,GPE
+463,udine,GPE,,,GPE
+463,uefa,ORG,,,ORG
+463,israel,GPE,,,GPE
+463,italy,GPE,,,GPE
+463,israeli,NORP,,,NORP
+463,navys,NORP,NULL,,NULL
+463,activist,PERSON,NULL,,NULL
+463,major union,ORG,,,ORG
+463,palestinians,NORP,,,NORP
+463,israel,GPE,,,GPE
+463,war amnesty,EVENT,,,EVENT
+463,football authority,ORG,,,ORG
+463,fifa,ORG,,,ORG
+463,uefa,ORG,,,ORG
+463,the israeli football association,ORG,,,ORG
+463,ifa,ORG,,,ORG
+463,fifas,ORG,,,ORG
+463,fifa,ORG,,,ORG
+463,the palestine football association,ORG,,,ORG
+463,pfa,ORG,,,ORG
+463,fifa,ORG,,,ORG
+463,the gaza strip,GPE,,,GPE
+463,a united nations commission of inquiry,ORG,,,ORG
+463,israel,GPE,,,GPE
+463,gaza,GPE,,,GPE
+463,israel,GPE,,,GPE
+463,gianni infantino,PERSON,,,PERSON
+463,us,GPE,,,GPE
+463,donald trump,PERSON,,,PERSON
+463,world cup,EVENT,,,EVENT
+463,the us,ORG,GPE,,GPE
+463,state department,ORG,,,ORG
+463,israel,GPE,,,GPE
+463,london uk,GPE,,,GPE
+464,henny,PERSON,,,PERSON
+464,innout,ORG,,,ORG
+464,monrovia california,GPE,,,GPE
+464,pasadena humane,ORG,,,ORG
+464,henny,PERSON,,,PERSON
+464,san bernardino,GPE,,,GPE
+464,pasadena humane,ORG,,,ORG
+464,henny,PERSON,,,PERSON
+464,london uk,GPE,,,GPE
+465,oasis,ORG,,,ORG
+465,paul bonehead,PERSON,,,PERSON
+465,arthur,PERSON,,,PERSON
+465,seoul,GPE,,,GPE
+465,tokyo,GPE,,,GPE
+465,melbourne,GPE,,,GPE
+465,sydney,GPE,,,GPE
+465,arthur,PERSON,,,PERSON
+465,south america,LOC,GPE,,GPE
+465,arthur,PERSON,,,PERSON
+465,oasis,ORG,,,ORG
+465,uk,GPE,,,GPE
+465,united states,GPE,,,GPE
+465,oasis,ORG,,,ORG
+465,bonehead,PERSON,,,PERSON
+465,london uk,GPE,,,GPE
+466,democratic,NORP,,,NORP
+466,congress,ORG,,,ORG
+466,the white house budget office,ORG,,,ORG
+466,democrat senator,PERSON,,,PERSON
+466,democratic,NORP,,,NORP
+466,congress,ORG,,,ORG
+466,department of education,ORG,,,ORG
+466,abc news,ORG,,,ORG
+466,nbc news,ORG,,,ORG
+466,the education department,ORG,,,ORG
+466,nbc news,ORG,,,ORG
+466,department of education,ORG,,,ORG
+466,senate democrats,NORP,,,NORP
+466,department of health and human service,ORG,,,ORG
+466,democrat,NORP,,,NORP
+466,democratic,NORP,,,NORP
+466,the department of justice state department,ORG,,,ORG
+466,the food and drug administration,ORG,,,ORG
+466,department of agriculture department of housing and urban development,ORG,,,ORG
+466,the small business administration,ORG,,,ORG
+466,donald trump,PERSON,,,PERSON
+466,democratic,NORP,,,NORP
+466,robert garcia,PERSON,,,PERSON
+466,democrat,NORP,,,NORP
+466,the house oversight committee,ORG,,,ORG
+466,jamieson greer,PERSON,,,PERSON
+466,the white house,FAC,,,FAC
+466,public citizen,ORG,,,ORG
+466,democratic,NORP,,,NORP
+466,congress,ORG,,,ORG
+466,trump,PERSON,,,PERSON
+466,republicans,NORP,,,NORP
+466,democratic,NORP,,,NORP
+466,democrats,NORP,,,NORP
+466,democratic,NORP,,,NORP
+466,republican,NORP,,,NORP
+466,independent,ORG,,,ORG
+466,white house,ORG,,,ORG
+466,barack obama,PERSON,,,PERSON
+466,joe biden,PERSON,,,PERSON
+466,republicans,NORP,,,NORP
+466,london uk,GPE,,,GPE
+467,tyrese gibson,PERSON,,,PERSON
+467,georgia,GPE,,,GPE
+467,gibson,PERSON,,,PERSON
+467,fulton county,GPE,,,GPE
+467,nicole dwyer,PERSON,,,PERSON
+467,dwyer,PERSON,,,PERSON
+467,the associated press,ORG,,,ORG
+467,gibson,PERSON,,,PERSON
+467,aps,ORG,,,ORG
+467,gabe bank,PERSON,,,PERSON
+467,ap,ORG,,,ORG
+467,gibson,PERSON,,,PERSON
+467,dwyer,PERSON,,,PERSON
+467,gibson,PERSON,,,PERSON
+467,gibson,PERSON,,,PERSON
+467,instagram,ORG,,,ORG
+467,bank write,PERSON,NULL,,NULL
+467,gibson,PERSON,,,PERSON
+467,stalker,ORG,NULL,,NULL
+467,bank,PERSON,NULL,,NULL
+467,gibson,PERSON,,,PERSON
+467,georgia,GPE,,,GPE
+467,us,GPE,,,GPE
+467,russian,NORP,,,NORP
+467,global banking climate group,ORG,,,ORG
+467,london uk,GPE,,,GPE
+468,gaza,GPE,,,GPE
+468,israeli,NORP,,,NORP
+468,the besiege strip,GPE,,,GPE
+468,sumud,PRODUCT,NULL,,NULL
+468,palestinians,NORP,,,NORP
+468,israeli,NORP,,,NORP
+468,ketziot prison,FAC,,,FAC
+468,the negev desert,LOC,,,LOC
+468,cyprus,GPE,,,GPE
+468,marinette,PRODUCT,NULL,,NULL
+468,london,GPE,,,GPE
+468,down street,FAC,,,FAC
+468,the metropolitan police,ORG,,,ORG
+468,italian,NORP,,,NORP
+468,israel,GPE,,,GPE
+468,milan bologna,GPE,,,GPE
+468,rome,GPE,,,GPE
+468,georgia meloni,PERSON,,,PERSON
+468,european,NORP,,,NORP
+468,berlin paris,GPE,,,GPE
+468,athens,GPE,,,GPE
+468,madrid,GPE,,,GPE
+468,barcelona,GPE,,,GPE
+468,geneva,GPE,,,GPE
+468,los angeles california,GPE,,,GPE
+468,new york city,GPE,,,GPE
+468,us,GPE,,,GPE
+468,amazon,GPE,ORG,,ORG
+468,chris small,PERSON,,,PERSON
+468,kuala lumpur,PRODUCT,GPE,,GPE
+468,malaysia,GPE,,,GPE
+468,malaysians,NORP,,,NORP
+468,rio de janeiro,GPE,,,GPE
+468,brazil,GPE,,,GPE
+468,buenos air,GPE,,,GPE
+468,istanbul,GPE,,,GPE
+468,turkey,GPE,,,GPE
+468,ciudad juarez,GPE,,,GPE
+468,mexico,GPE,,,GPE
+468,israel,GPE,,,GPE
+468,israeli,NORP,,,NORP
+468,foreign ministry,ORG,,,ORG
+468,swedish,NORP,,,NORP
+468,greta thunberg,PERSON,,,PERSON
+468,greta thunberg,PERSON,,,PERSON
+468,israel,GPE,,,GPE
+468,israel,GPE,,,GPE
+468,italy greece,GPE,,,GPE
+468,the latin patriarchate,GPE,FAC,,FAC
+468,jerusalem,GPE,,,GPE
+468,gaza,GPE,,,GPE
+468,israel,NORP,GPE,,GPE
+468,itamar bengvir,PERSON,,,PERSON
+468,volunteer,PERSON,NULL,,NULL
+468,ketziot prison,FAC,,,FAC
+468,volunteer,PERSON,NULL,,NULL
+468,ketziot,GPE,FAC,,FAC
+468,flotilla,PRODUCT,,,PRODUCT
+468,israel channel 14,ORG,,,ORG
+468,colombian,NORP,,,NORP
+468,gustavo petro,PERSON,,,PERSON
+468,israeli,NORP,,,NORP
+468,turkey,NORP,GPE,,GPE
+468,israeli,NORP,,,NORP
+468,malaysia,GPE,,,GPE
+468,pakistan,GPE,,,GPE
+468,flotilla volunteer human right group,ORG,,,ORG
+468,israel,GPE,,,GPE
+468,gaza,ORG,GPE,,GPE
+468,agnès callamard,PERSON,,,PERSON
+468,israeli,NORP,,,NORP
+468,amnesty,ORG,,,ORG
+468,the international communitys,ORG,,,ORG
+468,israel,NORP,GPE,,GPE
+468,palestinians,NORP,,,NORP
+468,the gaza strip,GPE,LOC,,LOC
+468,gazan,NORP,,,NORP
+468,un,ORG,,,ORG
+468,israel,GPE,,,GPE
+468,israel,GPE,,,GPE
+468,hamas,NORP,ORG,,ORG
+468,israel,GPE,,,GPE
+468,us,GPE,,,GPE
+468,donald trump,PERSON,,,PERSON
+468,hama,PERSON,NULL,,NULL
+468,palestinians,NORP,,,NORP
+468,israeli,NORP,,,NORP
+468,israel,GPE,,,GPE
+468,gaza city,GPE,,,GPE
+468,israeli,NORP,,,NORP
+468,gaza,GPE,,,GPE
+468,almasawi,LOC,NULL,,NULL
+468,manchester,GPE,,,GPE
+468,trump,PERSON,,,PERSON
+468,trump,PERSON,,,PERSON
+468,hamas,NORP,ORG,,ORG
+468,italy,GPE,,,GPE
+468,gaza,GPE,,,GPE
+468,un agency,ORG,,,ORG
+468,hamas,ORG,,,ORG
+468,israel,GPE,,,GPE
+468,greta,GPE,PERSON,,PERSON
+468,thunberg,GPE,PERSON,,PERSON
+468,gaza,GPE,,,GPE
+468,israel,GPE,,,GPE
+468,london uk,GPE,,,GPE
+469,mediterranean,NORP,,,NORP
+469,london uk,GPE,,,GPE
+471,mansfield town,ORG,,,ORG
+471,mansfield town,ORG,,,ORG
+472,bromley,ORG,,,ORG
+472,tranmere rover,ORG,,,ORG
+473,newport county,GPE,,,GPE
+473,swindon town,GPE,,,GPE
+473,league two,ORG,,,ORG
+473,newport county,GPE,,,GPE
+473,swindon town,GPE,,,GPE
+474,scotland,ORG,,,ORG
+475,robert tylerjone,PERSON,,,PERSON
+476,the middle east,LOC,GPE,,GPE
+476,israeli,NORP,,,NORP
+476,palestinian,NORP,,,NORP
+476,australians,NORP,,,NORP
+479,cleveland,GPE,,,GPE
+479,ap,PERSON,NULL,,NULL
+479,dillon dingler,PERSON,,,PERSON
+479,tiebreake,PERSON,NULL,,NULL
+479,wenceel pérez,PERSON,,,PERSON
+479,the detroit tiger,ORG,,,ORG
+480,seattle,GPE,,,GPE
+480,nfl,ORG,,,ORG
+480,seahawks,ORG,,,ORG
+480,seahawks,ORG,,,ORG
+481,uk,GPE,,,GPE
+481,uk,GPE,,,GPE
+481,andy carter,PERSON,,,PERSON
+481,allwyn,PERSON,,,PERSON
+481,uk,GPE,,,GPE
+481,uk,NORP,GPE,,GPE
+481,uk,GPE,,,GPE
+481,local community group,ORG,,,ORG
+481,british,NORP,,,NORP
+481,uk,GPE,,,GPE
+481,amy,PERSON,,,PERSON
+481,uk cet,GPE,NULL,,NULL
+481,london uk,GPE,,,GPE
+482,manchester,GPE,,,GPE
+482,warzone,GPE,NULL,,NULL
+482,hamas,PERSON,ORG,,ORG
+482,israel,GPE,,,GPE
+482,manchester,GPE,,,GPE
+482,israel,GPE,,,GPE
+483,rat,PERSON,NULL,,NULL
+483,rat,PERSON,NULL,,NULL
+484,jane goodall,PERSON,,,PERSON
+484,tanzania gombe forest,LOC,,,LOC
+484,zoo,ORG,,,ORG
+484,twig goodall,PERSON,,,PERSON
+484,goodall,PERSON,,,PERSON
+484,africa,LOC,GPE,,GPE
+484,the jane goodall institute,ORG,,,ORG
+484,root,ORG,NULL,,NULL
+484,shoot,ORG,NULL,,NULL
+484,goodall,PERSON,,,PERSON
+484,doug gurr,PERSON,,,PERSON
+484,london natural history museum,ORG,,,ORG
+484,goodall,PERSON,,,PERSON
+484,bear,PERSON,NULL,,NULL
+484,london,GPE,,,GPE
+484,the eld,PERSON,NULL,,NULL
+484,mortimer morrisgoodall,PERSON,,,PERSON
+484,vanne goodall,PERSON,,,PERSON
+484,bournemouth,GPE,,,GPE
+484,england south coast,LOC,,,LOC
+484,africa,LOC,GPE,,GPE
+484,goodall,PERSON,,,PERSON
+484,louis leakey,PERSON,,,PERSON
+484,the national museum,ORG,FAC,,FAC
+484,nairobi,GPE,,,GPE
+484,kenya,GPE,,,GPE
+484,the olduvai gorge,LOC,,,LOC
+484,tanzania,GPE,,,GPE
+484,leakey,PERSON,,,PERSON
+484,goodall,PERSON,,,PERSON
+484,gombe,GPE,,,GPE
+484,the tanzanian forest,LOC,,,LOC
+484,national geographic magazine,ORG,,,ORG
+484,the world medium,ORG,,,ORG
+484,leakey,PERSON,,,PERSON
+484,goodall,PERSON,,,PERSON
+484,cambridge university,ORG,,,ORG
+484,david greybeard,PERSON,,,PERSON
+484,flo,PERSON,,,PERSON
+484,goodall,PERSON,,,PERSON
+484,dian fossey,PERSON,,,PERSON
+484,rwanda,GPE,,,GPE
+484,birute mary galdikas,PERSON,,,PERSON
+484,borneo,GPE,,,GPE
+484,goodall,PERSON,,,PERSON
+484,hugo van lawick,PERSON,,,PERSON
+484,dutch,NORP,,,NORP
+484,hugo,PERSON,,,PERSON
+484,derek bryceson tanzania,PERSON,NULL,tanzania en trop,NULL
+484,national park,ORG,LOC,,LOC
+484,goodall,PERSON,,,PERSON
+484,the jane goodall institute,FAC,ORG,,ORG
+484,the fts htsi,ORG,NULL,,NULL
+484,goodall,PERSON,,,PERSON
+484,joe biden,PERSON,,,PERSON
+484,goodall,PERSON,,,PERSON
+484,clive cookson,PERSON,,,PERSON
+485,99scan,PRODUCT,NULL,,NULL
+486,cmat,PERSON,,,PERSON
+486,uk,GPE,,,GPE
+486,irish,NORP,,,NORP
+486,cmat,PERSON,,,PERSON
+486,uk,GPE,,,GPE
+488,raleigh,GPE,,,GPE
+488,north carolinas,GPE,,,GPE
+488,democratic,NORP,,,NORP
+488,the state republicancontrolle legislature,ORG,,,ORG
+489,aiman kaiden,PERSON,,,PERSON
+489,london soho square,GPE,,,GPE
+490,las vegas,GPE,,,GPE
+490,nyse amh,PERSON,NULL,,NULL
+490,largescale integrate,ORG,NULL,,NULL
+491,london,GPE,,,GPE
+491,patrick procktor,PERSON,,,PERSON
+491,the slade school of art,ORG,,,ORG
+491,the redfern gallery,ORG,FAC,,FAC
+491,cork street,FAC,,,FAC
+491,david hockney,PERSON,,,PERSON
+491,london,GPE,,,GPE
+491,john mcewen,PERSON,,,PERSON
+491,castor,PERSON,NULL,,NULL
+491,pollux,PERSON,,,PERSON
+491,procktor,PERSON,,,PERSON
+491,london,GPE,,,GPE
+491,dublinborn,NORP,,,NORP
+491,england,GPE,,,GPE
+491,marylebone,GPE,,,GPE
+491,procktor,PERSON,,,PERSON
+491,the second world war,EVENT,,,EVENT
+491,procktor,PERSON,,,PERSON
+491,the whitechapel gallery,FAC,,,FAC
+491,jonathan miller,PERSON,,,PERSON
+491,snowdon,PERSON,LOC,,LOC
+491,whitechapel,ORG,,,ORG
+491,be hockney,PERSON,NULL,,NULL
+491,procktor,PERSON,,,PERSON
+491,procktor,PERSON,,,PERSON
+491,ossie clark,PERSON,,,PERSON
+491,cecil beaton,PERSON,,,PERSON
+491,celia birtwell,PERSON,,,PERSON
+491,peter schlesinger,PERSON,,,PERSON
+491,procktor,PERSON,,,PERSON
+491,marylebone,GPE,,,GPE
+491,jill bennett,PERSON,,,PERSON
+491,joe orton,PERSON,,,PERSON
+491,celia birtwell,PERSON,,,PERSON
+491,eastern,NORP,,,NORP
+491,giacometti,PERSON,,,PERSON
+491,europe,LOC,GPE,,GPE
+491,hockney,PERSON,,,PERSON
+491,hockney,PERSON,,,PERSON
+491,peter schlesinger,PERSON,,,PERSON
+491,hockney,PERSON,,,PERSON
+491,procktor,PERSON,,,PERSON
+491,procktor,PERSON,,,PERSON
+491,gervase griffith,PERSON,,,PERSON
+491,procktor,PERSON,,,PERSON
+491,india,GPE,,,GPE
+491,peter langan,PERSON,,,PERSON
+491,mayfair,GPE,,,GPE
+491,langan,PERSON,,,PERSON
+491,celebrate,PERSON,NULL,,NULL
+491,procktor,PERSON,,,PERSON
+491,hockney,PERSON,,,PERSON
+491,langan,ORG,PERSON,,PERSON
+491,langan,PERSON,,,PERSON
+491,procktor,PERSON,,,PERSON
+491,venicetheme,LOC,NULL,,NULL
+491,procktor,PERSON,,,PERSON
+491,venice,PERSON,GPE,,GPE
+491,hockney,PERSON,,,PERSON
+491,procktor,PERSON,,,PERSON
+491,hockney,PERSON,,,PERSON
+491,america,GPE,,,GPE
+491,european,NORP,,,NORP
+491,american,NORP,,,NORP
+491,new york,GPE,,,GPE
+491,procktor,PERSON,,,PERSON
+491,procktor,PERSON,,,PERSON
+491,kirsten benson,PERSON,,,PERSON
+491,marylebone restaurant,FAC,,,FAC
+491,odin,GPE,NULL,,NULL
+491,procktor,PERSON,,,PERSON
+491,kirsten,PERSON,,,PERSON
+491,nichola,PERSON,,,PERSON
+491,bear,PERSON,NULL,,NULL
+491,kirsten,PERSON,,,PERSON
+491,christopher gibbs,PERSON,,,PERSON
+491,kirsten,PERSON,,,PERSON
+491,kirsten,PERSON,,,PERSON
+491,procktor,PERSON,,,PERSON
+491,procktor,PERSON,,,PERSON
+491,margaret,PERSON,,,PERSON
+491,a fag hag,PERSON,NULL,,NULL
+491,james kirkman,PERSON,,,PERSON
+491,patrick,PERSON,,,PERSON
+491,london,GPE,,,GPE
+491,patrick procktor stage,ORG,,,ORG
+491,procktor,PERSON,,,PERSON
+491,francis bacon,PERSON,,,PERSON
+491,procktor,PERSON,,,PERSON
+491,derek jarman,PERSON,,,PERSON
+491,keith milow,PERSON,,,PERSON
+491,george melly,PERSON,,,PERSON
+491,soho,GPE,,,GPE
+491,uk,GPE,,,GPE
+491,italy,GPE,,,GPE
+491,procktor,PERSON,,,PERSON
+491,shade,PERSON,,,PERSON
+491,third redfern,PERSON,NULL,,NULL
+491,england,GPE,,,GPE
+491,wale,PERSON,NULL,,NULL
+491,procktor,PERSON,,,PERSON
+491,the royal court theatre,ORG,,,ORG
+491,joe orton,PERSON,,,PERSON
+491,stag,PERSON,NULL,,NULL
+491,the national portrait gallery,ORG,,,ORG
+491,orton,PERSON,,,PERSON
+491,procktor,PERSON,,,PERSON
+491,gloucestershire,GPE,,,GPE
+491,swansong,NORP,PRODUCT,,PRODUCT
+491,london,GPE,,,GPE
+491,procktor,PERSON,,,PERSON
+491,uk,GPE,,,GPE
+491,italy,GPE,,,GPE
+491,peter doig kaye,PERSON,,,PERSON
+491,alessandro raho,PERSON,,,PERSON
+491,erdem,PERSON,,,PERSON
+491,jonathan anderson,PERSON,,,PERSON
+491,the dandy art twin,ORG,,,ORG
+491,patrick procktor,PERSON,,,PERSON
+491,ian massey,PERSON,,,PERSON
+491,the redfern gallery,ORG,,,ORG
+491,london,GPE,,,GPE
+491,patrick procktor,PERSON,,,PERSON
+491,david hockney,PERSON,,,PERSON
+491,lee miller,PERSON,,,PERSON
+491,tate britain,PERSON,FAC,,FAC
+491,nazi,NORP,,,NORP
+491,lee miller,PERSON,,,PERSON
+491,stanley donwood,PERSON,,,PERSON
+491,london uk,GPE,,,GPE
+492,manderley,GPE,,,GPE
+492,rebecca voir,PERSON,NULL,,NULL
+495,amy,PERSON,,,PERSON
+495,scot,GPE,NULL,,NULL
+495,scotland,GPE,,,GPE
+496,sydney,GPE,,,GPE
+496,rob,PERSON,,,PERSON
+496,the brisbane broncos,ORG,,,ORG
+496,grand final,EVENT,,,EVENT
+498,sky q,ORG,NULL,,NULL
+498,uk home tv,ORG,NULL,,NULL
+499,goncalve,PERSON,,,PERSON
+499,nichola,PERSON,,,PERSON
+499,rafael cabral,PERSON,,,PERSON
+499,stajduhar,PERSON,,,PERSON
