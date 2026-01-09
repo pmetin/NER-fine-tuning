@@ -12,7 +12,7 @@ A certain number of tags included in the pipeline were excluded from the data fo
 
 The annotations were then corrected by 4 annotators, and exported in a .csv file to be used as data to fine-tune the model.
 
-*Please note that much of the code used here is either inspired by or directly taken from Ms. Delphine Bernhard's Machine Learning course given at the Université de Strasbourg.*
+**Please note that much of the code used here is either inspired by or directly taken from Ms. Delphine Bernhard's Machine Learning course given at the Université de Strasbourg.**
 <br></br>
 
 # Details
